@@ -1,1 +1,8 @@
-
+{
+  "/dizi/chosen-home/": {
+    "group": "CHOSEN HOME",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  }
+}
