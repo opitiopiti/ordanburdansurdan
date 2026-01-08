@@ -1,0 +1,1448 @@
+{
+  "/tsuihousha-shokudou-e-youkoso": {
+    "group": "TSUIHOUSHA SHOKUDOU E YOUKOSO!",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/fermat-no-ryouri": {
+    "group": "FERMAT NO RYOURI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/my-melody--kuromi": {
+    "group": "MY MELODY & KUROMI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/dragon-raja-ii--the-mourners-eyes-": {
+    "group": "DRAGON RAJA II -THE MOURNER'S EYES-",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/new-panty--stocking-with-garterbelt": {
+    "group": "NEW PANTY & STOCKING WITH GARTERBELT",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/tsuyokute-new-saga": {
+    "group": "TSUYOKUTE NEW SAGA",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/mikadono-sanshimai-wa-angai-choroi": {
+    "group": "MIKADONO SANSHIMAI WA ANGAI, CHOROI.",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season": {
+    "group": "TENSEI SHITARA DAINANA OUJI DATTA NODE, KIMAMA NI MAJUTSU WO KIWAMEMASU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season": {
+    "group": "JIDOU HANBAIKI NI UMAREKAWATTA ORE WA MEIKYUU WO SAMAYOU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/tate-no-yuusha-no-nariagari-season-4": {
+    "group": "TATE NO YUUSHA NO NARIAGARI SEASON 4",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha": {
+    "group": "CLEVATESS: MAJUU NO OU TO AKAGO TO SHIKABANE NO YUUSHA",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/mattaku-saikin-no-tantei-to-kitara": {
+    "group": "MATTAKU SAIKIN NO TANTEI TO KITARA",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kakkou-no-iinazuke-season-2": {
+    "group": "KAKKOU NO IINAZUKE SEASON 2",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kanojo-okarishimasu-4th-season": {
+    "group": "KANOJO, OKARISHIMASU 4TH SEASON",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta": {
+    "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?)",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kijin-gentoushou": {
+    "group": "KIJIN GENTOUSHOU",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/dandadan-2nd-season": {
+    "group": "DANDADAN 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/dr-stone-science-future-part-2": {
+    "group": "DR. STONE: SCIENCE FUTURE PART 2",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/futari-solo-camp": {
+    "group": "FUTARI SOLO CAMP",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/mizu-zokusei-no-mahoutsukai": {
+    "group": "MIZU ZOKUSEI NO MAHOUTSUKAI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/koujo-denka-no-kateikyoushi": {
+    "group": "KOUJO DENKA NO KATEIKYOUSHI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kizu-darake-seijo-yori-houfuku-wo-komete": {
+    "group": "KIZU DARAKE SEIJO YORI HOUFUKU WO KOMETE",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru": {
+    "group": "ZUTABORO REIJOU WA ANE NO MOTO KONYAKUSHA NI DEKIAI SARERU",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/silent-witch-chinmoku-no-majo-no-kakushigoto": {
+    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/takopii-no-genzai": {
+    "group": "TAKOPII NO GENZAI",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/arknights-rise-from-ember": {
+    "group": "ARKNIGHTS: RISE FROM EMBER",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/watari-kun-no-xx-ga-houkai-sunzen": {
+    "group": "WATARI-KUN NO XX GA HOUKAI SUNZEN",
+    "last_season": 1,
+    "last_episode": 25.0,
+    "start_episode": 1
+  },
+  "/yofukashi-no-uta-2nd-season": {
+    "group": "YOFUKASHI NO UTA 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/tougen-anki": {
+    "group": "TOUGEN ANKI",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/turkey": {
+    "group": "TURKEY!",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/shin-samurai-den-yaiba": {
+    "group": "SHIN SAMURAI-DEN YAIBA",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/bad-girl": {
+    "group": "BAD GIRL",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/ame-to-kimi-to": {
+    "group": "AME TO KIMI TO",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/hikaru-ga-shinda-natsu": {
+    "group": "HIKARU GA SHINDA NATSU",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": {
+    "group": "SEISHUN BUTA YAROU WA SANTA CLAUS NO YUME WO MINAI",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/kaoru-hana-wa-rin-to-saku": {
+    "group": "KAORU HANA WA RIN TO SAKU",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/lord-of-mysteries": {
+    "group": "LORD OF MYSTERIES",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/sono-bisque-doll-wa-koi-wo-suru-season-2": {
+    "group": "SONO BISQUE DOLL WA KOI WO SURU SEASON 2",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/anne-shirley": {
+    "group": "ANNE SHIRLEY",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/kaijuu-8-gou-2nd-season": {
+    "group": "KAIJUU 8-GOU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/nmeneko": {
+    "group": "NMENEKO",
+    "last_season": 1,
+    "last_episode": 21.0,
+    "start_episode": 1
+  },
+  "/kizetsu-yuusha-to-ansatsu-hime": {
+    "group": "KIZETSU YUUSHA TO ANSATSU HIME",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/puniru-wa-kawaii-slime-2nd-season": {
+    "group": "PUNIRU WA KAWAII SLIME 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/busu-ni-hanataba-wo": {
+    "group": "BUSU NI HANATABA WO.",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/summer-pockets": {
+    "group": "SUMMER POCKETS",
+    "last_season": 1,
+    "last_episode": 26.0,
+    "start_episode": 1
+  },
+  "/witch-watch": {
+    "group": "WITCH WATCH",
+    "last_season": 1,
+    "last_episode": 25.0,
+    "start_episode": 1
+  },
+  "/jigoku-sensei-nube-2025": {
+    "group": "JIGOKU SENSEI NUBE (2025)",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/to-be-hero-x": {
+    "group": "TO BE HERO X",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/jibaku-shounen-hanako-kun-2-part-2": {
+    "group": "JIBAKU SHOUNEN HANAKO-KUN 2 PART 2",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/hotel-inhumans": {
+    "group": "HOTEL INHUMANS",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/one-piece": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1155.0,
+    "start_episode": 1130
+  },
+  "/nyaight-of-the-living-cat": {
+    "group": "NYAIGHT OF THE LIVING CAT",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/gachiakuta": {
+    "group": "GACHIAKUTA",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/city-the-animation": {
+    "group": "CITY THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/busamen-gachi-fighter": {
+    "group": "BUSAMEN GACHI FIGHTER",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku": {
+    "group": "ISEKAI MOKUSHIROKU MYNOGHRA: HAMETSU NO BUNMEI DE HAJIMERU SEKAI SEIFUKU",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/ruri-no-houseki": {
+    "group": "RURI NO HOUSEKI",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/grand-blue-season-2": {
+    "group": "GRAND BLUE SEASON 2",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/koupen-chan": {
+    "group": "KOUPEN-CHAN",
+    "last_season": 1,
+    "last_episode": 21.0,
+    "start_episode": 1
+  },
+  "/city-hunter-movie-tenshi-no-namida": {
+    "group": "CITY HUNTER MOVIE: TENSHI NO NAMIDA",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/inuyasha": {
+    "group": "INUYASHA",
+    "last_season": 1,
+    "last_episode": 100.0,
+    "start_episode": 1
+  },
+  "/onmyou-kaiten-rebirth": {
+    "group": "ONMYOU KAITEN RE:BIRTH",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/jitsu-wa-ore-saikyou-deshita": {
+    "group": "JITSU WA ORE, SAIKYOU DESHITA?",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/jibi-eopseo": {
+    "group": "JIBI EOPSEO",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/tondemo-skill-de-isekai-hourou-meshi": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/game-center-shoujo-to-ibunka-kouryuu": {
+    "group": "GAME CENTER SHOUJO TO IBUNKA KOURYUU",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru": {
+    "group": "SAIKYOU TANK NO MEIKYUU KOURYAKU: TAIRYOKU 9999 NO RARE SKILL-MOCHI TANK, YUUSHA PARTY WO TSUIHOU SARERU",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/food-court-de-mata-ashita": {
+    "group": "FOOD COURT DE, MATA ASHITA.",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/sakamoto-days-part-2": {
+    "group": "SAKAMOTO DAYS PART 2",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/kui-cheng-shoufu-cong-youxi-kaishi": {
+    "group": "KUI CHENG SHOUFU CONG YOUXI KAISHI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/yuzuki-san-chi-no-yonkyoudai": {
+    "group": "YUZUKI-SAN CHI NO YONKYOUDAI.",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/sasaki-to-pii-chan": {
+    "group": "SASAKI TO PII-CHAN",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/dungeons--television": {
+    "group": "DUNGEONS & TELEVISION",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/nintama-rantarou-movie-dokutake-ninja-tai-saikyou-no-gunshi": {
+    "group": "NINTAMA RANTAROU MOVIE: DOKUTAKE NINJA TAI SAIKYOU NO GUNSHI",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/mononoke-movie-dai-2-shou---hinezumi": {
+    "group": "MONONOKE MOVIE: DAI-2 SHOU - HINEZUMI",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/azur-lane-queens-orders": {
+    "group": "AZUR LANE: QUEEN'S ORDERS",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/muchuu-sa-kimi-ni": {
+    "group": "MUCHUU SA, KIMI NI.",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/bulletbullet": {
+    "group": "BULLET/BULLET",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru": {
+    "group": "YUUSHA PARTY WO TSUIHOU SARETA SHIROMADOUSHI, S-RANK BOUKENSHA NI HIROWARERU: KONO SHIROMADOUSHI GA KIKAKUGAI SUGIRU",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/uma-musume-cinderella-gray": {
+    "group": "UMA MUSUME: CINDERELLA GRAY",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/jujutsu-kaisen-3rd-season": {
+    "group": "JUJUTSU KAISEN 3RD SEASON",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/sugar-apple-fairy-tale": {
+    "group": "SUGAR APPLE FAIRY TALE",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/mahoutsukai-reimeiki": {
+    "group": "MAHOUTSUKAI REIMEIKI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/chuan-shu-zijiu-zhinan": {
+    "group": "CHUAN SHU ZIJIU ZHINAN",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/kanojo-okarishimasu-3rd-season": {
+    "group": "KANOJO, OKARISHIMASU 3RD SEASON",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/chainsaw-man-recap": {
+    "group": "CHAINSAW MAN RECAP",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/nukitashi-the-animation": {
+    "group": "NUKITASHI THE ANIMATION",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/shiroi-suna-no-aquatope": {
+    "group": "SHIROI SUNA NO AQUATOPE",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/zuoshou-shanglan": {
+    "group": "ZUOSHOU SHANGLAN",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/silent-witch-chinmoku-no-majo-no-kakushigoto---sennyuu-kiroku": {
+    "group": "SILENT WITCH: CHINMOKU NO MAJO NO KAKUSHIGOTO - SENNYUU KIROKU",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/dekin-no-mogura": {
+    "group": "DEKIN NO MOGURA",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kamitsubaki-shi-kensetsuchuu": {
+    "group": "KAMITSUBAKI-SHI KENSETSUCHUU.",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/kimetsu-no-yaiba-movie-mugen-jou-hen": {
+    "group": "KIMETSU NO YAIBA MOVIE: MUGEN JOU-HEN",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/seiken-gakuin-no-makentsukai": {
+    "group": "SEIKEN GAKUIN NO MAKENTSUKAI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/the-lord-of-the-rings-the-war-of-the-rohirrim": {
+    "group": "THE LORD OF THE RINGS: THE WAR OF THE ROHIRRIM",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/rilakkuma-to-kaoru-san": {
+    "group": "RILAKKUMA TO KAORU-SAN",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/necronomico-no-cosmic-horror-show": {
+    "group": "NECRONOMICO NO COSMIC HORROR SHOW",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/karaoke-iko": {
+    "group": "KARAOKE IKO!",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/zuoshou-shanglan-2nd-season": {
+    "group": "ZUOSHOU SHANGLAN 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/gyakuten-saiban-sono-shinjitsu-igi-ari": {
+    "group": "GYAKUTEN SAIBAN: SONO \"SHINJITSU\", IGI ARI!",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/jinkiextend-sorekara": {
+    "group": "JINKI:EXTEND - SOREKARA",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/jinkiextend": {
+    "group": "JINKI:EXTEND",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga": {
+    "group": "MUSHOKU NO EIYUU: BETSU NI SKILL NANKA IRANAKATTA N DA GA",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/urusei-yatsura": {
+    "group": "URUSEI YATSURA",
+    "last_season": 1,
+    "last_episode": 70.0,
+    "start_episode": 1
+  },
+  "/towa-no-yuugure-episode-0": {
+    "group": "TOWA NO YUUGURE EPISODE 0",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/catseye": {
+    "group": "CAT'S♥EYE",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/lupin-iii-vs-cats-eye": {
+    "group": "LUPIN III VS. CAT'S EYE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/yasei-no-last-boss-ga-arawareta": {
+    "group": "YASEI NO LAST BOSS GA ARAWARETA!",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/mofa-gongzhu-de-xiao-fannao": {
+    "group": "MOFA GONGZHU DE XIAO FANNAO",
+    "last_season": 1,
+    "last_episode": 16.0,
+    "start_episode": 1
+  },
+  "/sozai-saishuka-no-isekai-ryokouki": {
+    "group": "SOZAI SAISHUKA NO ISEKAI RYOKOUKI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/jigokuraku-2nd-season": {
+    "group": "JIGOKURAKU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/yano-kun-no-futsuu-no-hibi": {
+    "group": "YANO-KUN NO FUTSUU NO HIBI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kakuriyo-no-yadomeshi-ni": {
+    "group": "KAKURIYO NO YADOMESHI NI",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/lets-play-quest-darake-no-my-life": {
+    "group": "LET'S PLAY: QUEST-DARAKE NO MY LIFE",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/luo-xiaohei-zhanji": {
+    "group": "LUO XIAOHEI ZHANJI",
+    "last_season": 1,
+    "last_episode": 8.5,
+    "start_episode": 1
+  },
+  "/potion-wagami-wo-tasukeru": {
+    "group": "POTION, WAGAMI WO TASUKERU",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/akujiki-reijou-to-kyouketsu-koushaku": {
+    "group": "AKUJIKI REIJOU TO KYOUKETSU KOUSHAKU",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/towa-no-yuugure": {
+    "group": "TOWA NO YUUGURE",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/taiyou-yori-mo-mabushii-hoshi": {
+    "group": "TAIYOU YORI MO MABUSHII HOSHI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/bukiyou-na-senpai": {
+    "group": "BUKIYOU NA SENPAI.",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/watashi-wo-tabetai-hitodenashi": {
+    "group": "WATASHI WO TABETAI, HITODENASHI",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka": {
+    "group": "SAIGO NI HITOTSU DAKE ONEGAI SHITEMO YOROSHII DESHOU KA",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/sanda": {
+    "group": "SANDA",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu--zamaa-shimasu": {
+    "group": "SHINJITEITA NAKAMA-TACHI NI DUNGEON OKUCHI DE KOROSAREKAKETA GA GIFT \"MUGEN GACHA\" DE LEVEL 9999 NO NAKAMA-TACHI WO TE NI IRETE MOTO PARTY MEMBER TO SEKAI NI FUKUSHUU & \"ZAMAA!\" SHIMASU!",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kekkon-yubiwa-monogatari-ii": {
+    "group": "KEKKON YUBIWA MONOGATARI II",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/boku-no-hero-academia-final-season": {
+    "group": "BOKU NO HERO ACADEMIA: FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/fumetsu-no-anata-e-season-3": {
+    "group": "FUMETSU NO ANATA E SEASON 3",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/ranma--2024-2nd-season": {
+    "group": "RANMA ½ (2024) 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun": {
+    "group": "KAO NI DENAI KASHIWADA-SAN TO KAO NI DERU OOTA-KUN",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/spy-x-family-season-3": {
+    "group": "SPY X FAMILY SEASON 3",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/tomodachi-no-imouto-ga-ore-ni-dake-uzai": {
+    "group": "TOMODACHI NO IMOUTO GA ORE NI DAKE UZAI",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu": {
+    "group": "MIKATA GA YOWASUGITE HOJO MAHOU NI TESSHITEITA KYUUTEI MAHOUSHI, TSUIHOU SARETE SAIKYOU WO MEZASHIMASU",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/si-vis-the-sound-of-heroes": {
+    "group": "SI-VIS: THE SOUND OF HEROES",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/nageki-no-bourei-wa-intai-shitai-part-2": {
+    "group": "NAGEKI NO BOUREI WA INTAI SHITAI PART 2",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/uma-musume-cinderella-gray-part-2": {
+    "group": "UMA MUSUME: CINDERELLA GRAY PART 2",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/kikaijikake-no-marie": {
+    "group": "KIKAIJIKAKE NO MARIE",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kingdom-6th-season": {
+    "group": "KINGDOM 6TH SEASON",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/one-punch-man-3": {
+    "group": "ONE PUNCH MAN 3",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/digimon-beatbreak": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha": {
+    "group": "CHICHI WA EIYUU, HAHA WA SEIREI, MUSUME NO WATASHI WA TENSEISHA.",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/sawaranaide-kotesashi-kun": {
+    "group": "SAWARANAIDE KOTESASHI-KUN",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/alma-chan-wa-kazoku-ni-naritai": {
+    "group": "ALMA-CHAN WA KAZOKU NI NARITAI",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/shuumatsu-touring": {
+    "group": "SHUUMATSU TOURING",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga": {
+    "group": "ANSATSUSHA DE ARU ORE NO STATUS GA YUUSHA YORI MO AKIRAKA NI TSUYOI NO DA GA",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/chitose-kun-wa-ramune-bin-no-naka": {
+    "group": "CHITOSE-KUN WA RAMUNE BIN NO NAKA",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/ninja-to-gokudou": {
+    "group": "NINJA TO GOKUDOU",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/tondemo-skill-de-isekai-hourou-meshi-2": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/tensei-akujo-no-kuro-rekishi": {
+    "group": "TENSEI AKUJO NO KURO REKISHI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/wandance": {
+    "group": "WANDANCE",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/ao-no-orchestra-season-2": {
+    "group": "AO NO ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/shabake": {
+    "group": "SHABAKE",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/3-nen-z-gumi-ginpachi-sensei": {
+    "group": "3-NEN Z-GUMI GINPACHI-SENSEI",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/ganglion": {
+    "group": "GANGLION",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/heika-watashi-wo-wasurete-kudasai": {
+    "group": "HEIKA WATASHI WO WASURETE KUDASAI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/egao-no-taenai-shokuba-desu": {
+    "group": "EGAO NO TAENAI SHOKUBA DESU.",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/debu-to-love-to-ayamachi-to": {
+    "group": "DEBU TO LOVE TO AYAMACHI TO!",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
+    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/gnosia": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/chanto-suenai-kyuuketsuki-chan": {
+    "group": "CHANTO SUENAI KYUUKETSUKI-CHAN",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/isekai-quartet-3": {
+    "group": "ISEKAI QUARTET 3",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
+  "/mousou-dairinin-paranoia-agent": {
+    "group": "MOUSOU DAIRININ (PARANOIA AGENT)",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/sakamoto-desu-ga": {
+    "group": "SAKAMOTO DESU GA?",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kimi-to-koete-koi-ni-naru": {
+    "group": "KIMI TO KOETE KOI NI NARU",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/kanan-sama-wa-akumade-choroi": {
+    "group": "KANAN-SAMA WA AKUMADE CHOROI",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/shin-cutie-honey": {
+    "group": "SHIN CUTIE HONEY",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/megaton-kyuu-musashi": {
+    "group": "MEGATON-KYUU MUSASHI",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/golgo-13-tv": {
+    "group": "GOLGO 13 (TV)",
+    "last_season": 1,
+    "last_episode": 40.0,
+    "start_episode": 1
+  },
+  "/a-girl": {
+    "group": "A-GIRL",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/mermaids-scar": {
+    "group": "MERMAID`S SCAR",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/hackgu-trilogy": {
+    "group": ".HACK//G.U. TRILOGY",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/hackgu-returner": {
+    "group": ".HACK//G.U. RETURNER",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/hackintermezzo": {
+    "group": ".HACK//INTERMEZZO",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/mf-ghost": {
+    "group": "MF GHOST",
+    "last_season": 1,
+    "last_episode": 7.0,
+    "start_episode": 1
+  },
+  "/hackroots": {
+    "group": ".HACK//ROOTS",
+    "last_season": 1,
+    "last_episode": 26.0,
+    "start_episode": 1
+  },
+  "/009-recyborg": {
+    "group": "009 RE:CYBORG",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/hackunison": {
+    "group": ".HACK//UNISON",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/hacktasogare-no-udewa-densetsu": {
+    "group": ".HACK//TASOGARE NO UDEWA DENSETSU",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/disney-twisted-wonderland-the-animation-episode-of-heartslabyul": {
+    "group": "DISNEY TWISTED-WONDERLAND THE ANIMATION: EPISODE OF HEARTSLABYUL",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/star-wars-visions-volume-3": {
+    "group": "STAR WARS: VISIONS VOLUME 3",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/master-keaton-blood-and-bullets": {
+    "group": "MASTER KEATON: BLOOD AND BULLETS",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/fujimoto-tatsuki-17-26": {
+    "group": "FUJIMOTO TATSUKI 17-26",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/honkai-star-rail-featured-videos": {
+    "group": "HONKAI: STAR RAIL FEATURED VIDEOS",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/make-a-girl": {
+    "group": "MAKE A GIRL",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/mairimashita-iruma-kun-3rd-season": {
+    "group": "MAIRIMASHITA! IRUMA-KUN 3RD SEASON",
+    "last_season": 1,
+    "last_episode": 21.0,
+    "start_episode": 1
+  },
+  "/fuuto-tantei-movie-kamen-rider-skull-no-shouzou": {
+    "group": "FUUTO TANTEI MOVIE: KAMEN RIDER SKULL NO SHOUZOU",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/stand-by-me-doraemon-2": {
+    "group": "STAND BY ME DORAEMON 2",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/stand-by-me-doraemon": {
+    "group": "STAND BY ME DORAEMON",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/project-sekai-movie-kowareta-sekai-to-utaenai-miku": {
+    "group": "PROJECT SEKAI MOVIE: KOWARETA SEKAI TO UTAENAI MIKU",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/sennen-joyuu": {
+    "group": "SENNEN JOYUU",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/sousou-no-frieren-2nd-season": {
+    "group": "SOUSOU NO FRIEREN 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/ascendance-of-a-bookworm": {
+    "group": "ASCENDANCE OF A BOOKWORM",
+    "last_season": 1,
+    "last_episode": 14.5,
+    "start_episode": 1
+  },
+  "/chuukan-kanriroku-tonegawa": {
+    "group": "CHUUKAN KANRIROKU TONEGAWA",
+    "last_season": 1,
+    "last_episode": 24.0,
+    "start_episode": 1
+  },
+  "/hanebado": {
+    "group": "HANEBADO!",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
+  "/dead-dead-demons-dededede-destruction": {
+    "group": "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION",
+    "last_season": 1,
+    "last_episode": 14.0,
+    "start_episode": 1
+  },
+  "/the-animatrix": {
+    "group": "THE ANIMATRIX",
+    "last_season": 1,
+    "last_episode": 9.0,
+    "start_episode": 1
+  },
+  "/enen-no-shouboutai-san-no-shou-part-2": {
+    "group": "ENEN NO SHOUBOUTAI: SAN NO SHOU PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/ugoku-neko-mukashibanashi": {
+    "group": "UGOKU! NEKO MUKASHIBANASHI",
+    "last_season": 1,
+    "last_episode": 8.0,
+    "start_episode": 1
+  },
+  "/kyochuu-rettou": {
+    "group": "KYOCHUU RETTOU",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/cengjing-you-yongshi": {
+    "group": "CENGJING YOU YONGSHI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/chainsaw-man-movie-reze-hen": {
+    "group": "CHAINSAW MAN MOVIE: REZE-HEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/soredemo-sekai-wa-utsukushii": {
+    "group": "SOREDEMO SEKAI WA UTSUKUSHII",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/shuumatsu-no-walkure-iii": {
+    "group": "SHUUMATSU NO WALKÜRE III",
+    "last_season": 1,
+    "last_episode": 15.0,
+    "start_episode": 1
+  },
+  "/xian-wang-de-richang-shenghuo-5": {
+    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/enter-the-garden": {
+    "group": "ENTER THE GARDEN",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/nukitashi-the-animation-specials": {
+    "group": "NUKITASHI THE ANIMATION SPECIALS",
+    "last_season": 1,
+    "last_episode": 4.0,
+    "start_episode": 1
+  },
+  "/ao-no-miburo-serizawa-ansatsu-hen": {
+    "group": "AO NO MIBURO: SERIZAWA ANSATSU-HEN",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/black-clover-2nd-season": {
+    "group": "BLACK CLOVER 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/undead-unluck-winter-hen": {
+    "group": "UNDEAD UNLUCK: WINTER-HEN",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2": {
+    "group": "ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU. 2",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/hifuu-katsudou-kiroku-the-sealed-esoteric-history": {
+    "group": "HIFUU KATSUDOU KIROKU: THE SEALED ESOTERIC HISTORY",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/gensou-mangekyou-the-memories-of-phantasm": {
+    "group": "GENSOU MANGEKYOU: THE MEMORIES OF PHANTASM",
+    "last_season": 1,
+    "last_episode": 19.0,
+    "start_episode": 1
+  },
+  "/touhou-niji-sousaku-doujin-anime-musou-kakyou": {
+    "group": "TOUHOU NIJI SOUSAKU DOUJIN ANIME: MUSOU KAKYOU",
+    "last_season": 1,
+    "last_episode": 4.0,
+    "start_episode": 1
+  },
+  "/oshiete-galko-chan-natsuyasumi-tte-hontou-desu-ka": {
+    "group": "OSHIETE! GALKO-CHAN: NATSUYASUMI TTE HONTOU DESU KA?",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/oshiete-galko-chan": {
+    "group": "OSHIETE! GALKO-CHAN",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/hyakuemu": {
+    "group": "HYAKUEMU.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/yuusha-party-wo-oidasareta-kiyoubinbou": {
+    "group": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan": {
+    "group": "KAGUYA-SAMA WA KOKURASETAI: OTONA E NO KAIDAN",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/tamon-kun-ima-docchi": {
+    "group": "TAMON-KUN IMA DOCCHI!?",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta-2026": {
+    "group": "WATASHI GA KOIBITO NI NARERU WAKE NAI JAN, MURI MURI! (※MURI JA NAKATTA!?) (2026)",
+    "last_season": 1,
+    "last_episode": 5.0,
+    "start_episode": 1
+  },
+  "/yi-ren-zhi-xia-6": {
+    "group": "YI REN ZHI XIA 6",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/mf-ghost-3rd-season": {
+    "group": "MF GHOST 3RD SEASON",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/koi-wa-futago-de-warikirenai": {
+    "group": "KOI WA FUTAGO DE WARIKIRENAI",
+    "last_season": 1,
+    "last_episode": 12.0,
+    "start_episode": 1
+  },
+  "/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku": {
+    "group": "YUUSHA-KEI NI SHOSU: CHOUBATSU YUUSHA 9004-TAI KEIMU KIROKU",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/majutsushi-kunon-wa-mieteiru": {
+    "group": "MAJUTSUSHI KUNON WA MIETEIRU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/ikoku-nikki": {
+    "group": "IKOKU NIKKI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru": {
+    "group": "KIZOKU TENSEI: MEGUMARETA UMARE KARA SAIKYOU NO CHIKARA WO ERU",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/hanazakari-no-kimitachi-e": {
+    "group": "HANAZAKARI NO KIMITACHI E",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/kirei-ni-shitemoraemasu-ka": {
+    "group": "KIREI NI SHITEMORAEMASU KA.",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/osananajimi-to-wa-love-comedy-ni-naranai": {
+    "group": "OSANANAJIMI TO WA LOVE COMEDY NI NARANAI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/vigilante-boku-no-hero-academia-illegals-2nd-season": {
+    "group": "VIGILANTE: BOKU NO HERO ACADEMIA ILLEGALS 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/arne-no-jikenbo": {
+    "group": "ARNE NO JIKENBO",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/mayonaka-heart-tune": {
+    "group": "MAYONAKA HEART TUNE",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/yoroi-shin-den-samurai-troopers": {
+    "group": "YOROI SHIN DEN SAMURAI TROOPERS",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/darwin-jihen": {
+    "group": "DARWIN JIHEN",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita": {
+    "group": "YUUSHA PARTY NI KAWAII KO GA ITA NODE, KOKUHAKU SHITEMITA.",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/maou-no-musume-wa-yasashisugiru": {
+    "group": "MAOU NO MUSUME WA YASASHISUGIRU!!",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/boukyaku-battery-tv": {
+    "group": "BOUKYAKU BATTERY (TV)",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/odayaka-kizoku-no-kyuuka-no-susume": {
+    "group": "ODAYAKA KIZOKU NO KYUUKA NO SUSUME.",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/shibou-yuugi-de-meshi-wo-kuu": {
+    "group": "SHIBOU YUUGI DE MESHI WO KUU.",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/okiraku-ryoushu-no-tanoshii-ryouchi-bouei-seisankei-majutsu-de-na-mo-naki-mura-wo-saikyou-no-jousai-toshi-ni": {
+    "group": "OKIRAKU RYOUSHU NO TANOSHII RYOUCHI BOUEI: SEISANKEI MAJUTSU DE NA MO NAKI MURA WO SAIKYOU NO JOUSAI TOSHI NI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/29-sai-dokushin-chuuken-boukensha-no-nichijou": {
+    "group": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  }
+}
