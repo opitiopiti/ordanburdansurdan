@@ -52,5 +52,23 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/cat-s-eye": {
+    "group": "Cat’s Eye",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/girl-taken": {
+    "group": "Girl Taken",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/patience": {
+    "group": "Patience",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

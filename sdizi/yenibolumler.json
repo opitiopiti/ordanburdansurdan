@@ -2,13 +2,13 @@
   "/diziler/his-hers.html": {
     "group": "HIS & HERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/alf.html": {
     "group": "ALF",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/percy-jackson-and-the-olympians.html": {
@@ -32,7 +32,7 @@
   "/diziler/surely-tomorrow.html": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/elsbeth.html": {
@@ -50,13 +50,13 @@
   "/diziler/run-away.html": {
     "group": "RUN AWAY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/cats-eye.html": {
     "group": "CAT'S EYE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/stranger-things.html": {
@@ -68,7 +68,7 @@
   "/diziler/nice-to-not-meet-you.html": {
     "group": "NICE TO NOT MEET YOU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   }
 }
