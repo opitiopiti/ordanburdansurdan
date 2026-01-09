@@ -142,5 +142,35 @@
     "last_season": 1,
     "last_episode": 9,
     "start_episode": 1
+  },
+  "/anime/fire-force-season-3-part-2/": {
+    "group": "FIRE FORCE SEASON 3 PART 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/scum-of-the-brave/": {
+    "group": "SCUM OF THE BRAVE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/a-misanthrope-teaches-a-class-for-demi-humans/": {
+    "group": "A MISANTHROPE TEACHES A CLASS FOR DEMI-HUMANS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/dead-account/": {
+    "group": "DEAD ACCOUNT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/does-it-count-if-you-lose-your-innocence-to-an-android-uncensored/": {
+    "group": "DOES IT COUNT IF YOU LOSE YOUR INNOCENCE TO AN ANDROID? (UNCENSORED)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

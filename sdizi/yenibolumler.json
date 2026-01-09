@@ -1,4 +1,10 @@
 {
+  "/diziler/pokemon-horizons.html": {
+    "group": "POKEMON HORIZONS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/cats-eye.html": {
     "group": "CAT'S EYE",
     "last_season": 1,
@@ -62,12 +68,6 @@
   "/diziler/run-away.html": {
     "group": "RUN AWAY",
     "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/stranger-things.html": {
-    "group": "STRANGER THINGS",
-    "last_season": 5,
     "last_episode": 8,
     "start_episode": 1
   }
