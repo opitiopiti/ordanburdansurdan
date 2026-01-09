@@ -1,4 +1,13 @@
 {
+  "/dizi/feride-hdfc/": {
+    "group": "FERIDE"
+  },
+  "/dizi/heaven-2025-dizi-hdfc/": {
+    "group": "HEAVEN"
+  },
+  "/dizi/a-thousand-blows/": {
+    "group": "A THOUSAND BLOWS"
+  },
   "/dizi/his-hers-hdfc/": {
     "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
   },
@@ -32,15 +41,6 @@
   "/dizi/surely-tomorrow/": {
     "group": "ELBET YARIN"
   },
-  "/dizi/power-book-iv-force-86/": {
-    "group": "POWER BOOK IV: FORCE"
-  },
-  "/dizi/land-of-sin/": {
-    "group": "GÜNAH - SYNDEN"
-  },
-  "/dizi/heaven-2025-dizi-hdfc/": {
-    "group": "HEAVEN"
-  },
   "/dizi/his-hers-2026-hdfc/": {
     "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
   },
@@ -49,6 +49,9 @@
   },
   "/dizi/dispatches-from-elsewhere/": {
     "group": "DISPATCHES FROM ELSEWHERE"
+  },
+  "/dizi/land-of-sin/": {
+    "group": "GÜNAH - SYNDEN"
   },
   "/dizi/run-away-2026/": {
     "group": "RUN AWAY"
