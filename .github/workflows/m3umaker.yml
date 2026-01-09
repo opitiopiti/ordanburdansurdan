@@ -210,7 +210,6 @@ jobs:
           set +e
       
           echo "🔄 Batch 1 başlıyor (HDFilmSite & Anizm & AnimeNoSub & SetFilmİzle & Diziyo)"
-          ( python private_py/series/hdfilmsite/yenibolumler.py || true ) &
           ( python private_py/anime/anizm/yenibolumler.py || true ) &
           ( python private_py/anime/ingilizce/animenosub/yenibolumler.py || true ) &
           wait
