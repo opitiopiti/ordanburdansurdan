@@ -2165,7 +2165,9 @@
     {"name": "MEMBERS ONLY PALM BEACH", "year": "2025"},
     {"name": "UNLOCKED A JAIL EXPERIMENT", "year": "2024"},
     {"name": "HIS HERS", "year": "2026"},
-    {"name": "NE YAPTIGINI BILIYORUM", "year": "2026"}
+    {"name": "NE YAPTIGINI BILIYORUM", "year": "2026"},
+    {"name": "SEVGILIM BIR KORELI", "year": "2026"},
+    {"name": "RIPPLE", "year": "2025"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "DEXTER: RESURRECTION", "year": "2025"},
@@ -3833,7 +3835,8 @@
     {"name": "ANGELA DINIZ MURDERED AND CONVICTED", "year": "2025"},
     {"name": "THE SEDUCTION MERTEUIL", "year": "2025"},
     {"name": "ITS FLORIDA MAN", "year": "2024"},
-    {"name": "HAHA YOU CLOWNS", "year": "2025"}
+    {"name": "HAHA YOU CLOWNS", "year": "2025"},
+    {"name": "THE PITT", "year": "2025"}
   ],
   "TELETAMA DİZİLERİ": [
     {"name": "STEINS;GATE", "year": "2011"},
@@ -4022,7 +4025,8 @@
     {"name": "MARVELS MODOK", "year": "2021"},
     {"name": "ALIENOID RETURN TO THE FUTURE", "year": "2024"},
     {"name": "BOBS BURGERS", "year": "2011"},
-    {"name": "SHORESY", "year": "2022"}
+    {"name": "SHORESY", "year": "2022"},
+    {"name": "BEST MEDICINE", "year": "2026"}
   ],
   "MAX DİZİLERİ": [
     {"name": "ADVENTURE TIME: FIONNA & CAKE", "year": "2023"},
@@ -5503,7 +5507,8 @@
     {"name": "SHERIFF COUNTRY", "year": "2025"},
     {"name": "BOSTON BLUE", "year": "2025"},
     {"name": "THE CHICKEN SISTERS", "year": "2024"},
-    {"name": "STUMBLE", "year": "2025"}
+    {"name": "STUMBLE", "year": "2025"},
+    {"name": "JUICE", "year": "1992"}
   ],
   "BBC ONE DİZİLERİ": [
     {"name": "BBC LIFE (2009)", "year": "2009"},
@@ -6637,7 +6642,12 @@
     {"name": "BUYUK KUCUK TUM HAYVANLAR", "year": "2020"},
     {"name": "TWELVE DATES TIL CHRISTMAS", "year": "2025"},
     {"name": "SUNNY NIGHTS", "year": "2025"},
-    {"name": "YUZDE IKI", "year": "2025"}
+    {"name": "YUZDE IKI", "year": "2025"},
+    {"name": "KALP CAGRISI", "year": "2014"},
+    {"name": "SAINTPIERRE", "year": "2025"},
+    {"name": "BAYAN SCARLET VE DUK", "year": "2020"},
+    {"name": "DE BIG FUCKUP", "year": "2025"},
+    {"name": "DEAR LIFE", "year": "2026"}
   ],
   "AMAZON VIDEO DİZİLERİ": [
     {"name": "JASMINE", "year": "2015"},
