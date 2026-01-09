@@ -4026,7 +4026,8 @@
     {"name": "ALIENOID RETURN TO THE FUTURE", "year": "2024"},
     {"name": "BOBS BURGERS", "year": "2011"},
     {"name": "SHORESY", "year": "2022"},
-    {"name": "BEST MEDICINE", "year": "2026"}
+    {"name": "BEST MEDICINE", "year": "2026"},
+    {"name": "GIRL TAKEN", "year": "2025"}
   ],
   "MAX DİZİLERİ": [
     {"name": "ADVENTURE TIME: FIONNA & CAKE", "year": "2023"},
@@ -6657,7 +6658,8 @@
     {"name": "DEAR LIFE", "year": "None"},
     {"name": "BRILLIANT MINDS", "year": "None"},
     {"name": "BEST MEDICINE", "year": "None"},
-    {"name": "WILL TRENT", "year": "None"}
+    {"name": "WILL TRENT", "year": "None"},
+    {"name": "ALLEGIANCE", "year": "2024"}
   ],
   "AMAZON VIDEO DİZİLERİ": [
     {"name": "JASMINE", "year": "2015"},
@@ -6681,5 +6683,11 @@
   ],
   "FANDANGO AT HOME DİZİLERİ": [
 
+  ],
+  "YOUTUBE TV DİZİLERİ": [
+
+  ],
+  "TUBI TV DİZİLERİ": [
+    {"name": "HEAVEN", "year": "1987"}
   ]
 }
