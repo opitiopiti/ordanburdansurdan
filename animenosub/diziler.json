@@ -124,5 +124,23 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/anime/hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing/": {
+    "group": "HELL MODE: THE HARDCORE GAMER DOMINATES IN ANOTHER WORLD WITH GARBAGE BALANCING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/dark-moon-the-blood-altar/": {
+    "group": "DARK MOON: THE BLOOD ALTAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/cats-eye/": {
+    "group": "CAT’S EYE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

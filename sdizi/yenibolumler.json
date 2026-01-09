@@ -1,4 +1,10 @@
 {
+  "/diziler/jujutsu-kaisen.html": {
+    "group": "JUJUTSU KAISEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/his-hers.html": {
     "group": "HIS & HERS",
     "last_season": 1,
@@ -63,12 +69,6 @@
     "group": "STRANGER THINGS",
     "last_season": 5,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/nice-to-not-meet-you.html": {
-    "group": "NICE TO NOT MEET YOU",
-    "last_season": 1,
-    "last_episode": 16,
     "start_episode": 1
   }
 }

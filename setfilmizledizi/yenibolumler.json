@@ -1,4 +1,10 @@
 {
+  "/dizi/halef/": {
+    "group": "HALEF",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/tehran/": {
     "group": "TEHRAN",
     "last_season": 3,

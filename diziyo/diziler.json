@@ -1444,5 +1444,41 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/patience": {
+    "group": "PATIENCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-hunting-party": {
+    "group": "THE HUNTING PARTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/girl-taken": {
+    "group": "GIRL TAKEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/allegiance-2024": {
+    "group": "ALLEGIANCE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/a-thousand-blows": {
+    "group": "A THOUSAND BLOWS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/niebo": {
+    "group": "HEAVEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

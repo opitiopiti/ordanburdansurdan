@@ -1,4 +1,22 @@
 {
+  "/yi-ren-zhi-xia-6": {
+    "group": "YI REN ZHI XIA 6",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/goumon-baito-kun-no-nichijou": {
+    "group": "GOUMON BAITO-KUN NO NICHIJOU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/catseye": {
+    "group": "CAT'S♥EYE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/champignon-no-majo": {
     "group": "CHAMPIGNON NO MAJO",
     "last_season": 1,
@@ -73,24 +91,6 @@
   },
   "/shibou-yuugi-de-meshi-wo-kuu": {
     "group": "SHIBOU YUUGI DE MESHI WO KUU.",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/boukyaku-battery-tv": {
-    "group": "BOUKYAKU BATTERY (TV)",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/arne-no-jikenbo": {
-    "group": "ARNE NO JIKENBO",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/mayonaka-heart-tune": {
-    "group": "MAYONAKA HEART TUNE",
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
