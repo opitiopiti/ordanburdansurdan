@@ -1488,8 +1488,29 @@
   <programme start="20260109141500 +0000" stop="20260109145400 +0000" channel="TABII TV">
     <title>KOYU BEYAZ</title>
   </programme>
-  <programme start="20260109145400 +0000" stop="20260110160000 +0000" channel="TABII TV">
+  <programme start="20260109145400 +0000" stop="20260109153600 +0000" channel="TABII TV">
     <title>ŞAŞIFELEK ÇIKMAZI</title>
+  </programme>
+  <programme start="20260109153600 +0000" stop="20260109161600 +0000" channel="TABII TV">
+    <title>BIZIMKILER</title>
+  </programme>
+  <programme start="20260109161600 +0000" stop="20260109165600 +0000" channel="TABII TV">
+    <title>KOYU BEYAZ</title>
+  </programme>
+  <programme start="20260109165600 +0000" stop="20260109180300 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
+  </programme>
+  <programme start="20260109180300 +0000" stop="20260109192800 +0000" channel="TABII TV">
+    <title>AVRUPA AVRUPA</title>
+  </programme>
+  <programme start="20260109192800 +0000" stop="20260109200600 +0000" channel="TABII TV">
+    <title>ŞAŞIFELEK ÇIKMAZI</title>
+  </programme>
+  <programme start="20260109200600 +0000" stop="20260109204700 +0000" channel="TABII TV">
+    <title>ŞAŞIFELEK ÇIKMAZI</title>
+  </programme>
+  <programme start="20260109204700 +0000" stop="20260109214900 +0000" channel="TABII TV">
+    <title>YEŞIL DENIZ MILENYUM</title>
   </programme>
   <programme start="20260108210000 +0000" stop="20260108224500 +0000" channel="4K TR: S NEMA YERL HD">
     <title>ACI AŞK</title>
@@ -6318,40 +6339,40 @@
   <programme start="20260109193000 +0000" stop="20260109210000 +0000" channel="TURKHABER">
     <title>YAKIN GÜNDEM</title>
   </programme>
-  <programme start="20260108220000 +0000" stop="20260108231500 +0000" channel="4K TR: CNN T RK HD">
+  <programme start="20260108220000 +0000" stop="20260108230000 +0000" channel="4K TR: CNN T RK HD">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20260108220000 +0000" stop="20260108231500 +0000" channel="CNN T RK HD+ SD">
+  <programme start="20260108220000 +0000" stop="20260108230000 +0000" channel="CNN T RK HD+ SD">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20260108220000 +0000" stop="20260108231500 +0000" channel="CNN T RK HEVC">
+  <programme start="20260108220000 +0000" stop="20260108230000 +0000" channel="CNN T RK HEVC">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20260108220000 +0000" stop="20260108231500 +0000" channel="CNN T RK RAW">
+  <programme start="20260108220000 +0000" stop="20260108230000 +0000" channel="CNN T RK RAW">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20260108220000 +0000" stop="20260108231500 +0000" channel="CNN TURK">
+  <programme start="20260108220000 +0000" stop="20260108230000 +0000" channel="CNN TURK">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20260108220000 +0000" stop="20260108231500 +0000" channel="CNN TURK HD">
+  <programme start="20260108220000 +0000" stop="20260108230000 +0000" channel="CNN TURK HD">
     <title>GECE HABERLERI</title>
   </programme>
-  <programme start="20260108231500 +0000" stop="20260109030000 +0000" channel="4K TR: CNN T RK HD">
+  <programme start="20260108230000 +0000" stop="20260109030000 +0000" channel="4K TR: CNN T RK HD">
     <title>GECE GÖRÜŞÜ</title>
   </programme>
-  <programme start="20260108231500 +0000" stop="20260109030000 +0000" channel="CNN T RK HD+ SD">
+  <programme start="20260108230000 +0000" stop="20260109030000 +0000" channel="CNN T RK HD+ SD">
     <title>GECE GÖRÜŞÜ</title>
   </programme>
-  <programme start="20260108231500 +0000" stop="20260109030000 +0000" channel="CNN T RK HEVC">
+  <programme start="20260108230000 +0000" stop="20260109030000 +0000" channel="CNN T RK HEVC">
     <title>GECE GÖRÜŞÜ</title>
   </programme>
-  <programme start="20260108231500 +0000" stop="20260109030000 +0000" channel="CNN T RK RAW">
+  <programme start="20260108230000 +0000" stop="20260109030000 +0000" channel="CNN T RK RAW">
     <title>GECE GÖRÜŞÜ</title>
   </programme>
-  <programme start="20260108231500 +0000" stop="20260109030000 +0000" channel="CNN TURK">
+  <programme start="20260108230000 +0000" stop="20260109030000 +0000" channel="CNN TURK">
     <title>GECE GÖRÜŞÜ</title>
   </programme>
-  <programme start="20260108231500 +0000" stop="20260109030000 +0000" channel="CNN TURK HD">
+  <programme start="20260108230000 +0000" stop="20260109030000 +0000" channel="CNN TURK HD">
     <title>GECE GÖRÜŞÜ</title>
   </programme>
   <programme start="20260109030000 +0000" stop="20260109040000 +0000" channel="4K TR: CNN T RK HD">
@@ -13486,19 +13507,19 @@
     <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
   <programme start="20260109142500 +0000" stop="20260109173000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>YAŞAR DOĞU, VEHBI EMRE VE HAMIT KAPLAN ULUSLARARASI GÜREŞ TURNUVASI</title>
+    <title>GÜREŞ TURNUVASI</title>
   </programme>
   <programme start="20260109142500 +0000" stop="20260109173000 +0000" channel="TRT SPOR YILDIZ">
-    <title>YAŞAR DOĞU, VEHBI EMRE VE HAMIT KAPLAN ULUSLARARASI GÜREŞ TURNUVASI</title>
+    <title>GÜREŞ TURNUVASI</title>
   </programme>
   <programme start="20260109142500 +0000" stop="20260109173000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>YAŞAR DOĞU, VEHBI EMRE VE HAMIT KAPLAN ULUSLARARASI GÜREŞ TURNUVASI</title>
+    <title>GÜREŞ TURNUVASI</title>
   </programme>
   <programme start="20260109142500 +0000" stop="20260109173000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>YAŞAR DOĞU, VEHBI EMRE VE HAMIT KAPLAN ULUSLARARASI GÜREŞ TURNUVASI</title>
+    <title>GÜREŞ TURNUVASI</title>
   </programme>
   <programme start="20260109142500 +0000" stop="20260109173000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>YAŞAR DOĞU, VEHBI EMRE VE HAMIT KAPLAN ULUSLARARASI GÜREŞ TURNUVASI</title>
+    <title>GÜREŞ TURNUVASI</title>
   </programme>
   <programme start="20260109173000 +0000" stop="20260109175500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>TENIS DÜNYASI</title>
@@ -16015,7 +16036,7 @@
     <title>ANLATILMAMIŞ KUTUP SAVAŞLARI</title>
   </programme>
   <programme start="20260109150000 +0000" stop="20260109160000 +0000" channel="TARIH TV">
-    <title>SHAKESPEARE: RISE OF A GENIUS</title>
+    <title>SHAKESPEARE: BIR DEHANIN YÜKSELIŞI</title>
   </programme>
   <programme start="20260109160000 +0000" stop="20260109173500 +0000" channel="TARIH TV">
     <title>POMPEII: ÖLÜMDEN ÖNCEKI HAYAT</title>
@@ -16027,10 +16048,10 @@
     <title>OSMANLI HÜKÜMDARLARI</title>
   </programme>
   <programme start="20260109191500 +0000" stop="20260109201500 +0000" channel="TARIH TV">
-    <title>LOST PYRAMIDS OF THE AZTECS</title>
+    <title>AZTEKLERIN KAYIP PIRAMITLERI</title>
   </programme>
   <programme start="20260109201500 +0000" stop="20260109211000 +0000" channel="TARIH TV">
-    <title>TITANS OF THE 20TH CENTURY</title>
+    <title>20. YÜZYILIN TITANLARI</title>
   </programme>
   <programme start="20260108214000 +0000" stop="20260108222500 +0000" channel="VIASAT EXPLORE">
     <title>KERESTE USTALARI</title>
@@ -24963,22 +24984,13 @@
   <programme start="20260109004000 +0000" stop="20260109005500 +0000" channel="CARTOON NETWORK HD">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20260109005500 +0000" stop="20260109010500 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20260109005500 +0000" stop="20260109012000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20260109005500 +0000" stop="20260109010500 +0000" channel="CARTOON NETWORK">
+  <programme start="20260109005500 +0000" stop="20260109012000 +0000" channel="CARTOON NETWORK">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20260109005500 +0000" stop="20260109010500 +0000" channel="CARTOON NETWORK HD">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20260109010500 +0000" stop="20260109012000 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20260109010500 +0000" stop="20260109012000 +0000" channel="CARTOON NETWORK">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20260109010500 +0000" stop="20260109012000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20260109005500 +0000" stop="20260109012000 +0000" channel="CARTOON NETWORK HD">
     <title>KRAL ŞAKIR</title>
   </programme>
   <programme start="20260109012000 +0000" stop="20260109013000 +0000" channel="4K TR: CARTOON NETWORK">
@@ -24999,22 +25011,13 @@
   <programme start="20260109013000 +0000" stop="20260109014500 +0000" channel="CARTOON NETWORK HD">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20260109014500 +0000" stop="20260109015500 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20260109014500 +0000" stop="20260109021000 +0000" channel="4K TR: CARTOON NETWORK">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20260109014500 +0000" stop="20260109015500 +0000" channel="CARTOON NETWORK">
+  <programme start="20260109014500 +0000" stop="20260109021000 +0000" channel="CARTOON NETWORK">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20260109014500 +0000" stop="20260109015500 +0000" channel="CARTOON NETWORK HD">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20260109015500 +0000" stop="20260109021000 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20260109015500 +0000" stop="20260109021000 +0000" channel="CARTOON NETWORK">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20260109015500 +0000" stop="20260109021000 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20260109014500 +0000" stop="20260109021000 +0000" channel="CARTOON NETWORK HD">
     <title>KRAL ŞAKIR</title>
   </programme>
   <programme start="20260109021000 +0000" stop="20260109022000 +0000" channel="4K TR: CARTOON NETWORK">
