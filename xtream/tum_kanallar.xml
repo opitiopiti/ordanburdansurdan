@@ -14281,22 +14281,31 @@
     <title>İTALYA SERIE A</title>
   </programme>
   <programme start="20260110170000 +0000" stop="20260110190000 +0000" channel="SARAN SPORT 2">
-    <title>ATALANTA - TORINO</title>
+    <title>ROMA - SASSUOLO</title>
   </programme>
   <programme start="20260110170000 +0000" stop="20260110190000 +0000" channel="S SPORT 2">
-    <title>ATALANTA - TORINO</title>
+    <title>ROMA - SASSUOLO</title>
   </programme>
   <programme start="20260110170000 +0000" stop="20260110190000 +0000" channel="4K TR: S SPORT 2">
+    <title>ROMA - SASSUOLO</title>
+  </programme>
+  <programme start="20260110190000 +0000" stop="20260110194500 +0000" channel="SARAN SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20260110190000 +0000" stop="20260110194500 +0000" channel="S SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20260110190000 +0000" stop="20260110194500 +0000" channel="4K TR: S SPORT 2">
+    <title>İTALYA SERIE A</title>
+  </programme>
+  <programme start="20260110194500 +0000" stop="20260110214500 +0000" channel="SARAN SPORT 2">
     <title>ATALANTA - TORINO</title>
   </programme>
-  <programme start="20260110190000 +0000" stop="20260110214500 +0000" channel="SARAN SPORT 2">
-    <title>İTALYA SERIE A</title>
+  <programme start="20260110194500 +0000" stop="20260110214500 +0000" channel="S SPORT 2">
+    <title>ATALANTA - TORINO</title>
   </programme>
-  <programme start="20260110190000 +0000" stop="20260110214500 +0000" channel="S SPORT 2">
-    <title>İTALYA SERIE A</title>
-  </programme>
-  <programme start="20260110190000 +0000" stop="20260110214500 +0000" channel="4K TR: S SPORT 2">
-    <title>İTALYA SERIE A</title>
+  <programme start="20260110194500 +0000" stop="20260110214500 +0000" channel="4K TR: S SPORT 2">
+    <title>ATALANTA - TORINO</title>
   </programme>
   <programme start="20260109210000 +0000" stop="20260109230000 +0000" channel="EUROSPORT 1">
     <title>SNOOKER SHOUT OUT</title>
