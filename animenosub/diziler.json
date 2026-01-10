@@ -178,5 +178,35 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/anime/fate-strange-fake/": {
+    "group": "FATE/STRANGE FAKE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/to-your-eternity-season-3/": {
+    "group": "TO YOUR ETERNITY SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/tojima-wants-to-be-a-kamen-rider/": {
+    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/trigun-stargaze/": {
+    "group": "TRIGUN STARGAZE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/gnosia/": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

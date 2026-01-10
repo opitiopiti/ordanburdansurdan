@@ -1,4 +1,46 @@
 {
+  "/anime/fate-strange-fake/": {
+    "group": "FATE/STRANGE FAKE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/to-your-eternity-season-3/": {
+    "group": "TO YOUR ETERNITY SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/a-misanthrope-teaches-a-class-for-demi-humans/": {
+    "group": "A MISANTHROPE TEACHES A CLASS FOR DEMI-HUMANS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/tojima-wants-to-be-a-kamen-rider/": {
+    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/trigun-stargaze/": {
+    "group": "TRIGUN STARGAZE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/dead-account/": {
+    "group": "DEAD ACCOUNT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/gnosia/": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/blue-miburo-season-2/": {
     "group": "BLUE MIBURO SEASON 2",
     "last_season": 1,
@@ -13,18 +55,6 @@
   },
   "/anime/scum-of-the-brave/": {
     "group": "SCUM OF THE BRAVE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/a-misanthrope-teaches-a-class-for-demi-humans/": {
-    "group": "A MISANTHROPE TEACHES A CLASS FOR DEMI-HUMANS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/dead-account/": {
-    "group": "DEAD ACCOUNT",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
@@ -87,36 +117,6 @@
     "group": "ALL YOU NEED IS KILL",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/the-invisible-man-and-his-soon-to-be-wife/": {
-    "group": "THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/the-holy-grail-of-eris/": {
-    "group": "THE HOLY GRAIL OF ERIS",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/mf-ghost-season-3/": {
-    "group": "MF GHOST SEASON 3",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/blue-orchestra-season-2/": {
-    "group": "BLUE ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/hell-teacher-jigoku-sensei-nube-part-2/": {
-    "group": "HELL TEACHER: JIGOKU SENSEI NUBE PART 2",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

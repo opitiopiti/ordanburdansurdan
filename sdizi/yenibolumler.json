@@ -1,4 +1,22 @@
 {
+  "/diziler/fate-strange-fake.html": {
+    "group": "FATE/STRANGE FAKE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/to-your-eternity.html": {
+    "group": "TO YOUR ETERNITY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/surely-tomorrow.html": {
+    "group": "SURELY TOMORROW",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/diziler/sentenced-to-be-a-hero.html": {
     "group": "SENTENCED TO BE A HERO",
     "last_season": 1,
@@ -57,24 +75,6 @@
     "group": "TRACKER",
     "last_season": 3,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/surely-tomorrow.html": {
-    "group": "SURELY TOMORROW",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/diziler/elsbeth.html": {
-    "group": "ELSBETH",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/ghosts.html": {
-    "group": "GHOSTS",
-    "last_season": 5,
-    "last_episode": 7,
     "start_episode": 1
   }
 }
