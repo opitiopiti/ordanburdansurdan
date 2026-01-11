@@ -1,4 +1,10 @@
 {
+  "/dizi/the-night-manager/": {
+    "group": "THE NIGHT MANAGER",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/dizi/the-rookie/": {
     "group": "THE ROOKIE",
     "last_season": 8,

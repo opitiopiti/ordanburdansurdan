@@ -1,4 +1,7 @@
 {
+  "/dizi/the-night-manager/": {
+    "group": "THE NIGHT MANAGER"
+  },
   "/dizi/feride-hdfc/": {
     "group": "FERIDE"
   },
@@ -43,9 +46,6 @@
   },
   "/dizi/will-trent-1/": {
     "group": "WILL TRENT"
-  },
-  "/dizi/the-rookie-izle-hdf9-a86/": {
-    "group": "THE ROOKIE"
   },
   "/dizi/his-hers-2026-hdfc/": {
     "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
@@ -118,8 +118,5 @@
   },
   "/dizi/elementary/": {
     "group": "ELEMENTARY"
-  },
-  "/dizi/feud-dizisi-2017/": {
-    "group": "FEUD"
   }
 }

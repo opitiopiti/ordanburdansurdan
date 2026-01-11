@@ -1,4 +1,58 @@
 {
+  "/hanazakari-no-kimitachi-e": {
+    "group": "HANAZAKARI NO KIMITACHI E",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/digimon-beatbreak": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/ikoku-nikki": {
+    "group": "IKOKU NIKKI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/uruwashi-no-yoi-no-tsuki": {
+    "group": "URUWASHI NO YOI NO TSUKI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru": {
+    "group": "KIZOKU TENSEI: MEGUMARETA UMARE KARA SAIKYOU NO CHIKARA WO ERU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/seihantai-na-kimi-to-boku": {
+    "group": "SEIHANTAI NA KIMI TO BOKU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/jigokuraku-2nd-season": {
+    "group": "JIGOKURAKU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru": {
+    "group": "AKUYAKU REIJOU WA RINGOKU NO OUTAISHI NI DEKIAI SARERU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/majutsushi-kunon-wa-mieteiru": {
+    "group": "MAJUTSUSHI KUNON WA MIETEIRU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/kaya-chan-wa-kowakunai": {
     "group": "KAYA-CHAN WA KOWAKUNAI",
     "last_season": 1,
@@ -49,60 +103,6 @@
   },
   "/jingai-kyoushitsu-no-ningengirai-kyoushi": {
     "group": "JINGAI KYOUSHITSU NO NINGENGIRAI KYOUSHI",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/ao-no-miburo-serizawa-ansatsu-hen": {
-    "group": "AO NO MIBURO: SERIZAWA ANSATSU-HEN",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/tensei-shitara-dragon-no-tamago-datta": {
-    "group": "TENSEI SHITARA DRAGON NO TAMAGO DATTA",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/gnosia": {
-    "group": "GNOSIA",
-    "last_season": 1,
-    "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/fatestrange-fake": {
-    "group": "FATE/STRANGE FAKE",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/trigun-stargaze": {
-    "group": "TRIGUN STARGAZE",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/isekai-no-sata-wa-shachiku-shidai": {
-    "group": "ISEKAI NO SATA WA SHACHIKU SHIDAI",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru": {
-    "group": "HELL MODE: YARIKOMIZUKI NO GAMER WA HAI SETTEI NO ISEKAI DE MUSOU SURU",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/ganglion": {
-    "group": "GANGLION",
-    "last_season": 1,
-    "last_episode": 13.0,
-    "start_episode": 1
-  },
-  "/android-wa-keiken-ninzuu-ni-hairimasu-ka": {
-    "group": "ANDROID WA KEIKEN NINZUU NI HAIRIMASU KA??",
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
