@@ -32,19 +32,19 @@
   "/anime/scum-of-the-brave/": {
     "group": "SCUM OF THE BRAVE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/gnosia/": {
     "group": "GNOSIA",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/anime/tojima-wants-to-be-a-kamen-rider/": {
     "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/anime/fate-strange-fake/": {
