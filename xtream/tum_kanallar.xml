@@ -32937,8 +32937,8 @@
   <programme start="20260111160000 +0000" stop="20260111173000 +0000" channel="Bi Kanal">
     <title>PANDORA: SON CEPHE</title>
   </programme>
-  <programme start="20260111173000 +0000" stop="20260112000000 +0000" channel="Bi Kanal">
-    <title>LEYLIFER</title>
+  <programme start="20260111173000 +0000" stop="20260111210000 +0000" channel="Bi Kanal">
+    <title>BI KANAL</title>
   </programme>
   <programme start="20260111121000 +0000" stop="20260111140000 +0000" channel="4K TR: MELTEM TV">
     <title>HER ŞEYDEN BIRAZ</title>
@@ -34218,8 +34218,11 @@
   <programme start="20260111173000 +0000" stop="20260111180000 +0000" channel="DIYANET TV">
     <title>HELAL KAZANCIN PEŞINDE</title>
   </programme>
-  <programme start="20260111180000 +0000" stop="20260111190000 +0000" channel="DIYANET TV">
+  <programme start="20260111180000 +0000" stop="20260111183000 +0000" channel="DIYANET TV">
     <title>ARASTA</title>
+  </programme>
+  <programme start="20260111183000 +0000" stop="20260111190000 +0000" channel="DIYANET TV">
+    <title>KALEMIN İZINDE</title>
   </programme>
   <programme start="20260111190000 +0000" stop="20260111193000 +0000" channel="DIYANET TV">
     <title>DILBESTE</title>
@@ -34231,7 +34234,7 @@
     <title>İSLAMI DESENLER</title>
   </programme>
   <programme start="20260111203000 +0000" stop="20260111210000 +0000" channel="DIYANET TV">
-    <title>DİYANET TV</title>
+    <title>AŞR-I ŞERIF</title>
   </programme>
   <programme start="20260110210000 +0000" stop="20260110213000 +0000" channel="SEMERKAND RAW">
     <title>İLIM DERSLERI - TECVID</title>
