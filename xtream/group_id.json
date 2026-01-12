@@ -7266,7 +7266,9 @@
     "8263": "VERMIGLIO(2024) (DUBLAJ & ALTYAZI)",
     "8264": "PANDORA'NIN KUTUSU(2008) (YERLI)",
     "8265": "THE GORGE(2025) (TÜRKÇE DUBLAJ)",
-    "8266": "FREDDY’NIN PIZZA DÜKKANINDA BEŞ GECE 2(2025) (TÜRKÇE DUBLAJ)"
+    "8266": "FREDDY’NIN PIZZA DÜKKANINDA BEŞ GECE 2(2025) (TÜRKÇE DUBLAJ)",
+    "8267": "ELINDEN GELENIN EN İYISI(2025) (DUBLAJ & ALTYAZI)",
+    "8268": "PLAY DEAD(2025) (ALTYAZI)"
   },
   "series": {
     "1000": "İNGİLTERE MEZATÇILARI DMAX TÜRKİYE",
@@ -11908,7 +11910,9 @@
     "5636": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX(2026) İNGİLİZCE ALTYAZI",
     "5637": "ELBET YARIN - SURELY TOMORROW(2025) DUBLAJ & ALTYAZI",
     "5638": "INDUSTRY(2020) TÜRKÇE DUBLAJ",
-    "5639": "INDUSTRY(2020) TÜRKÇE ALTYAZI"
+    "5639": "INDUSTRY(2020) TÜRKÇE ALTYAZI",
+    "5640": "PRIMAL(2019) TÜRKÇE ALTYAZI",
+    "5641": "HAKUGEI DENSETSU(1997) TÜRKÇE ALTYAZI"
   },
   "live": {
     "1000": {
@@ -61362,6 +61366,558 @@
     "13362": {
       "name": "TRACE URBAN",
       "category_id": "3"
+    },
+    "13363": {
+      "name": "A SPOR FHD",
+      "category_id": "18"
+    },
+    "13364": {
+      "name": "4K TR: 24 HD",
+      "category_id": "17"
+    },
+    "13365": {
+      "name": "4K TR: SOZCU TV",
+      "category_id": "17"
+    },
+    "13366": {
+      "name": "4K TR: TGRT HABER HD",
+      "category_id": "17"
+    },
+    "13367": {
+      "name": "4K TR: KANAL 7 HD",
+      "category_id": "16"
+    },
+    "13368": {
+      "name": "4K TR: KANAL D HD",
+      "category_id": "16"
+    },
+    "13369": {
+      "name": "4K TR: SHOW TV HD",
+      "category_id": "16"
+    },
+    "13370": {
+      "name": "4K TR: STAR TV HD",
+      "category_id": "16"
+    },
+    "13371": {
+      "name": "4K TR: TV8 HD",
+      "category_id": "16"
+    },
+    "13372": {
+      "name": "4K TR: TV8.5",
+      "category_id": "16"
+    },
+    "13373": {
+      "name": "4K TR: S SPORT",
+      "category_id": "10"
+    },
+    "13374": {
+      "name": "4K TR: EUROSPORT 1 HD",
+      "category_id": "14"
+    },
+    "13375": {
+      "name": "4K TR: EUROSPORT 2 HD",
+      "category_id": "14"
+    },
+    "13376": {
+      "name": "4K TR: 360 HD",
+      "category_id": "19"
+    },
+    "13377": {
+      "name": "4K TR: A2 HD",
+      "category_id": "19"
+    },
+    "13378": {
+      "name": "4K TR: BEYAZ TV HD",
+      "category_id": "19"
+    },
+    "13379": {
+      "name": "4K TR: CNN T RK HD",
+      "category_id": "19"
+    },
+    "13380": {
+      "name": "4K TR: DMAX HD",
+      "category_id": "19"
+    },
+    "13381": {
+      "name": "4K TR: FLASH TV",
+      "category_id": "19"
+    },
+    "13382": {
+      "name": "4K TR: HABER GLOBAL HD",
+      "category_id": "19"
+    },
+    "13383": {
+      "name": "4K TR: HABERT RK HD",
+      "category_id": "19"
+    },
+    "13384": {
+      "name": "4K TR: KRT TV",
+      "category_id": "19"
+    },
+    "13385": {
+      "name": "4K TR: LOVE NATURE HD",
+      "category_id": "19"
+    },
+    "13386": {
+      "name": "4K TR: NOW HD",
+      "category_id": "19"
+    },
+    "13387": {
+      "name": "4K TR: S NEMA A LE HD",
+      "category_id": "19"
+    },
+    "13388": {
+      "name": "4K TR: S NEMA AKS YON 2 HD",
+      "category_id": "19"
+    },
+    "13389": {
+      "name": "4K TR: S NEMA TV 1001 HD",
+      "category_id": "19"
+    },
+    "13390": {
+      "name": "4K TR: S NEMA TV 2 HD",
+      "category_id": "19"
+    },
+    "13391": {
+      "name": "4K TR: S NEMA TV HD",
+      "category_id": "19"
+    },
+    "13392": {
+      "name": "4K TR: S NEMA YERL 2 HD",
+      "category_id": "19"
+    },
+    "13393": {
+      "name": "4K TR: TRT M Z K",
+      "category_id": "19"
+    },
+    "13394": {
+      "name": "4K TR: TRT OCUK HD",
+      "category_id": "19"
+    },
+    "13395": {
+      "name": "4K TR: TV100",
+      "category_id": "19"
+    },
+    "13396": {
+      "name": "4K TR: VIASAT EXPLORE",
+      "category_id": "19"
+    },
+    "13397": {
+      "name": "FIX CINEMA ACTION",
+      "category_id": "19"
+    },
+    "13398": {
+      "name": "FIX CINEMA BILM KURGU",
+      "category_id": "19"
+    },
+    "13399": {
+      "name": "FIX CINEMA KORKU",
+      "category_id": "19"
+    },
+    "13400": {
+      "name": "FIX CINEMA MACERA",
+      "category_id": "19"
+    },
+    "13401": {
+      "name": "FIX CINEMA NETFLIX",
+      "category_id": "19"
+    },
+    "13402": {
+      "name": "FIX CINEMA YERLI",
+      "category_id": "19"
+    },
+    "13403": {
+      "name": "FIX CINEMA YESILCAM",
+      "category_id": "19"
+    },
+    "13404": {
+      "name": "GLOBAL BOX ACTION",
+      "category_id": "19"
+    },
+    "13405": {
+      "name": "GLOBAL BOX KORKU",
+      "category_id": "19"
+    },
+    "13406": {
+      "name": "GLOBAL BOX VIZYON",
+      "category_id": "19"
+    },
+    "13407": {
+      "name": "GLOBAL BOX YERLI",
+      "category_id": "19"
+    },
+    "13408": {
+      "name": "SMART COCUK",
+      "category_id": "19"
+    },
+    "13409": {
+      "name": "TV 8 HD",
+      "category_id": "19"
+    },
+    "13410": {
+      "name": "BOLLYWOOD",
+      "category_id": "20"
+    },
+    "13411": {
+      "name": "DAZN 3  HD",
+      "category_id": "20"
+    },
+    "13412": {
+      "name": "DAZN 4  HD",
+      "category_id": "20"
+    },
+    "13413": {
+      "name": "DAZN 5  HD",
+      "category_id": "20"
+    },
+    "13414": {
+      "name": "DAZN 6  HD",
+      "category_id": "20"
+    },
+    "13415": {
+      "name": "DB LIGA 5 FHD",
+      "category_id": "20"
+    },
+    "13416": {
+      "name": "DOKUMENTATION",
+      "category_id": "20"
+    },
+    "13417": {
+      "name": "DR RAMASJANG",
+      "category_id": "20"
+    },
+    "13418": {
+      "name": "DYN SPORT 1",
+      "category_id": "20"
+    },
+    "13419": {
+      "name": "FC BAYERN HD",
+      "category_id": "20"
+    },
+    "13420": {
+      "name": "GAME OF THRONES CHANNEL",
+      "category_id": "20"
+    },
+    "13421": {
+      "name": "MAGENTA FUSSBALL 11 HD",
+      "category_id": "20"
+    },
+    "13422": {
+      "name": "MAGENTA FUSSBALL 17 HD",
+      "category_id": "20"
+    },
+    "13423": {
+      "name": "ONE MUSIC",
+      "category_id": "20"
+    },
+    "13424": {
+      "name": "RAKUTEN COMEDY MOVIES",
+      "category_id": "20"
+    },
+    "13425": {
+      "name": "SKY 24",
+      "category_id": "20"
+    },
+    "13426": {
+      "name": "SKY CINEMA BEST OF HD+",
+      "category_id": "20"
+    },
+    "13427": {
+      "name": "SKY CINEMA FAMILY HEVC",
+      "category_id": "20"
+    },
+    "13428": {
+      "name": "SKY CINEMA PREMIEREN +24 HD",
+      "category_id": "20"
+    },
+    "13429": {
+      "name": "SKY NOSTALGIE",
+      "category_id": "20"
+    },
+    "13430": {
+      "name": "SKY POPCORN SELECT 1",
+      "category_id": "20"
+    },
+    "13431": {
+      "name": "SKY PREMIEREN 24 HD",
+      "category_id": "20"
+    },
+    "13432": {
+      "name": "SKY PREMIEREN 24 HD+",
+      "category_id": "20"
+    },
+    "13433": {
+      "name": "SKY SELECT 11 4K",
+      "category_id": "20"
+    },
+    "13434": {
+      "name": "SKY SPORT 1",
+      "category_id": "20"
+    },
+    "13435": {
+      "name": "SKY SPORT F1 HD+",
+      "category_id": "20"
+    },
+    "13436": {
+      "name": "SKY THRILLER HD",
+      "category_id": "20"
+    },
+    "13437": {
+      "name": "WARNER COMEDY RAW",
+      "category_id": "20"
+    },
+    "13438": {
+      "name": "WWE HD",
+      "category_id": "20"
+    },
+    "13439": {
+      "name": "BEIN SPORTS 1 SD",
+      "category_id": "21"
+    },
+    "13440": {
+      "name": "BEIN SPORTS 2 EN FHD",
+      "category_id": "21"
+    },
+    "13441": {
+      "name": "BEIN SPORTS 2 HEVC",
+      "category_id": "21"
+    },
+    "13442": {
+      "name": "BEIN SPORTS 2 HQ",
+      "category_id": "21"
+    },
+    "13443": {
+      "name": "BEIN SPORTS 2 SD",
+      "category_id": "21"
+    },
+    "13444": {
+      "name": "BEIN SPORTS 5 HQ",
+      "category_id": "21"
+    },
+    "13445": {
+      "name": "BEIN SPORTS 6 SD",
+      "category_id": "21"
+    },
+    "13446": {
+      "name": "BEIN SPORTS ENGLISH 2",
+      "category_id": "21"
+    },
+    "13447": {
+      "name": "BEIN SPORTS ENGLISH HD2",
+      "category_id": "21"
+    },
+    "13448": {
+      "name": "BEIN SPORTS ENGLISH HD3",
+      "category_id": "21"
+    },
+    "13449": {
+      "name": "BEIN SPORTS FHD 2",
+      "category_id": "21"
+    },
+    "13450": {
+      "name": "DISNEY JUNIOR HD",
+      "category_id": "21"
+    },
+    "13451": {
+      "name": "NESSMA TNT",
+      "category_id": "21"
+    },
+    "13452": {
+      "name": "NET TV",
+      "category_id": "21"
+    },
+    "13453": {
+      "name": "3 PLUS",
+      "category_id": "22"
+    },
+    "13454": {
+      "name": "ADRIA NET",
+      "category_id": "22"
+    },
+    "13455": {
+      "name": "ALAM  [NOT 24/7]",
+      "category_id": "22"
+    },
+    "13456": {
+      "name": "ART SPORT 1 HD",
+      "category_id": "22"
+    },
+    "13457": {
+      "name": "DARK HIP HOP",
+      "category_id": "22"
+    },
+    "13458": {
+      "name": "KS ISLAM FILM",
+      "category_id": "22"
+    },
+    "13459": {
+      "name": "KS KIDS",
+      "category_id": "22"
+    },
+    "13460": {
+      "name": "VIASAT NATURE",
+      "category_id": "24"
+    },
+    "13461": {
+      "name": "AF: NOLLYWOOD",
+      "category_id": "25"
+    },
+    "13462": {
+      "name": "AMAZON PRIME 7 [LIVE DURING EVENTS ONLY]",
+      "category_id": "25"
+    },
+    "13463": {
+      "name": "AMAZON PRIME 8 HD",
+      "category_id": "25"
+    },
+    "13464": {
+      "name": "BE: ELEVENSPORT 3 HD",
+      "category_id": "25"
+    },
+    "13465": {
+      "name": "BEIN SPORTS MAX 9",
+      "category_id": "25"
+    },
+    "13466": {
+      "name": "C STAR HITS FRANCE",
+      "category_id": "25"
+    },
+    "13467": {
+      "name": "CANAL+ BOX OFFICE",
+      "category_id": "25"
+    },
+    "13468": {
+      "name": "CANAL+ PREMIER LEAGUE",
+      "category_id": "25"
+    },
+    "13469": {
+      "name": "CENTRAL TV",
+      "category_id": "25"
+    },
+    "13470": {
+      "name": "DAZN LIGUE 1 LIVE 2 FHD",
+      "category_id": "25"
+    },
+    "13471": {
+      "name": "DIRECT EQUIPE",
+      "category_id": "25"
+    },
+    "13472": {
+      "name": "EUROSPORT 2 HD",
+      "category_id": "25"
+    },
+    "13473": {
+      "name": "FILMRISE BINGE WATCH FRANCE",
+      "category_id": "25"
+    },
+    "13474": {
+      "name": "MELODY HD",
+      "category_id": "25"
+    },
+    "13475": {
+      "name": "MTV CLUB",
+      "category_id": "25"
+    },
+    "13476": {
+      "name": "OCS GEANTS FHD",
+      "category_id": "25"
+    },
+    "13477": {
+      "name": "OCS GEANTS HD",
+      "category_id": "25"
+    },
+    "13478": {
+      "name": "RMC SPORT 11 [LIVE DURING EVENTS ONLY]",
+      "category_id": "25"
+    },
+    "13479": {
+      "name": "RMC SPORT 4 FHD",
+      "category_id": "25"
+    },
+    "13480": {
+      "name": "RMC SPORT LIVE 14 HD",
+      "category_id": "25"
+    },
+    "13481": {
+      "name": "RMC SPORT NEWS FHD",
+      "category_id": "25"
+    },
+    "13482": {
+      "name": "VIAOCCITANIE",
+      "category_id": "25"
+    },
+    "13483": {
+      "name": "CANAL SPORT 1 HD",
+      "category_id": "27"
+    },
+    "13484": {
+      "name": "ARDEAL TV",
+      "category_id": "29"
+    },
+    "13485": {
+      "name": "EPIC DRAMA HD",
+      "category_id": "29"
+    },
+    "13486": {
+      "name": "365 DENI",
+      "category_id": "30"
+    },
+    "13487": {
+      "name": "MIR 24",
+      "category_id": "30"
+    },
+    "13488": {
+      "name": "РОССИЯ 1 +8",
+      "category_id": "30"
+    },
+    "13489": {
+      "name": "BEIN SPORTS LA LIGA",
+      "category_id": "32"
+    },
+    "13490": {
+      "name": "EUROSPORT 1 HD",
+      "category_id": "32"
+    },
+    "13491": {
+      "name": "EUROSPORT 2 HD",
+      "category_id": "32"
+    },
+    "13492": {
+      "name": "FREE SPORTS HD",
+      "category_id": "32"
+    },
+    "13493": {
+      "name": "SKY SPORT NEWS",
+      "category_id": "32"
+    },
+    "13494": {
+      "name": "SKY SPORTS FOOTBALL HD",
+      "category_id": "32"
+    },
+    "13495": {
+      "name": "SKY SPORTS MAIN EVENT HD",
+      "category_id": "32"
+    },
+    "13496": {
+      "name": "SKY SPORTS MIX HD",
+      "category_id": "32"
+    },
+    "13497": {
+      "name": "13 TV",
+      "category_id": "33"
+    },
+    "13498": {
+      "name": "BEIN SPORTS LA LIGA",
+      "category_id": "33"
+    },
+    "13499": {
+      "name": "TOROS TV",
+      "category_id": "33"
+    },
+    "13500": {
+      "name": "VIAJAR HD",
+      "category_id": "33"
     }
   }
 }
