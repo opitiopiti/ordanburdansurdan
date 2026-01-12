@@ -70323,6 +70323,54 @@
     "15600": {
       "name": "TRT 1 4K",
       "category_id": "2"
+    },
+    "15601": {
+      "name": "TABII SPOR 4 HD",
+      "category_id": "8"
+    },
+    "15602": {
+      "name": "TABII SPOR 6 HD",
+      "category_id": "8"
+    },
+    "15603": {
+      "name": "DAZN 1  HD",
+      "category_id": "20"
+    },
+    "15604": {
+      "name": "DYN SPORT 5",
+      "category_id": "20"
+    },
+    "15605": {
+      "name": "DYN SPORT 6",
+      "category_id": "20"
+    },
+    "15606": {
+      "name": "DYN SPORT 8",
+      "category_id": "20"
+    },
+    "15607": {
+      "name": "SKY SPORT 8 HD",
+      "category_id": "20"
+    },
+    "15608": {
+      "name": "SKY SPORT 9 HD",
+      "category_id": "20"
+    },
+    "15609": {
+      "name": "AUTO MOTO HD",
+      "category_id": "25"
+    },
+    "15610": {
+      "name": "SPORT EN FRANCE",
+      "category_id": "25"
+    },
+    "15611": {
+      "name": "DISNEY JR",
+      "category_id": "29"
+    },
+    "15612": {
+      "name": "СТРАНА FM",
+      "category_id": "30"
     }
   }
 }
