@@ -1,4 +1,16 @@
 {
+  "/diziler/primal.html": {
+    "group": "PRIMAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/alf.html": {
+    "group": "ALF",
+    "last_season": 1,
+    "last_episode": 26,
+    "start_episode": 1
+  },
   "/diziler/dispatches-from-elsewhere.html": {
     "group": "DISPATCHES FROM ELSEWHERE",
     "last_season": 1,
@@ -63,18 +75,6 @@
     "group": "JUJUTSU KAISEN",
     "last_season": 3,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/his-hers.html": {
-    "group": "HIS & HERS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/alf.html": {
-    "group": "ALF",
-    "last_season": 1,
-    "last_episode": 26,
     "start_episode": 1
   }
 }

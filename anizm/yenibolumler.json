@@ -1,4 +1,16 @@
 {
+  "/hakugei-densetsu": {
+    "group": "HAKUGEI DENSETSU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/kui-cheng-shoufu-cong-youxi-kaishi": {
+    "group": "KUI CHENG SHOUFU CONG YOUXI KAISHI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/goumon-baito-kun-no-nichijou": {
     "group": "GOUMON BAITO-KUN NO NICHIJOU",
     "last_season": 1,
@@ -87,24 +99,6 @@
     "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
     "last_season": 1,
     "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/fumetsu-no-anata-e-season-3": {
-    "group": "FUMETSU NO ANATA E SEASON 3",
-    "last_season": 1,
-    "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/yuusha-no-kuzu": {
-    "group": "YUUSHA NO KUZU",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/tondemo-skill-de-isekai-hourou-meshi-2": {
-    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
-    "last_season": 1,
-    "last_episode": 10.0,
     "start_episode": 1
   }
 }

@@ -286,5 +286,11 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/anime/tis-time-for-torture-princess-season-2/": {
+    "group": "‘TIS TIME FOR “TORTURE,” PRINCESS SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

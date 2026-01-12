@@ -1,4 +1,10 @@
 {
+  "/anime/tis-time-for-torture-princess-season-2/": {
+    "group": "‘TIS TIME FOR “TORTURE,” PRINCESS SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/oedo-fire-slayer-the-legend-of-phoenix/": {
     "group": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "TO YOUR ETERNITY SEASON 3",
     "last_season": 1,
     "last_episode": 14,
-    "start_episode": 1
-  },
-  "/anime/a-misanthrope-teaches-a-class-for-demi-humans/": {
-    "group": "A MISANTHROPE TEACHES A CLASS FOR DEMI-HUMANS",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
