@@ -39122,6 +39122,3238 @@
     "7802": {
       "name": "SKY SPORT GOLF",
       "category_id": "33"
+    },
+    "7803": {
+      "name": "TELEKOM BUNDESLIGA 8 [LIVE DURING EVENTS ONLY]",
+      "category_id": "19"
+    },
+    "7804": {
+      "name": "BEIN SPORTS 6 HEVC",
+      "category_id": "20"
+    },
+    "7805": {
+      "name": "KS ACTION",
+      "category_id": "21"
+    },
+    "7806": {
+      "name": "TV2 GOSTIVAR",
+      "category_id": "21"
+    },
+    "7807": {
+      "name": "AB EXPLORE FHD",
+      "category_id": "24"
+    },
+    "7808": {
+      "name": "AMAZON PRIME 8 HD+",
+      "category_id": "24"
+    },
+    "7809": {
+      "name": "CANAL+ PL",
+      "category_id": "24"
+    },
+    "7810": {
+      "name": "DAZN 1 LEAUGE 1",
+      "category_id": "24"
+    },
+    "7811": {
+      "name": "EUROSPORT 360 2",
+      "category_id": "24"
+    },
+    "7812": {
+      "name": "CBS EUROPA HD",
+      "category_id": "26"
+    },
+    "7813": {
+      "name": "4MUSIC",
+      "category_id": "32"
+    },
+    "7814": {
+      "name": "4SEVEN",
+      "category_id": "32"
+    },
+    "7815": {
+      "name": "5 USA",
+      "category_id": "32"
+    },
+    "7816": {
+      "name": "5SELECT",
+      "category_id": "32"
+    },
+    "7817": {
+      "name": "5STAR",
+      "category_id": "32"
+    },
+    "7818": {
+      "name": "5STAR+1",
+      "category_id": "32"
+    },
+    "7819": {
+      "name": "5USA",
+      "category_id": "32"
+    },
+    "7820": {
+      "name": "5USA+1",
+      "category_id": "32"
+    },
+    "7821": {
+      "name": "92 NEWS",
+      "category_id": "32"
+    },
+    "7822": {
+      "name": "ABP NEWS",
+      "category_id": "32"
+    },
+    "7823": {
+      "name": "ABSOLUTE",
+      "category_id": "32"
+    },
+    "7824": {
+      "name": "AHLEBAIT TV",
+      "category_id": "32"
+    },
+    "7825": {
+      "name": "AHLULBAYT TV",
+      "category_id": "32"
+    },
+    "7826": {
+      "name": "AL JAZEERA",
+      "category_id": "32"
+    },
+    "7827": {
+      "name": "AL JAZEERA HD",
+      "category_id": "32"
+    },
+    "7828": {
+      "name": "ALIBI",
+      "category_id": "32"
+    },
+    "7829": {
+      "name": "ALJAZEERA NEWS",
+      "category_id": "32"
+    },
+    "7830": {
+      "name": "AMC",
+      "category_id": "32"
+    },
+    "7831": {
+      "name": "ANIMAL PLANET",
+      "category_id": "32"
+    },
+    "7832": {
+      "name": "ARIRANG TV HD",
+      "category_id": "32"
+    },
+    "7833": {
+      "name": "ARISE NEWS",
+      "category_id": "32"
+    },
+    "7834": {
+      "name": "ARY DIGITAL",
+      "category_id": "32"
+    },
+    "7835": {
+      "name": "ATN",
+      "category_id": "32"
+    },
+    "7836": {
+      "name": "B4U MOVIES",
+      "category_id": "32"
+    },
+    "7837": {
+      "name": "B4U MUSIC",
+      "category_id": "32"
+    },
+    "7838": {
+      "name": "B4U PLUS",
+      "category_id": "32"
+    },
+    "7839": {
+      "name": "BABY TV UK",
+      "category_id": "32"
+    },
+    "7840": {
+      "name": "BBC 3",
+      "category_id": "32"
+    },
+    "7841": {
+      "name": "BBC ALBA",
+      "category_id": "32"
+    },
+    "7842": {
+      "name": "BBC ENTERTAINMENT",
+      "category_id": "32"
+    },
+    "7843": {
+      "name": "BBC FOUR",
+      "category_id": "32"
+    },
+    "7844": {
+      "name": "BBC NEWS",
+      "category_id": "32"
+    },
+    "7845": {
+      "name": "BBC NEWS HD",
+      "category_id": "32"
+    },
+    "7846": {
+      "name": "BBC ONE",
+      "category_id": "32"
+    },
+    "7847": {
+      "name": "BBC ONE CI",
+      "category_id": "32"
+    },
+    "7848": {
+      "name": "BBC ONE E MID",
+      "category_id": "32"
+    },
+    "7849": {
+      "name": "BBC ONE EAST E",
+      "category_id": "32"
+    },
+    "7850": {
+      "name": "BBC ONE EAST W",
+      "category_id": "32"
+    },
+    "7851": {
+      "name": "BBC ONE LONDON",
+      "category_id": "32"
+    },
+    "7852": {
+      "name": "BBC ONE SCOTHD",
+      "category_id": "32"
+    },
+    "7853": {
+      "name": "BBC ONE W MID",
+      "category_id": "32"
+    },
+    "7854": {
+      "name": "BBC ONE WAL HD",
+      "category_id": "32"
+    },
+    "7855": {
+      "name": "BBC ONE WALES",
+      "category_id": "32"
+    },
+    "7856": {
+      "name": "BBC ONE WEST",
+      "category_id": "32"
+    },
+    "7857": {
+      "name": "BBC ONE YK&LI",
+      "category_id": "32"
+    },
+    "7858": {
+      "name": "BBC PARLIAMENT",
+      "category_id": "32"
+    },
+    "7859": {
+      "name": "BBC RB 1",
+      "category_id": "32"
+    },
+    "7860": {
+      "name": "BBC SCOTLAND",
+      "category_id": "32"
+    },
+    "7861": {
+      "name": "BBC THREE",
+      "category_id": "32"
+    },
+    "7862": {
+      "name": "BBC TWO",
+      "category_id": "32"
+    },
+    "7863": {
+      "name": "BBC TWO ENG",
+      "category_id": "32"
+    },
+    "7864": {
+      "name": "BBC TWO NORTHERN IRELAND",
+      "category_id": "32"
+    },
+    "7865": {
+      "name": "BBC TWO WALES",
+      "category_id": "32"
+    },
+    "7866": {
+      "name": "BBC WORLD NEWS",
+      "category_id": "32"
+    },
+    "7867": {
+      "name": "BBCSCOTLANDHD",
+      "category_id": "32"
+    },
+    "7868": {
+      "name": "BFBS RADIO",
+      "category_id": "32"
+    },
+    "7869": {
+      "name": "BLOOMBERG",
+      "category_id": "32"
+    },
+    "7870": {
+      "name": "BOOMERANG",
+      "category_id": "32"
+    },
+    "7871": {
+      "name": "BOX HITS",
+      "category_id": "32"
+    },
+    "7872": {
+      "name": "BOX NATION",
+      "category_id": "32"
+    },
+    "7873": {
+      "name": "BRIT ASIA TV",
+      "category_id": "32"
+    },
+    "7874": {
+      "name": "BT SPORT 1",
+      "category_id": "32"
+    },
+    "7875": {
+      "name": "BT SPORT 1 HD",
+      "category_id": "32"
+    },
+    "7876": {
+      "name": "BT SPORT 2",
+      "category_id": "32"
+    },
+    "7877": {
+      "name": "BT SPORT 2 HD",
+      "category_id": "32"
+    },
+    "7878": {
+      "name": "BT SPORT 3",
+      "category_id": "32"
+    },
+    "7879": {
+      "name": "BT SPORT 3 HD",
+      "category_id": "32"
+    },
+    "7880": {
+      "name": "BT SPORT ESPN",
+      "category_id": "32"
+    },
+    "7881": {
+      "name": "BT SPORT ESPN HD",
+      "category_id": "32"
+    },
+    "7882": {
+      "name": "C4 L",
+      "category_id": "32"
+    },
+    "7883": {
+      "name": "CARTOON NETWORK",
+      "category_id": "32"
+    },
+    "7884": {
+      "name": "CARTOON NETWORK HD",
+      "category_id": "32"
+    },
+    "7885": {
+      "name": "CARTOONITO",
+      "category_id": "32"
+    },
+    "7886": {
+      "name": "CBBC",
+      "category_id": "32"
+    },
+    "7887": {
+      "name": "CBEEBIES",
+      "category_id": "32"
+    },
+    "7888": {
+      "name": "CBEEBIES HD",
+      "category_id": "32"
+    },
+    "7889": {
+      "name": "CBS ACTION",
+      "category_id": "32"
+    },
+    "7890": {
+      "name": "CBS DRAMA",
+      "category_id": "32"
+    },
+    "7891": {
+      "name": "CBS JUSTICE",
+      "category_id": "32"
+    },
+    "7892": {
+      "name": "CBS REALITY",
+      "category_id": "32"
+    },
+    "7893": {
+      "name": "CBS REALITY+1",
+      "category_id": "32"
+    },
+    "7894": {
+      "name": "CELEBRATION TV",
+      "category_id": "32"
+    },
+    "7895": {
+      "name": "CELTIC FC TV -",
+      "category_id": "32"
+    },
+    "7896": {
+      "name": "CHALLENGE",
+      "category_id": "32"
+    },
+    "7897": {
+      "name": "CHANNEL 4",
+      "category_id": "32"
+    },
+    "7898": {
+      "name": "CHANNEL 4 HD",
+      "category_id": "32"
+    },
+    "7899": {
+      "name": "CHANNEL 4+1",
+      "category_id": "32"
+    },
+    "7900": {
+      "name": "CHANNEL 44",
+      "category_id": "32"
+    },
+    "7901": {
+      "name": "CHANNEL 5",
+      "category_id": "32"
+    },
+    "7902": {
+      "name": "CHANNEL 5 HD",
+      "category_id": "32"
+    },
+    "7903": {
+      "name": "CHANNEL 5+1",
+      "category_id": "32"
+    },
+    "7904": {
+      "name": "CHANNEL 7",
+      "category_id": "32"
+    },
+    "7905": {
+      "name": "CHANNELS 24",
+      "category_id": "32"
+    },
+    "7906": {
+      "name": "CHSTV",
+      "category_id": "32"
+    },
+    "7907": {
+      "name": "CITV",
+      "category_id": "32"
+    },
+    "7908": {
+      "name": "CLUBLAND TV",
+      "category_id": "32"
+    },
+    "7909": {
+      "name": "CNBC EUROPE",
+      "category_id": "32"
+    },
+    "7910": {
+      "name": "CNN",
+      "category_id": "32"
+    },
+    "7911": {
+      "name": "COLORS",
+      "category_id": "32"
+    },
+    "7912": {
+      "name": "COLORS EUROPE",
+      "category_id": "32"
+    },
+    "7913": {
+      "name": "COMEDY CENTRAL",
+      "category_id": "32"
+    },
+    "7914": {
+      "name": "COMEDY CENTRAL EXTRA",
+      "category_id": "32"
+    },
+    "7915": {
+      "name": "CRAFT EXTRA",
+      "category_id": "32"
+    },
+    "7916": {
+      "name": "CREATE & CRAFT",
+      "category_id": "32"
+    },
+    "7917": {
+      "name": "DAVE",
+      "category_id": "32"
+    },
+    "7918": {
+      "name": "DAVE JA VU",
+      "category_id": "32"
+    },
+    "7919": {
+      "name": "DEEN TV",
+      "category_id": "32"
+    },
+    "7920": {
+      "name": "DESI RADIO",
+      "category_id": "32"
+    },
+    "7921": {
+      "name": "DISCOVERY HISTORY",
+      "category_id": "32"
+    },
+    "7922": {
+      "name": "DISCOVERY ID",
+      "category_id": "32"
+    },
+    "7923": {
+      "name": "DISCOVERY SCIENCE",
+      "category_id": "32"
+    },
+    "7924": {
+      "name": "DISCOVERY SHED",
+      "category_id": "32"
+    },
+    "7925": {
+      "name": "DISCOVERY TURBO",
+      "category_id": "32"
+    },
+    "7926": {
+      "name": "DISNEY CHANNEL",
+      "category_id": "32"
+    },
+    "7927": {
+      "name": "DISNEY XD",
+      "category_id": "32"
+    },
+    "7928": {
+      "name": "DMAX",
+      "category_id": "32"
+    },
+    "7929": {
+      "name": "DRAMA",
+      "category_id": "32"
+    },
+    "7930": {
+      "name": "DRAMA+1",
+      "category_id": "32"
+    },
+    "7931": {
+      "name": "DUCK TV",
+      "category_id": "32"
+    },
+    "7932": {
+      "name": "DUNAMIS TV",
+      "category_id": "32"
+    },
+    "7933": {
+      "name": "DUNYA NEWS",
+      "category_id": "32"
+    },
+    "7934": {
+      "name": "E!",
+      "category_id": "32"
+    },
+    "7935": {
+      "name": "E4",
+      "category_id": "32"
+    },
+    "7936": {
+      "name": "E4 EXTRA",
+      "category_id": "32"
+    },
+    "7937": {
+      "name": "E4+1",
+      "category_id": "32"
+    },
+    "7938": {
+      "name": "EARTHX TV",
+      "category_id": "32"
+    },
+    "7939": {
+      "name": "EDEN",
+      "category_id": "32"
+    },
+    "7940": {
+      "name": "EIR SPORT 1",
+      "category_id": "32"
+    },
+    "7941": {
+      "name": "EIR SPORT 2",
+      "category_id": "32"
+    },
+    "7942": {
+      "name": "EMAN CHANNEL",
+      "category_id": "32"
+    },
+    "7943": {
+      "name": "ENGLISH CLUB",
+      "category_id": "32"
+    },
+    "7944": {
+      "name": "ETV1",
+      "category_id": "32"
+    },
+    "7945": {
+      "name": "ETV5",
+      "category_id": "32"
+    },
+    "7946": {
+      "name": "EURONEWS",
+      "category_id": "32"
+    },
+    "7947": {
+      "name": "EWTN CATHOLIC",
+      "category_id": "32"
+    },
+    "7948": {
+      "name": "FAITH UK",
+      "category_id": "32"
+    },
+    "7949": {
+      "name": "FC LIVERPOOL TV",
+      "category_id": "32"
+    },
+    "7950": {
+      "name": "FIGHT BOX",
+      "category_id": "32"
+    },
+    "7951": {
+      "name": "FILM 4",
+      "category_id": "32"
+    },
+    "7952": {
+      "name": "FILM4",
+      "category_id": "32"
+    },
+    "7953": {
+      "name": "FIVE",
+      "category_id": "32"
+    },
+    "7954": {
+      "name": "FOOD NETWORK",
+      "category_id": "32"
+    },
+    "7955": {
+      "name": "FOODXP",
+      "category_id": "32"
+    },
+    "7956": {
+      "name": "FOX",
+      "category_id": "32"
+    },
+    "7957": {
+      "name": "FOX NEWS",
+      "category_id": "32"
+    },
+    "7958": {
+      "name": "FRANCE 24",
+      "category_id": "32"
+    },
+    "7959": {
+      "name": "FUEL TV",
+      "category_id": "32"
+    },
+    "7960": {
+      "name": "GB NEWS",
+      "category_id": "32"
+    },
+    "7961": {
+      "name": "GB NEWS HD",
+      "category_id": "32"
+    },
+    "7962": {
+      "name": "GEMS TV",
+      "category_id": "32"
+    },
+    "7963": {
+      "name": "GEO NEWS",
+      "category_id": "32"
+    },
+    "7964": {
+      "name": "GOLD",
+      "category_id": "32"
+    },
+    "7965": {
+      "name": "GOOD FOOD",
+      "category_id": "32"
+    },
+    "7966": {
+      "name": "GOOD NEWS TV",
+      "category_id": "32"
+    },
+    "7967": {
+      "name": "GREAT! ACTION",
+      "category_id": "32"
+    },
+    "7968": {
+      "name": "GREAT! CLASS+1",
+      "category_id": "32"
+    },
+    "7969": {
+      "name": "GREAT! CLASSIC",
+      "category_id": "32"
+    },
+    "7970": {
+      "name": "GREAT! MOVIES",
+      "category_id": "32"
+    },
+    "7971": {
+      "name": "GREAT! MOVIES+1",
+      "category_id": "32"
+    },
+    "7972": {
+      "name": "GREAT! TV",
+      "category_id": "32"
+    },
+    "7973": {
+      "name": "GREAT! TV+1",
+      "category_id": "32"
+    },
+    "7974": {
+      "name": "GREAT!ACTION+1",
+      "category_id": "32"
+    },
+    "7975": {
+      "name": "HGTV",
+      "category_id": "32"
+    },
+    "7976": {
+      "name": "HGTV +1",
+      "category_id": "32"
+    },
+    "7977": {
+      "name": "HGTV+1",
+      "category_id": "32"
+    },
+    "7978": {
+      "name": "HI-IMPACT TV",
+      "category_id": "32"
+    },
+    "7979": {
+      "name": "HIGH STREET TV 2",
+      "category_id": "32"
+    },
+    "7980": {
+      "name": "HIGH STREET TV 3",
+      "category_id": "32"
+    },
+    "7981": {
+      "name": "HIGH STREET TV 4",
+      "category_id": "32"
+    },
+    "7982": {
+      "name": "HILLSONG",
+      "category_id": "32"
+    },
+    "7983": {
+      "name": "HISTORY 2",
+      "category_id": "32"
+    },
+    "7984": {
+      "name": "HISTORY UK",
+      "category_id": "32"
+    },
+    "7985": {
+      "name": "HOBBY MAKER",
+      "category_id": "32"
+    },
+    "7986": {
+      "name": "HORIZON SPORTS",
+      "category_id": "32"
+    },
+    "7987": {
+      "name": "HORROR CH+1",
+      "category_id": "32"
+    },
+    "7988": {
+      "name": "HORROR CHANNEL",
+      "category_id": "32"
+    },
+    "7989": {
+      "name": "HORSE & COUNTRY",
+      "category_id": "32"
+    },
+    "7990": {
+      "name": "HORSE AND COUNTRY",
+      "category_id": "32"
+    },
+    "7991": {
+      "name": "ID CRIME INVESTIGATION",
+      "category_id": "32"
+    },
+    "7992": {
+      "name": "IDEAL EXTRA",
+      "category_id": "32"
+    },
+    "7993": {
+      "name": "INSPIRATION TV",
+      "category_id": "32"
+    },
+    "7994": {
+      "name": "INVESTIGATION DISCOVERY",
+      "category_id": "32"
+    },
+    "7995": {
+      "name": "ION TV",
+      "category_id": "32"
+    },
+    "7996": {
+      "name": "IQRA BANGLA",
+      "category_id": "32"
+    },
+    "7997": {
+      "name": "IQRA TV",
+      "category_id": "32"
+    },
+    "7998": {
+      "name": "ISLAM CHANNEL",
+      "category_id": "32"
+    },
+    "7999": {
+      "name": "ISLAM TV",
+      "category_id": "32"
+    },
+    "8000": {
+      "name": "ITV",
+      "category_id": "32"
+    },
+    "8001": {
+      "name": "ITV +1",
+      "category_id": "32"
+    },
+    "8002": {
+      "name": "ITV 2",
+      "category_id": "32"
+    },
+    "8003": {
+      "name": "ITV 2 +",
+      "category_id": "32"
+    },
+    "8004": {
+      "name": "ITV 3",
+      "category_id": "32"
+    },
+    "8005": {
+      "name": "ITV 3 +",
+      "category_id": "32"
+    },
+    "8006": {
+      "name": "ITV 4",
+      "category_id": "32"
+    },
+    "8007": {
+      "name": "ITV 4 +1",
+      "category_id": "32"
+    },
+    "8008": {
+      "name": "ITV HD",
+      "category_id": "32"
+    },
+    "8009": {
+      "name": "ITV WALES",
+      "category_id": "32"
+    },
+    "8010": {
+      "name": "ITV+1",
+      "category_id": "32"
+    },
+    "8011": {
+      "name": "ITV2",
+      "category_id": "32"
+    },
+    "8012": {
+      "name": "ITV2+1",
+      "category_id": "32"
+    },
+    "8013": {
+      "name": "ITV3",
+      "category_id": "32"
+    },
+    "8014": {
+      "name": "ITV3+1",
+      "category_id": "32"
+    },
+    "8015": {
+      "name": "ITV4",
+      "category_id": "32"
+    },
+    "8016": {
+      "name": "ITV4+1",
+      "category_id": "32"
+    },
+    "8017": {
+      "name": "ITVBE",
+      "category_id": "32"
+    },
+    "8018": {
+      "name": "JEWELLERYMAKER",
+      "category_id": "32"
+    },
+    "8019": {
+      "name": "KANSHI TV",
+      "category_id": "32"
+    },
+    "8020": {
+      "name": "KERRANG!",
+      "category_id": "32"
+    },
+    "8021": {
+      "name": "KHUSHKHABRI",
+      "category_id": "32"
+    },
+    "8022": {
+      "name": "KICC TV",
+      "category_id": "32"
+    },
+    "8023": {
+      "name": "KIDS",
+      "category_id": "32"
+    },
+    "8024": {
+      "name": "KISS",
+      "category_id": "32"
+    },
+    "8025": {
+      "name": "LALIGA TV",
+      "category_id": "32"
+    },
+    "8026": {
+      "name": "LIVE 360",
+      "category_id": "32"
+    },
+    "8027": {
+      "name": "LIVERPOOL",
+      "category_id": "32"
+    },
+    "8028": {
+      "name": "LIVERPOOL FC",
+      "category_id": "32"
+    },
+    "8029": {
+      "name": "LONDON LIVE",
+      "category_id": "32"
+    },
+    "8030": {
+      "name": "MAGIC",
+      "category_id": "32"
+    },
+    "8031": {
+      "name": "MATV NATIONAL",
+      "category_id": "32"
+    },
+    "8032": {
+      "name": "MORE 4",
+      "category_id": "32"
+    },
+    "8033": {
+      "name": "MORE4",
+      "category_id": "32"
+    },
+    "8034": {
+      "name": "MORE4+1",
+      "category_id": "32"
+    },
+    "8035": {
+      "name": "MOTORSPORT TV",
+      "category_id": "32"
+    },
+    "8036": {
+      "name": "MOVIES4MEN",
+      "category_id": "32"
+    },
+    "8037": {
+      "name": "MTA-MUSLIM TV",
+      "category_id": "32"
+    },
+    "8038": {
+      "name": "MTV 80S",
+      "category_id": "32"
+    },
+    "8039": {
+      "name": "MTV 90S",
+      "category_id": "32"
+    },
+    "8040": {
+      "name": "MTV BASE",
+      "category_id": "32"
+    },
+    "8041": {
+      "name": "MTV HITS",
+      "category_id": "32"
+    },
+    "8042": {
+      "name": "MTV LIVE",
+      "category_id": "32"
+    },
+    "8043": {
+      "name": "MTV MUSIC",
+      "category_id": "32"
+    },
+    "8044": {
+      "name": "MTV ROCKS",
+      "category_id": "32"
+    },
+    "8045": {
+      "name": "MUTV",
+      "category_id": "32"
+    },
+    "8046": {
+      "name": "MUTV FC",
+      "category_id": "32"
+    },
+    "8047": {
+      "name": "NAT GEO",
+      "category_id": "32"
+    },
+    "8048": {
+      "name": "NAT GEO PEOPLE",
+      "category_id": "32"
+    },
+    "8049": {
+      "name": "NAT GEO WILD",
+      "category_id": "32"
+    },
+    "8050": {
+      "name": "NATIONAL GEOGRAPHIC",
+      "category_id": "32"
+    },
+    "8051": {
+      "name": "NDTV 24X7",
+      "category_id": "32"
+    },
+    "8052": {
+      "name": "NEW VISION TV",
+      "category_id": "32"
+    },
+    "8053": {
+      "name": "NHK WORLD HD",
+      "category_id": "32"
+    },
+    "8054": {
+      "name": "NICK JR TOO",
+      "category_id": "32"
+    },
+    "8055": {
+      "name": "NICK JUNIOR",
+      "category_id": "32"
+    },
+    "8056": {
+      "name": "NICKELODEON",
+      "category_id": "32"
+    },
+    "8057": {
+      "name": "NICKTOONS",
+      "category_id": "32"
+    },
+    "8058": {
+      "name": "NOOR TV",
+      "category_id": "32"
+    },
+    "8059": {
+      "name": "NOW 70S",
+      "category_id": "32"
+    },
+    "8060": {
+      "name": "NOW 80S",
+      "category_id": "32"
+    },
+    "8061": {
+      "name": "NOW 90S",
+      "category_id": "32"
+    },
+    "8062": {
+      "name": "NTD",
+      "category_id": "32"
+    },
+    "8063": {
+      "name": "PARAMOUNT",
+      "category_id": "32"
+    },
+    "8064": {
+      "name": "PBS AMERICA",
+      "category_id": "32"
+    },
+    "8065": {
+      "name": "PCNE CHINESE",
+      "category_id": "32"
+    },
+    "8066": {
+      "name": "PEACE TV",
+      "category_id": "32"
+    },
+    "8067": {
+      "name": "PICK",
+      "category_id": "32"
+    },
+    "8068": {
+      "name": "PICK+1",
+      "category_id": "32"
+    },
+    "8069": {
+      "name": "PITAARA",
+      "category_id": "32"
+    },
+    "8070": {
+      "name": "PLANET EARTH 2 24/7",
+      "category_id": "32"
+    },
+    "8071": {
+      "name": "PLANET ROCK",
+      "category_id": "32"
+    },
+    "8072": {
+      "name": "POP",
+      "category_id": "32"
+    },
+    "8073": {
+      "name": "POP MAX",
+      "category_id": "32"
+    },
+    "8074": {
+      "name": "POP MAX+1",
+      "category_id": "32"
+    },
+    "8075": {
+      "name": "POP+1",
+      "category_id": "32"
+    },
+    "8076": {
+      "name": "PREMIER SPORT",
+      "category_id": "32"
+    },
+    "8077": {
+      "name": "PREMIER SPORT 2",
+      "category_id": "32"
+    },
+    "8078": {
+      "name": "PREMIER SPORTS 1",
+      "category_id": "32"
+    },
+    "8079": {
+      "name": "PREMIER SPORTS 1 HD",
+      "category_id": "32"
+    },
+    "8080": {
+      "name": "PREMIER SPORTS 2",
+      "category_id": "32"
+    },
+    "8081": {
+      "name": "PREMIER SPORTS 2 HD",
+      "category_id": "32"
+    },
+    "8082": {
+      "name": "PTV GLOBAL",
+      "category_id": "32"
+    },
+    "8083": {
+      "name": "QUEST",
+      "category_id": "32"
+    },
+    "8084": {
+      "name": "QUEST RED",
+      "category_id": "32"
+    },
+    "8085": {
+      "name": "QVC BEAUTY",
+      "category_id": "32"
+    },
+    "8086": {
+      "name": "QVC EXTRA",
+      "category_id": "32"
+    },
+    "8087": {
+      "name": "RACING",
+      "category_id": "32"
+    },
+    "8088": {
+      "name": "RACING UK",
+      "category_id": "32"
+    },
+    "8089": {
+      "name": "RANGERS FC",
+      "category_id": "32"
+    },
+    "8090": {
+      "name": "REALLY",
+      "category_id": "32"
+    },
+    "8091": {
+      "name": "RED BULL TV",
+      "category_id": "32"
+    },
+    "8092": {
+      "name": "REVELATION",
+      "category_id": "32"
+    },
+    "8093": {
+      "name": "RT HD",
+      "category_id": "32"
+    },
+    "8094": {
+      "name": "RTE 1",
+      "category_id": "32"
+    },
+    "8095": {
+      "name": "RTE 2",
+      "category_id": "32"
+    },
+    "8096": {
+      "name": "RTE JR",
+      "category_id": "32"
+    },
+    "8097": {
+      "name": "RTE NEWS",
+      "category_id": "32"
+    },
+    "8098": {
+      "name": "RTE NEWS NOW",
+      "category_id": "32"
+    },
+    "8099": {
+      "name": "RTE ONE",
+      "category_id": "32"
+    },
+    "8100": {
+      "name": "RTE TWO",
+      "category_id": "32"
+    },
+    "8101": {
+      "name": "S4C",
+      "category_id": "32"
+    },
+    "8102": {
+      "name": "SAB TV",
+      "category_id": "32"
+    },
+    "8103": {
+      "name": "SANSKAR",
+      "category_id": "32"
+    },
+    "8104": {
+      "name": "SHOWCASE",
+      "category_id": "32"
+    },
+    "8105": {
+      "name": "SIKH CHANNEL",
+      "category_id": "32"
+    },
+    "8106": {
+      "name": "SKY 1",
+      "category_id": "32"
+    },
+    "8107": {
+      "name": "SKY 2",
+      "category_id": "32"
+    },
+    "8108": {
+      "name": "SKY ARTS",
+      "category_id": "32"
+    },
+    "8109": {
+      "name": "SKY ATLANTIC",
+      "category_id": "32"
+    },
+    "8110": {
+      "name": "SKY CINEMA ACTION",
+      "category_id": "32"
+    },
+    "8111": {
+      "name": "SKY CINEMA ACTION & ADVENTURE",
+      "category_id": "32"
+    },
+    "8112": {
+      "name": "SKY CINEMA ANIMATION",
+      "category_id": "32"
+    },
+    "8113": {
+      "name": "SKY CINEMA COMEDY",
+      "category_id": "32"
+    },
+    "8114": {
+      "name": "SKY CINEMA DISNEY",
+      "category_id": "32"
+    },
+    "8115": {
+      "name": "SKY CINEMA DRAMA",
+      "category_id": "32"
+    },
+    "8116": {
+      "name": "SKY CINEMA FAMILY",
+      "category_id": "32"
+    },
+    "8117": {
+      "name": "SKY CINEMA GREATS",
+      "category_id": "32"
+    },
+    "8118": {
+      "name": "SKY CINEMA HITS",
+      "category_id": "32"
+    },
+    "8119": {
+      "name": "SKY CINEMA PREMIERE",
+      "category_id": "32"
+    },
+    "8120": {
+      "name": "SKY CINEMA SCI-FI",
+      "category_id": "32"
+    },
+    "8121": {
+      "name": "SKY CINEMA SELECT",
+      "category_id": "32"
+    },
+    "8122": {
+      "name": "SKY CINEMA THRILLER",
+      "category_id": "32"
+    },
+    "8123": {
+      "name": "SKY CRIME",
+      "category_id": "32"
+    },
+    "8124": {
+      "name": "SKY DOCUMENTARIES",
+      "category_id": "32"
+    },
+    "8125": {
+      "name": "SKY NATURE",
+      "category_id": "32"
+    },
+    "8126": {
+      "name": "SKY NEWS",
+      "category_id": "32"
+    },
+    "8127": {
+      "name": "SKY SCI-FI & HORROR",
+      "category_id": "32"
+    },
+    "8128": {
+      "name": "SKY SCIFI & HORROR",
+      "category_id": "32"
+    },
+    "8129": {
+      "name": "SKY SELECT PREMIERE 04 4K",
+      "category_id": "32"
+    },
+    "8130": {
+      "name": "SKY SELECT PREMIERE 05 4K",
+      "category_id": "32"
+    },
+    "8131": {
+      "name": "SKY SELECT PREMIERE 06 4K",
+      "category_id": "32"
+    },
+    "8132": {
+      "name": "SKY SELECT PREMIERE 07 4K",
+      "category_id": "32"
+    },
+    "8133": {
+      "name": "SKY SELECT PREMIERE 08 4K",
+      "category_id": "32"
+    },
+    "8134": {
+      "name": "SKY SHOWCASE",
+      "category_id": "32"
+    },
+    "8135": {
+      "name": "SKY SPORT ACTION",
+      "category_id": "32"
+    },
+    "8136": {
+      "name": "SKY SPORT CRICKET",
+      "category_id": "32"
+    },
+    "8137": {
+      "name": "SKY SPORT GOLF",
+      "category_id": "32"
+    },
+    "8138": {
+      "name": "SKY SPORT MIX",
+      "category_id": "32"
+    },
+    "8139": {
+      "name": "SKY SPORT PREMIER LEAGUE",
+      "category_id": "32"
+    },
+    "8140": {
+      "name": "SKY SPORT RACING",
+      "category_id": "32"
+    },
+    "8141": {
+      "name": "SKY SPORTS ACTION",
+      "category_id": "32"
+    },
+    "8142": {
+      "name": "SKY SPORTS ACTION HD",
+      "category_id": "32"
+    },
+    "8143": {
+      "name": "SKY SPORTS ARENA",
+      "category_id": "32"
+    },
+    "8144": {
+      "name": "SKY SPORTS ARENA HD",
+      "category_id": "32"
+    },
+    "8145": {
+      "name": "SKY SPORTS CRICKET",
+      "category_id": "32"
+    },
+    "8146": {
+      "name": "SKY SPORTS CRICKET HD",
+      "category_id": "32"
+    },
+    "8147": {
+      "name": "SKY SPORTS F1",
+      "category_id": "32"
+    },
+    "8148": {
+      "name": "SKY SPORTS F1 HD",
+      "category_id": "32"
+    },
+    "8149": {
+      "name": "SKY SPORTS FOOTBALL",
+      "category_id": "32"
+    },
+    "8150": {
+      "name": "SKY SPORTS FOOTBALL [LIVE DURING EVENTS ONLY]",
+      "category_id": "32"
+    },
+    "8151": {
+      "name": "SKY SPORTS GOLF",
+      "category_id": "32"
+    },
+    "8152": {
+      "name": "SKY SPORTS GOLF HD",
+      "category_id": "32"
+    },
+    "8153": {
+      "name": "SKY SPORTS MAIN EVENT",
+      "category_id": "32"
+    },
+    "8154": {
+      "name": "SKY SPORTS MIX",
+      "category_id": "32"
+    },
+    "8155": {
+      "name": "SKY SPORTS NEWS",
+      "category_id": "32"
+    },
+    "8156": {
+      "name": "SKY SPORTS NEWS HD",
+      "category_id": "32"
+    },
+    "8157": {
+      "name": "SKY SPORTS NFL",
+      "category_id": "32"
+    },
+    "8158": {
+      "name": "SKY SPORTS PREMIER LEAGUE",
+      "category_id": "32"
+    },
+    "8159": {
+      "name": "SKY SPORTS PREMIER LEAGUE HD",
+      "category_id": "32"
+    },
+    "8160": {
+      "name": "SKY SPORTS PREMIER LEAGUE [LIVE DURING EVENTS ONLY]",
+      "category_id": "32"
+    },
+    "8161": {
+      "name": "SKY SPORTS RACING",
+      "category_id": "32"
+    },
+    "8162": {
+      "name": "SKY SPORTS RACING HD",
+      "category_id": "32"
+    },
+    "8163": {
+      "name": "SKY STORE SCI-FI",
+      "category_id": "32"
+    },
+    "8164": {
+      "name": "SKY WITNESS",
+      "category_id": "32"
+    },
+    "8165": {
+      "name": "SKYS PORTS ARENA",
+      "category_id": "32"
+    },
+    "8166": {
+      "name": "SKYS PORTS FOOTBALL",
+      "category_id": "32"
+    },
+    "8167": {
+      "name": "SKYS PORTS MAIN EVENT",
+      "category_id": "32"
+    },
+    "8168": {
+      "name": "SONY CHANNEL",
+      "category_id": "32"
+    },
+    "8169": {
+      "name": "SONY MAX",
+      "category_id": "32"
+    },
+    "8170": {
+      "name": "SONY MAX 2",
+      "category_id": "32"
+    },
+    "8171": {
+      "name": "SONY MOVIE CHANNEL",
+      "category_id": "32"
+    },
+    "8172": {
+      "name": "SONY SAB",
+      "category_id": "32"
+    },
+    "8173": {
+      "name": "SPOTLIGHT TV",
+      "category_id": "32"
+    },
+    "8174": {
+      "name": "STARZ TV",
+      "category_id": "32"
+    },
+    "8175": {
+      "name": "STV",
+      "category_id": "32"
+    },
+    "8176": {
+      "name": "STV HD",
+      "category_id": "32"
+    },
+    "8177": {
+      "name": "SYFY",
+      "category_id": "32"
+    },
+    "8178": {
+      "name": "TALKINGPICTURES",
+      "category_id": "32"
+    },
+    "8179": {
+      "name": "TBN UK",
+      "category_id": "32"
+    },
+    "8180": {
+      "name": "TCM MOVIES",
+      "category_id": "32"
+    },
+    "8181": {
+      "name": "THANE",
+      "category_id": "32"
+    },
+    "8182": {
+      "name": "THATS TV GOLD",
+      "category_id": "32"
+    },
+    "8183": {
+      "name": "THE BOX",
+      "category_id": "32"
+    },
+    "8184": {
+      "name": "THE CRAFT STORE",
+      "category_id": "32"
+    },
+    "8185": {
+      "name": "THE PET COLLECTIVE",
+      "category_id": "32"
+    },
+    "8186": {
+      "name": "TINY POP",
+      "category_id": "32"
+    },
+    "8187": {
+      "name": "TINY POP+1",
+      "category_id": "32"
+    },
+    "8188": {
+      "name": "TJC",
+      "category_id": "32"
+    },
+    "8189": {
+      "name": "TLC",
+      "category_id": "32"
+    },
+    "8190": {
+      "name": "TNT SPORTS 1",
+      "category_id": "32"
+    },
+    "8191": {
+      "name": "TNT SPORTS 2",
+      "category_id": "32"
+    },
+    "8192": {
+      "name": "TNT SPORTS 3",
+      "category_id": "32"
+    },
+    "8193": {
+      "name": "TNT SPORTS 4",
+      "category_id": "32"
+    },
+    "8194": {
+      "name": "TNT SPORTS ESPN",
+      "category_id": "32"
+    },
+    "8195": {
+      "name": "TRACE HITS",
+      "category_id": "32"
+    },
+    "8196": {
+      "name": "TRACE VAULT",
+      "category_id": "32"
+    },
+    "8197": {
+      "name": "TRAVEL CHANNEL",
+      "category_id": "32"
+    },
+    "8198": {
+      "name": "TRAVEL XP",
+      "category_id": "32"
+    },
+    "8199": {
+      "name": "TVO KIDS",
+      "category_id": "32"
+    },
+    "8200": {
+      "name": "UFC FIGHT NIGHT PASS",
+      "category_id": "32"
+    },
+    "8201": {
+      "name": "UNIVERSAL CHANNEL",
+      "category_id": "32"
+    },
+    "8202": {
+      "name": "UTV",
+      "category_id": "32"
+    },
+    "8203": {
+      "name": "UTV HD",
+      "category_id": "32"
+    },
+    "8204": {
+      "name": "UTV IRELAND",
+      "category_id": "32"
+    },
+    "8205": {
+      "name": "VH1",
+      "category_id": "32"
+    },
+    "8206": {
+      "name": "VICELAND",
+      "category_id": "32"
+    },
+    "8207": {
+      "name": "VIRGIN MEDIA THREE",
+      "category_id": "32"
+    },
+    "8208": {
+      "name": "WATCH",
+      "category_id": "32"
+    },
+    "8209": {
+      "name": "WION HD",
+      "category_id": "32"
+    },
+    "8210": {
+      "name": "WORD NETWORK",
+      "category_id": "32"
+    },
+    "8211": {
+      "name": "WRN EUROPE",
+      "category_id": "32"
+    },
+    "8212": {
+      "name": "WWE HD",
+      "category_id": "32"
+    },
+    "8213": {
+      "name": "YESTERDAY",
+      "category_id": "32"
+    },
+    "8214": {
+      "name": "YESTERDAY+1",
+      "category_id": "32"
+    },
+    "8215": {
+      "name": "ZEE TV INDIA",
+      "category_id": "32"
+    },
+    "8216": {
+      "name": "24 HORAS",
+      "category_id": "33"
+    },
+    "8217": {
+      "name": "7 TELEVALENCIA",
+      "category_id": "33"
+    },
+    "8218": {
+      "name": "A3 SERIES HD",
+      "category_id": "33"
+    },
+    "8219": {
+      "name": "AMC HD",
+      "category_id": "33"
+    },
+    "8220": {
+      "name": "ANTENA 3 HD",
+      "category_id": "33"
+    },
+    "8221": {
+      "name": "ARAGON",
+      "category_id": "33"
+    },
+    "8222": {
+      "name": "ARTEQUATRE",
+      "category_id": "33"
+    },
+    "8223": {
+      "name": "AXN HD",
+      "category_id": "33"
+    },
+    "8224": {
+      "name": "AXN WHITE HD",
+      "category_id": "33"
+    },
+    "8225": {
+      "name": "BARCA TV",
+      "category_id": "33"
+    },
+    "8226": {
+      "name": "BBC TOP GEAR",
+      "category_id": "33"
+    },
+    "8227": {
+      "name": "BE MAD HD",
+      "category_id": "33"
+    },
+    "8228": {
+      "name": "BEIN SPORTS N",
+      "category_id": "33"
+    },
+    "8229": {
+      "name": "BLAZE",
+      "category_id": "33"
+    },
+    "8230": {
+      "name": "CALLE 13 HD",
+      "category_id": "33"
+    },
+    "8231": {
+      "name": "CANAL 10 EMPORDA",
+      "category_id": "33"
+    },
+    "8232": {
+      "name": "CANAL 3 BIAR",
+      "category_id": "33"
+    },
+    "8233": {
+      "name": "CANAL COCINA",
+      "category_id": "33"
+    },
+    "8234": {
+      "name": "CANAL DECASA",
+      "category_id": "33"
+    },
+    "8235": {
+      "name": "CANAL DIOCESANO",
+      "category_id": "33"
+    },
+    "8236": {
+      "name": "CANAL ODISEA",
+      "category_id": "33"
+    },
+    "8237": {
+      "name": "CANAL PANDA",
+      "category_id": "33"
+    },
+    "8238": {
+      "name": "CANAL SAN ROQUE",
+      "category_id": "33"
+    },
+    "8239": {
+      "name": "CANAL SUR A",
+      "category_id": "33"
+    },
+    "8240": {
+      "name": "CANAL TARONJA ANOIA",
+      "category_id": "33"
+    },
+    "8241": {
+      "name": "CANAL TARONJA OSONA I MOIANÉS",
+      "category_id": "33"
+    },
+    "8242": {
+      "name": "CAZA Y PESCA HD",
+      "category_id": "33"
+    },
+    "8243": {
+      "name": "CLAN",
+      "category_id": "33"
+    },
+    "8244": {
+      "name": "CLAN TVE",
+      "category_id": "33"
+    },
+    "8245": {
+      "name": "CLASSICA",
+      "category_id": "33"
+    },
+    "8246": {
+      "name": "COMEDY CENTRAL HD",
+      "category_id": "33"
+    },
+    "8247": {
+      "name": "COSMO HD",
+      "category_id": "33"
+    },
+    "8248": {
+      "name": "COSTA NOROESTE TV",
+      "category_id": "33"
+    },
+    "8249": {
+      "name": "CRIME & INVESTIGATION",
+      "category_id": "33"
+    },
+    "8250": {
+      "name": "CUATRO HD",
+      "category_id": "33"
+    },
+    "8251": {
+      "name": "DISNEY CHANNEL HD",
+      "category_id": "33"
+    },
+    "8252": {
+      "name": "DISNEY JUNIOR",
+      "category_id": "33"
+    },
+    "8253": {
+      "name": "DISTRITO TV",
+      "category_id": "33"
+    },
+    "8254": {
+      "name": "DIVINITY",
+      "category_id": "33"
+    },
+    "8255": {
+      "name": "DKISS",
+      "category_id": "33"
+    },
+    "8256": {
+      "name": "EL PINGUINO TV",
+      "category_id": "33"
+    },
+    "8257": {
+      "name": "EMPORDA TV",
+      "category_id": "33"
+    },
+    "8258": {
+      "name": "ENERGY",
+      "category_id": "33"
+    },
+    "8259": {
+      "name": "ENFAMILIA",
+      "category_id": "33"
+    },
+    "8260": {
+      "name": "ETB BASQUE",
+      "category_id": "33"
+    },
+    "8261": {
+      "name": "EUROSPORT 1 HD",
+      "category_id": "33"
+    },
+    "8262": {
+      "name": "FDF",
+      "category_id": "33"
+    },
+    "8263": {
+      "name": "FOX HD",
+      "category_id": "33"
+    },
+    "8264": {
+      "name": "FOX LIFE HD",
+      "category_id": "33"
+    },
+    "8265": {
+      "name": "GIRONA TV",
+      "category_id": "33"
+    },
+    "8266": {
+      "name": "GOIENA EUS",
+      "category_id": "33"
+    },
+    "8267": {
+      "name": "GOL",
+      "category_id": "33"
+    },
+    "8268": {
+      "name": "GOL PLAY",
+      "category_id": "33"
+    },
+    "8269": {
+      "name": "GOL TV HD",
+      "category_id": "33"
+    },
+    "8270": {
+      "name": "HAMAIKA TELEBISTA",
+      "category_id": "33"
+    },
+    "8271": {
+      "name": "HISTORIA",
+      "category_id": "33"
+    },
+    "8272": {
+      "name": "HOLLYWOOD HD",
+      "category_id": "33"
+    },
+    "8273": {
+      "name": "IBERLIA TV",
+      "category_id": "33"
+    },
+    "8274": {
+      "name": "IBUEN VIAJE",
+      "category_id": "33"
+    },
+    "8275": {
+      "name": "IMAS TV",
+      "category_id": "33"
+    },
+    "8276": {
+      "name": "INTERCOMARCAL",
+      "category_id": "33"
+    },
+    "8277": {
+      "name": "INTERECONOMIA",
+      "category_id": "33"
+    },
+    "8278": {
+      "name": "LA 1 HD",
+      "category_id": "33"
+    },
+    "8279": {
+      "name": "LA LIGA TV BAR HD",
+      "category_id": "33"
+    },
+    "8280": {
+      "name": "LA LIGA TV HD",
+      "category_id": "33"
+    },
+    "8281": {
+      "name": "LA SEXTA HD",
+      "category_id": "33"
+    },
+    "8282": {
+      "name": "LALIGA TV BAR",
+      "category_id": "33"
+    },
+    "8283": {
+      "name": "LANCELOT TV",
+      "category_id": "33"
+    },
+    "8284": {
+      "name": "LIGA CAMPEONES HD",
+      "category_id": "33"
+    },
+    "8285": {
+      "name": "LIGA TV",
+      "category_id": "33"
+    },
+    "8286": {
+      "name": "LIGA TV BAR 3 HD",
+      "category_id": "33"
+    },
+    "8287": {
+      "name": "LIGA TV BAR 4 HD",
+      "category_id": "33"
+    },
+    "8288": {
+      "name": "LOGOS TV",
+      "category_id": "33"
+    },
+    "8289": {
+      "name": "M.ACCION HD",
+      "category_id": "33"
+    },
+    "8290": {
+      "name": "M.DEPORTES HD",
+      "category_id": "33"
+    },
+    "8291": {
+      "name": "M.ESTRENOS HD",
+      "category_id": "33"
+    },
+    "8292": {
+      "name": "M.FORMULA 1 HD",
+      "category_id": "33"
+    },
+    "8293": {
+      "name": "M.GOLF HD",
+      "category_id": "33"
+    },
+    "8294": {
+      "name": "M.LIGA DE CAMPEONES HD",
+      "category_id": "33"
+    },
+    "8295": {
+      "name": "M95 MARBELLA",
+      "category_id": "33"
+    },
+    "8296": {
+      "name": "MARÍA+VISIÓN SEVILLA",
+      "category_id": "33"
+    },
+    "8297": {
+      "name": "MEGA",
+      "category_id": "33"
+    },
+    "8298": {
+      "name": "MIJAS 3.40 TV",
+      "category_id": "33"
+    },
+    "8299": {
+      "name": "MIRAME TV",
+      "category_id": "33"
+    },
+    "8300": {
+      "name": "MOVISTAR ACCI©N HD",
+      "category_id": "33"
+    },
+    "8301": {
+      "name": "MOVISTAR COMEDIA HD",
+      "category_id": "33"
+    },
+    "8302": {
+      "name": "MOVISTAR DEPORTE 1 HD",
+      "category_id": "33"
+    },
+    "8303": {
+      "name": "MOVISTAR DEPORTES",
+      "category_id": "33"
+    },
+    "8304": {
+      "name": "MOVISTAR DRAMA HD",
+      "category_id": "33"
+    },
+    "8305": {
+      "name": "MOVISTAR ESTRENOS HD",
+      "category_id": "33"
+    },
+    "8306": {
+      "name": "MOVISTAR F1 HD",
+      "category_id": "33"
+    },
+    "8307": {
+      "name": "MOVISTAR GOLF HD",
+      "category_id": "33"
+    },
+    "8308": {
+      "name": "MOVISTAR LA LIGA",
+      "category_id": "33"
+    },
+    "8309": {
+      "name": "MOVISTAR LA LIGA 1",
+      "category_id": "33"
+    },
+    "8310": {
+      "name": "MOVISTAR LA LIGA 2",
+      "category_id": "33"
+    },
+    "8311": {
+      "name": "MOVISTAR LA LIGA 3",
+      "category_id": "33"
+    },
+    "8312": {
+      "name": "MOVISTAR LIGA DE CAMPEONES 1 HD",
+      "category_id": "33"
+    },
+    "8313": {
+      "name": "MOVISTAR LIGA DE CAMPEONES 2 HD",
+      "category_id": "33"
+    },
+    "8314": {
+      "name": "MOVISTAR LIGA DE CAMPEONES 3 HD",
+      "category_id": "33"
+    },
+    "8315": {
+      "name": "MOVISTAR LIGA DE CAMPEONES 4 HD",
+      "category_id": "33"
+    },
+    "8316": {
+      "name": "MOVISTAR SERIES HD",
+      "category_id": "33"
+    },
+    "8317": {
+      "name": "MOVISTAR SERIESMANIA HD",
+      "category_id": "33"
+    },
+    "8318": {
+      "name": "MTV ESPANA",
+      "category_id": "33"
+    },
+    "8319": {
+      "name": "NAT GEO WILD HD",
+      "category_id": "33"
+    },
+    "8320": {
+      "name": "NATIONAL GEOGRAPHIC HD",
+      "category_id": "33"
+    },
+    "8321": {
+      "name": "NEGOCIOS",
+      "category_id": "33"
+    },
+    "8322": {
+      "name": "NEOX",
+      "category_id": "33"
+    },
+    "8323": {
+      "name": "NICK JR",
+      "category_id": "33"
+    },
+    "8324": {
+      "name": "NICKELODEON HD",
+      "category_id": "33"
+    },
+    "8325": {
+      "name": "NORTEVISION",
+      "category_id": "33"
+    },
+    "8326": {
+      "name": "NOVA",
+      "category_id": "33"
+    },
+    "8327": {
+      "name": "OIZMENDI TELEBISTA",
+      "category_id": "33"
+    },
+    "8328": {
+      "name": "ONDA ALGECIRAS TV",
+      "category_id": "33"
+    },
+    "8329": {
+      "name": "ONDA CADIZ",
+      "category_id": "33"
+    },
+    "8330": {
+      "name": "PARAMOUNT CHANNEL",
+      "category_id": "33"
+    },
+    "8331": {
+      "name": "PIERA TV",
+      "category_id": "33"
+    },
+    "8332": {
+      "name": "POP WORLD TV",
+      "category_id": "33"
+    },
+    "8333": {
+      "name": "POPULAR TV CANTABRIA",
+      "category_id": "33"
+    },
+    "8334": {
+      "name": "POPULAR TV MELILLA",
+      "category_id": "33"
+    },
+    "8335": {
+      "name": "PREMIER PADEL",
+      "category_id": "33"
+    },
+    "8336": {
+      "name": "PUNT 3 VALL UIXO",
+      "category_id": "33"
+    },
+    "8337": {
+      "name": "RADIO TELEVISIÓN MOGÁN",
+      "category_id": "33"
+    },
+    "8338": {
+      "name": "RALLY TV",
+      "category_id": "33"
+    },
+    "8339": {
+      "name": "REAL MADRID TV",
+      "category_id": "33"
+    },
+    "8340": {
+      "name": "REAL MADRID TV HD",
+      "category_id": "33"
+    },
+    "8341": {
+      "name": "RTV VIDA",
+      "category_id": "33"
+    },
+    "8342": {
+      "name": "SOPHIA TV ESPAÑOL",
+      "category_id": "33"
+    },
+    "8343": {
+      "name": "SYFY HD",
+      "category_id": "33"
+    },
+    "8344": {
+      "name": "TBN ESPANA",
+      "category_id": "33"
+    },
+    "8345": {
+      "name": "TCM HD",
+      "category_id": "33"
+    },
+    "8346": {
+      "name": "TELE MADRID",
+      "category_id": "33"
+    },
+    "8347": {
+      "name": "TELE SAFOR",
+      "category_id": "33"
+    },
+    "8348": {
+      "name": "TELECINCO HD",
+      "category_id": "33"
+    },
+    "8349": {
+      "name": "TELEDEPORTE",
+      "category_id": "33"
+    },
+    "8350": {
+      "name": "TELEDEPORTE HD",
+      "category_id": "33"
+    },
+    "8351": {
+      "name": "TELEGANÉS",
+      "category_id": "33"
+    },
+    "8352": {
+      "name": "TELEMOTRIL",
+      "category_id": "33"
+    },
+    "8353": {
+      "name": "TELETICINO",
+      "category_id": "33"
+    },
+    "8354": {
+      "name": "TELEVIGO",
+      "category_id": "33"
+    },
+    "8355": {
+      "name": "TELEVISIÓN CONSCIENTE",
+      "category_id": "33"
+    },
+    "8356": {
+      "name": "TEN",
+      "category_id": "33"
+    },
+    "8357": {
+      "name": "TNT HD",
+      "category_id": "33"
+    },
+    "8358": {
+      "name": "TOROS TV HD",
+      "category_id": "33"
+    },
+    "8359": {
+      "name": "TRECE TV",
+      "category_id": "33"
+    },
+    "8360": {
+      "name": "TV",
+      "category_id": "33"
+    },
+    "8361": {
+      "name": "TV GALICIA",
+      "category_id": "33"
+    },
+    "8362": {
+      "name": "TV3 CATALUNIA",
+      "category_id": "33"
+    },
+    "8363": {
+      "name": "UNIVERS TV",
+      "category_id": "33"
+    },
+    "8364": {
+      "name": "UROLA TELEBISTA",
+      "category_id": "33"
+    },
+    "8365": {
+      "name": "VAMOS BAR 1 HD",
+      "category_id": "33"
+    },
+    "8366": {
+      "name": "VAMOS BAR 2 HD",
+      "category_id": "33"
+    },
+    "8367": {
+      "name": "VAMOS HD",
+      "category_id": "33"
+    },
+    "8368": {
+      "name": "XTRM FULL HD",
+      "category_id": "33"
+    },
+    "8369": {
+      "name": "111 TV",
+      "category_id": "34"
+    },
+    "8370": {
+      "name": "27 TWENTY SEVEN",
+      "category_id": "34"
+    },
+    "8371": {
+      "name": "ALTO ADIGE TV",
+      "category_id": "34"
+    },
+    "8372": {
+      "name": "ANIMAL PLANET",
+      "category_id": "34"
+    },
+    "8373": {
+      "name": "ANTENNA 2",
+      "category_id": "34"
+    },
+    "8374": {
+      "name": "ANTENNA SICILIA",
+      "category_id": "34"
+    },
+    "8375": {
+      "name": "ANTENNA SUD",
+      "category_id": "34"
+    },
+    "8376": {
+      "name": "ARTE NETWORK",
+      "category_id": "34"
+    },
+    "8377": {
+      "name": "AURORA ARTE",
+      "category_id": "34"
+    },
+    "8378": {
+      "name": "AVENGERS GRIMM CHANNEL",
+      "category_id": "34"
+    },
+    "8379": {
+      "name": "BABY TV",
+      "category_id": "34"
+    },
+    "8380": {
+      "name": "BELLLA & MONELLA TV",
+      "category_id": "34"
+    },
+    "8381": {
+      "name": "BLOOMBERG TV",
+      "category_id": "34"
+    },
+    "8382": {
+      "name": "BOING",
+      "category_id": "34"
+    },
+    "8383": {
+      "name": "BYOBLU",
+      "category_id": "34"
+    },
+    "8384": {
+      "name": "CAFE 24",
+      "category_id": "34"
+    },
+    "8385": {
+      "name": "CAMERA DEI DEPUTATI",
+      "category_id": "34"
+    },
+    "8386": {
+      "name": "CANALE 2",
+      "category_id": "34"
+    },
+    "8387": {
+      "name": "CANALE 21 CAMPANIA",
+      "category_id": "34"
+    },
+    "8388": {
+      "name": "CANALE 21 EXTRA",
+      "category_id": "34"
+    },
+    "8389": {
+      "name": "CANALE 5",
+      "category_id": "34"
+    },
+    "8390": {
+      "name": "CANALE 7",
+      "category_id": "34"
+    },
+    "8391": {
+      "name": "CANALE 8",
+      "category_id": "34"
+    },
+    "8392": {
+      "name": "CARINA TV",
+      "category_id": "34"
+    },
+    "8393": {
+      "name": "CARTOON NETWORK",
+      "category_id": "34"
+    },
+    "8394": {
+      "name": "CARTOONITO",
+      "category_id": "34"
+    },
+    "8395": {
+      "name": "CATFISH",
+      "category_id": "34"
+    },
+    "8396": {
+      "name": "CIELO",
+      "category_id": "34"
+    },
+    "8397": {
+      "name": "CINE 34 MEDIASET",
+      "category_id": "34"
+    },
+    "8398": {
+      "name": "COMEDY CENTRAL",
+      "category_id": "34"
+    },
+    "8399": {
+      "name": "COMPANY TV",
+      "category_id": "34"
+    },
+    "8400": {
+      "name": "CREMONA 1",
+      "category_id": "34"
+    },
+    "8401": {
+      "name": "CRIME + INV",
+      "category_id": "34"
+    },
+    "8402": {
+      "name": "DAZN",
+      "category_id": "34"
+    },
+    "8403": {
+      "name": "DEEJAY TV",
+      "category_id": "34"
+    },
+    "8404": {
+      "name": "DISCOVERY CHANNEL",
+      "category_id": "34"
+    },
+    "8405": {
+      "name": "DISCOVERY FOCUS",
+      "category_id": "34"
+    },
+    "8406": {
+      "name": "DISCOVERY K2",
+      "category_id": "34"
+    },
+    "8407": {
+      "name": "DISCOVERY NOVE",
+      "category_id": "34"
+    },
+    "8408": {
+      "name": "DISNEY+ FILM",
+      "category_id": "34"
+    },
+    "8409": {
+      "name": "DMAX",
+      "category_id": "34"
+    },
+    "8410": {
+      "name": "ELIVE TV BRESCIA",
+      "category_id": "34"
+    },
+    "8411": {
+      "name": "ENTELLA TV",
+      "category_id": "34"
+    },
+    "8412": {
+      "name": "EQU TV",
+      "category_id": "34"
+    },
+    "8413": {
+      "name": "ESPANSIONE TV",
+      "category_id": "34"
+    },
+    "8414": {
+      "name": "ESPERIA TV",
+      "category_id": "34"
+    },
+    "8415": {
+      "name": "ESPERIA TV 18",
+      "category_id": "34"
+    },
+    "8416": {
+      "name": "ETV MARCHE",
+      "category_id": "34"
+    },
+    "8417": {
+      "name": "EURO INDIE MUSIC CHART TV",
+      "category_id": "34"
+    },
+    "8418": {
+      "name": "EURO TV",
+      "category_id": "34"
+    },
+    "8419": {
+      "name": "EUROSPORT 1",
+      "category_id": "34"
+    },
+    "8420": {
+      "name": "EUROSPORT 2",
+      "category_id": "34"
+    },
+    "8421": {
+      "name": "FANO TV",
+      "category_id": "34"
+    },
+    "8422": {
+      "name": "FASHION TV",
+      "category_id": "34"
+    },
+    "8423": {
+      "name": "FM ITALIA",
+      "category_id": "34"
+    },
+    "8424": {
+      "name": "FOCUS",
+      "category_id": "34"
+    },
+    "8425": {
+      "name": "FOOD NETWORK",
+      "category_id": "34"
+    },
+    "8426": {
+      "name": "FOX",
+      "category_id": "34"
+    },
+    "8427": {
+      "name": "FRANCE 24",
+      "category_id": "34"
+    },
+    "8428": {
+      "name": "GIALLO",
+      "category_id": "34"
+    },
+    "8429": {
+      "name": "GLOBUS TELEVISION",
+      "category_id": "34"
+    },
+    "8430": {
+      "name": "HGTV",
+      "category_id": "34"
+    },
+    "8431": {
+      "name": "HISTORY",
+      "category_id": "34"
+    },
+    "8432": {
+      "name": "ICARO TV",
+      "category_id": "34"
+    },
+    "8433": {
+      "name": "ITALIA 3",
+      "category_id": "34"
+    },
+    "8434": {
+      "name": "ITALIAN FISHING TV",
+      "category_id": "34"
+    },
+    "8435": {
+      "name": "IUNIOR TV",
+      "category_id": "34"
+    },
+    "8436": {
+      "name": "K2",
+      "category_id": "34"
+    },
+    "8437": {
+      "name": "KISS KISS",
+      "category_id": "34"
+    },
+    "8438": {
+      "name": "KISS KISS ITALIA",
+      "category_id": "34"
+    },
+    "8439": {
+      "name": "KISS KISS NAPOLI",
+      "category_id": "34"
+    },
+    "8440": {
+      "name": "LA 5",
+      "category_id": "34"
+    },
+    "8441": {
+      "name": "LA 7",
+      "category_id": "34"
+    },
+    "8442": {
+      "name": "LAZIO TV",
+      "category_id": "34"
+    },
+    "8443": {
+      "name": "LIRA TV",
+      "category_id": "34"
+    },
+    "8444": {
+      "name": "MEDIASET 1",
+      "category_id": "34"
+    },
+    "8445": {
+      "name": "MEDIASET 20",
+      "category_id": "34"
+    },
+    "8446": {
+      "name": "MEDIASET IRIS",
+      "category_id": "34"
+    },
+    "8447": {
+      "name": "MEDIASET ITALIA 2",
+      "category_id": "34"
+    },
+    "8448": {
+      "name": "MOTORTREND",
+      "category_id": "34"
+    },
+    "8449": {
+      "name": "MTV",
+      "category_id": "34"
+    },
+    "8450": {
+      "name": "MTV HITS",
+      "category_id": "34"
+    },
+    "8451": {
+      "name": "NAT GEO",
+      "category_id": "34"
+    },
+    "8452": {
+      "name": "NAT GEO WILD",
+      "category_id": "34"
+    },
+    "8453": {
+      "name": "OL3 RADIO",
+      "category_id": "34"
+    },
+    "8454": {
+      "name": "ONDA NOVARA TV",
+      "category_id": "34"
+    },
+    "8455": {
+      "name": "ONDA TV",
+      "category_id": "34"
+    },
+    "8456": {
+      "name": "ORLER TV",
+      "category_id": "34"
+    },
+    "8457": {
+      "name": "PEOPLE ARE AWESOME",
+      "category_id": "34"
+    },
+    "8458": {
+      "name": "PESCA E CACCIA",
+      "category_id": "34"
+    },
+    "8459": {
+      "name": "PREMIUM CRIME",
+      "category_id": "34"
+    },
+    "8460": {
+      "name": "PRIMA TV",
+      "category_id": "34"
+    },
+    "8461": {
+      "name": "PRIMO CANALE",
+      "category_id": "34"
+    },
+    "8462": {
+      "name": "PRIMOCANALE",
+      "category_id": "34"
+    },
+    "8463": {
+      "name": "QUADRIFOGLIO TV",
+      "category_id": "34"
+    },
+    "8464": {
+      "name": "QUARTA RETE",
+      "category_id": "34"
+    },
+    "8465": {
+      "name": "QVC",
+      "category_id": "34"
+    },
+    "8466": {
+      "name": "RADIO 51",
+      "category_id": "34"
+    },
+    "8467": {
+      "name": "RADIO CAPITAL",
+      "category_id": "34"
+    },
+    "8468": {
+      "name": "RADIO FRECCIA",
+      "category_id": "34"
+    },
+    "8469": {
+      "name": "RAI 1",
+      "category_id": "34"
+    },
+    "8470": {
+      "name": "RAI 2",
+      "category_id": "34"
+    },
+    "8471": {
+      "name": "RAI 3",
+      "category_id": "34"
+    },
+    "8472": {
+      "name": "RAI 4",
+      "category_id": "34"
+    },
+    "8473": {
+      "name": "RAI 5",
+      "category_id": "34"
+    },
+    "8474": {
+      "name": "RAI GULP",
+      "category_id": "34"
+    },
+    "8475": {
+      "name": "RAI ITALIA",
+      "category_id": "34"
+    },
+    "8476": {
+      "name": "RAI MOVIE",
+      "category_id": "34"
+    },
+    "8477": {
+      "name": "RAI NEWS 24",
+      "category_id": "34"
+    },
+    "8478": {
+      "name": "RAI PREMIUM",
+      "category_id": "34"
+    },
+    "8479": {
+      "name": "RAI SCUOLA",
+      "category_id": "34"
+    },
+    "8480": {
+      "name": "RAI SPORT [LIVE DURING EVENTS ONLY]",
+      "category_id": "34"
+    },
+    "8481": {
+      "name": "RAI SPORT+",
+      "category_id": "34"
+    },
+    "8482": {
+      "name": "RAI STORIA",
+      "category_id": "34"
+    },
+    "8483": {
+      "name": "RAI SÜDTIROL",
+      "category_id": "34"
+    },
+    "8484": {
+      "name": "RAI YOYO",
+      "category_id": "34"
+    },
+    "8485": {
+      "name": "RAKUTEN ACTION MOVIES",
+      "category_id": "34"
+    },
+    "8486": {
+      "name": "RAKUTEN COMEDY MOVIES",
+      "category_id": "34"
+    },
+    "8487": {
+      "name": "RAKUTEN DRAMA",
+      "category_id": "34"
+    },
+    "8488": {
+      "name": "RAKUTEN FAMILY",
+      "category_id": "34"
+    },
+    "8489": {
+      "name": "RAKUTEN TOP FREE",
+      "category_id": "34"
+    },
+    "8490": {
+      "name": "RAKUTEN TV SHOWS",
+      "category_id": "34"
+    },
+    "8491": {
+      "name": "RDS SOCIAL",
+      "category_id": "34"
+    },
+    "8492": {
+      "name": "RDS SOCIAL TV",
+      "category_id": "34"
+    },
+    "8493": {
+      "name": "REAL TIME",
+      "category_id": "34"
+    },
+    "8494": {
+      "name": "REGGIO TV",
+      "category_id": "34"
+    },
+    "8495": {
+      "name": "REI TV",
+      "category_id": "34"
+    },
+    "8496": {
+      "name": "RETE 4",
+      "category_id": "34"
+    },
+    "8497": {
+      "name": "RETE ORO",
+      "category_id": "34"
+    },
+    "8498": {
+      "name": "RETE SOLE",
+      "category_id": "34"
+    },
+    "8499": {
+      "name": "RETE TV ITALIA",
+      "category_id": "34"
+    },
+    "8500": {
+      "name": "RETE VENETA",
+      "category_id": "34"
+    },
+    "8501": {
+      "name": "RETEBIELLA TV",
+      "category_id": "34"
+    },
+    "8502": {
+      "name": "RETESOLE LAZIO",
+      "category_id": "34"
+    },
+    "8503": {
+      "name": "RSI LA 1",
+      "category_id": "34"
+    },
+    "8504": {
+      "name": "RSI LA 2",
+      "category_id": "34"
+    },
+    "8505": {
+      "name": "RTC TELECALABRIA",
+      "category_id": "34"
+    },
+    "8506": {
+      "name": "RTL 102.5",
+      "category_id": "34"
+    },
+    "8507": {
+      "name": "RTP",
+      "category_id": "34"
+    },
+    "8508": {
+      "name": "RTR 99 TV",
+      "category_id": "34"
+    },
+    "8509": {
+      "name": "RTTR",
+      "category_id": "34"
+    },
+    "8510": {
+      "name": "RTTR TV",
+      "category_id": "34"
+    },
+    "8511": {
+      "name": "RTV SAN MARINO",
+      "category_id": "34"
+    },
+    "8512": {
+      "name": "RTV SAN MARINO SPORT",
+      "category_id": "34"
+    },
+    "8513": {
+      "name": "SENATO TV",
+      "category_id": "34"
+    },
+    "8514": {
+      "name": "SKY ARTE",
+      "category_id": "34"
+    },
+    "8515": {
+      "name": "SKY ATLANTIC",
+      "category_id": "34"
+    },
+    "8516": {
+      "name": "SKY CINEMA ACTION",
+      "category_id": "34"
+    },
+    "8517": {
+      "name": "SKY CINEMA COLLECTION",
+      "category_id": "34"
+    },
+    "8518": {
+      "name": "SKY CINEMA COMEDY",
+      "category_id": "34"
+    },
+    "8519": {
+      "name": "SKY CINEMA DUE",
+      "category_id": "34"
+    },
+    "8520": {
+      "name": "SKY CINEMA DUE +24",
+      "category_id": "34"
+    },
+    "8521": {
+      "name": "SKY CINEMA FAMILY",
+      "category_id": "34"
+    },
+    "8522": {
+      "name": "SKY CINEMA ROMANCE",
+      "category_id": "34"
+    },
+    "8523": {
+      "name": "SKY CINEMA SUSPENSE",
+      "category_id": "34"
+    },
+    "8524": {
+      "name": "SKY CINEMA UNO",
+      "category_id": "34"
+    },
+    "8525": {
+      "name": "SKY CINEMA UNO +24",
+      "category_id": "34"
+    },
+    "8526": {
+      "name": "SKY PRIMAFILA 1",
+      "category_id": "34"
+    },
+    "8527": {
+      "name": "SKY PRIMAFILA 10",
+      "category_id": "34"
+    },
+    "8528": {
+      "name": "SKY PRIMAFILA 2",
+      "category_id": "34"
+    },
+    "8529": {
+      "name": "SKY PRIMAFILA 3",
+      "category_id": "34"
+    },
+    "8530": {
+      "name": "SKY PRIMAFILA 4",
+      "category_id": "34"
+    },
+    "8531": {
+      "name": "SKY PRIMAFILA 5",
+      "category_id": "34"
+    },
+    "8532": {
+      "name": "SKY PRIMAFILA 6",
+      "category_id": "34"
+    },
+    "8533": {
+      "name": "SKY PRIMAFILA 7",
+      "category_id": "34"
+    },
+    "8534": {
+      "name": "SKY PRIMAFILA 8",
+      "category_id": "34"
+    },
+    "8535": {
+      "name": "SKY PRIMAFILA 9",
+      "category_id": "34"
+    },
+    "8536": {
+      "name": "SKY SPORT",
+      "category_id": "34"
+    },
+    "8537": {
+      "name": "SKY SPORT 24 [LIVE DURING EVENTS ONLY]",
+      "category_id": "34"
+    },
+    "8538": {
+      "name": "SKY SPORT ARENA",
+      "category_id": "34"
+    },
+    "8539": {
+      "name": "SKY SPORT CALCIO",
+      "category_id": "34"
+    },
+    "8540": {
+      "name": "SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]",
+      "category_id": "34"
+    },
+    "8541": {
+      "name": "SKY SPORT GOLF",
+      "category_id": "34"
+    },
+    "8542": {
+      "name": "SKY SPORT MOTOGP",
+      "category_id": "34"
+    },
+    "8543": {
+      "name": "SKY SPORT NBA",
+      "category_id": "34"
+    },
+    "8544": {
+      "name": "SKY SPORT TENNIS",
+      "category_id": "34"
+    },
+    "8545": {
+      "name": "SKY SPORT UNO",
+      "category_id": "34"
+    },
+    "8546": {
+      "name": "SKY SPORTS F1",
+      "category_id": "34"
+    },
+    "8547": {
+      "name": "SKY SUPER TENNIS",
+      "category_id": "34"
+    },
+    "8548": {
+      "name": "SKY TG 24",
+      "category_id": "34"
+    },
+    "8549": {
+      "name": "SKY UNO",
+      "category_id": "34"
+    },
+    "8550": {
+      "name": "SPORT ITALIA",
+      "category_id": "34"
+    },
+    "8551": {
+      "name": "SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]",
+      "category_id": "34"
+    },
+    "8552": {
+      "name": "SUPER TENNIS",
+      "category_id": "34"
+    },
+    "8553": {
+      "name": "SUPER TV ARISTANIS",
+      "category_id": "34"
+    },
+    "8554": {
+      "name": "SUPER TV BRESCIA",
+      "category_id": "34"
+    },
+    "8555": {
+      "name": "SUPER!",
+      "category_id": "34"
+    },
+    "8556": {
+      "name": "SUPERSIX LOMBARDIA",
+      "category_id": "34"
+    },
+    "8557": {
+      "name": "TELE ABRUZZO",
+      "category_id": "34"
+    },
+    "8558": {
+      "name": "TELE CHIARA",
+      "category_id": "34"
+    },
+    "8559": {
+      "name": "TELE FRIULI",
+      "category_id": "34"
+    },
+    "8560": {
+      "name": "TELE LIGURIA SUD",
+      "category_id": "34"
+    },
+    "8561": {
+      "name": "TELE PAVIA",
+      "category_id": "34"
+    },
+    "8562": {
+      "name": "TELE ROMAGNA",
+      "category_id": "34"
+    },
+    "8563": {
+      "name": "TELE SIRIO",
+      "category_id": "34"
+    },
+    "8564": {
+      "name": "TELE TRICOLORE",
+      "category_id": "34"
+    },
+    "8565": {
+      "name": "TELE TUSCIASABINA 2000",
+      "category_id": "34"
+    },
+    "8566": {
+      "name": "TELE VENEZIA",
+      "category_id": "34"
+    },
+    "8567": {
+      "name": "TELEARENA",
+      "category_id": "34"
+    },
+    "8568": {
+      "name": "TELEARTE",
+      "category_id": "34"
+    },
+    "8569": {
+      "name": "TELEBELLUNO",
+      "category_id": "34"
+    },
+    "8570": {
+      "name": "TELEBOARIO",
+      "category_id": "34"
+    },
+    "8571": {
+      "name": "TELECITTA",
+      "category_id": "34"
+    },
+    "8572": {
+      "name": "TELECOLOR",
+      "category_id": "34"
+    },
+    "8573": {
+      "name": "TELEFOGGIA",
+      "category_id": "34"
+    },
+    "8574": {
+      "name": "TELEMANTOVA",
+      "category_id": "34"
+    },
+    "8575": {
+      "name": "TELEMIA",
+      "category_id": "34"
+    },
+    "8576": {
+      "name": "TELEMISTRETTA",
+      "category_id": "34"
+    },
+    "8577": {
+      "name": "TELEMOLISE",
+      "category_id": "34"
+    },
+    "8578": {
+      "name": "TELENORD",
+      "category_id": "34"
+    },
+    "8579": {
+      "name": "TELEPACE TRENTO",
+      "category_id": "34"
+    },
+    "8580": {
+      "name": "TELEQUATTRO",
+      "category_id": "34"
+    },
+    "8581": {
+      "name": "TELERAMA",
+      "category_id": "34"
+    },
+    "8582": {
+      "name": "TELEROMAGNA",
+      "category_id": "34"
+    },
+    "8583": {
+      "name": "TELETRICOLORE",
+      "category_id": "34"
+    },
+    "8584": {
+      "name": "TELETUBBIES",
+      "category_id": "34"
+    },
+    "8585": {
+      "name": "TELETUTTO",
+      "category_id": "34"
+    },
+    "8586": {
+      "name": "TELEVIDEO AGRIGENTO",
+      "category_id": "34"
+    },
+    "8587": {
+      "name": "TG COM 24",
+      "category_id": "34"
+    },
+    "8588": {
+      "name": "TG NORBA 24",
+      "category_id": "34"
+    },
+    "8589": {
+      "name": "TOP CALCIO 24",
+      "category_id": "34"
+    },
+    "8590": {
+      "name": "TOP CRIME",
+      "category_id": "34"
+    },
+    "8591": {
+      "name": "TRENTINO TV",
+      "category_id": "34"
+    },
+    "8592": {
+      "name": "TRSPORT",
+      "category_id": "34"
+    },
+    "8593": {
+      "name": "TT TELETUTTO",
+      "category_id": "34"
+    },
+    "8594": {
+      "name": "TV 8",
+      "category_id": "34"
+    },
+    "8595": {
+      "name": "TV QUI",
+      "category_id": "34"
+    },
+    "8596": {
+      "name": "TV2000",
+      "category_id": "34"
+    },
+    "8597": {
+      "name": "TV7 NEWS",
+      "category_id": "34"
+    },
+    "8598": {
+      "name": "TVA VICENZA",
+      "category_id": "34"
+    },
+    "8599": {
+      "name": "TVRS",
+      "category_id": "34"
+    },
+    "8600": {
+      "name": "UMBRIA TV",
+      "category_id": "34"
+    },
+    "8601": {
+      "name": "UNINETTUNO",
+      "category_id": "34"
+    },
+    "8602": {
+      "name": "UNINETTUNO UNIVERSITY TV",
+      "category_id": "34"
+    },
+    "8603": {
+      "name": "VCO AZZURRA TV",
+      "category_id": "34"
+    },
+    "8604": {
+      "name": "VERA TV",
+      "category_id": "34"
+    },
+    "8605": {
+      "name": "VIDEO NOVARA",
+      "category_id": "34"
+    },
+    "8606": {
+      "name": "VIDEOLINA",
+      "category_id": "34"
+    },
+    "8607": {
+      "name": "VIDEOSTAR TV",
+      "category_id": "34"
+    },
+    "8608": {
+      "name": "VIDEOTOLENTINO",
+      "category_id": "34"
+    },
+    "8609": {
+      "name": "WWE CHANNEL",
+      "category_id": "34"
+    },
+    "8610": {
+      "name": "BEIN SPORTS 1",
+      "category_id": "31"
     }
   }
 }
