@@ -296,13 +296,13 @@
   "/majutsushi-kunon-wa-mieteiru": {
     "group": "MAJUTSUSHI KUNON WA MIETEIRU",
     "last_season": 1,
-    "last_episode": 3.0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/hakugei-densetsu": {
     "group": "HAKUGEI DENSETSU",
     "last_season": 1,
-    "last_episode": 1.0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/kui-cheng-shoufu-cong-youxi-kaishi": {
@@ -314,19 +314,19 @@
   "/osananajimi-to-wa-love-comedy-ni-naranai": {
     "group": "OSANANAJIMI TO WA LOVE COMEDY NI NARANAI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/vigilante-boku-no-hero-academia-illegals-2nd-season": {
     "group": "VIGILANTE: BOKU NO HERO ACADEMIA ILLEGALS 2ND SEASON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/hokuto-no-ken-kenougun-zako-tachi-no-banka": {
     "group": "HOKUTO NO KEN: KENOUGUN ZAKO-TACHI NO BANKA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }
