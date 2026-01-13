@@ -11925,7 +11925,9 @@
     "5644": "OUTLANDER: BLOOD OF MY BLOOD(2025) DUBLAJ & ALTYAZI",
     "5645": "HOKUTO NO KEN: KENOUGUN ZAKO-TACHI NO BANKA(2026) TÜRKÇE ALTYAZI",
     "5646": "TIS TIME FOR TORTURE PRINCESS SEASON 2(2026) İNGİLİZCE ALTYAZI",
-    "5647": "THE BOYFRIEND(2024) TÜRKÇE ALTYAZI"
+    "5647": "THE BOYFRIEND(2024) TÜRKÇE ALTYAZI",
+    "5648": "再会～SILENT TRUTH～(2026) TÜRKÇE ALTYAZI",
+    "5649": "OSHI NO KO 2ND SEASON(2024) İNGİLİZCE ALTYAZI"
   },
   "live": {
     "1000": {
@@ -70467,6 +70469,18 @@
     "15634": {
       "name": "SPORT DIGITAL FHD",
       "category_id": "20"
+    },
+    "15635": {
+      "name": "DYN SPORT 7",
+      "category_id": "20"
+    },
+    "15636": {
+      "name": "ROCK TV",
+      "category_id": "29"
+    },
+    "15637": {
+      "name": "EDGESPORT",
+      "category_id": "32"
     }
   }
 }
