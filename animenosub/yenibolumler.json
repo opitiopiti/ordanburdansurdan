@@ -1,4 +1,10 @@
 {
+  "/anime/the-demon-kings-daughter-is-too-kind/": {
+    "group": "THE DEMON KING’S DAUGHTER IS TOO KIND!!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/tis-time-for-torture-princess-season-2/": {
     "group": "‘TIS TIME FOR “TORTURE,” PRINCESS SEASON 2",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "DIGIMON BEATBREAK",
     "last_season": 1,
     "last_episode": 14,
-    "start_episode": 1
-  },
-  "/anime/scum-of-the-brave/": {
-    "group": "SCUM OF THE BRAVE",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

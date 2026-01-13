@@ -1,4 +1,28 @@
 {
+  "/diziler/fire-country.html": {
+    "group": "FIRE COUNTRY",
+    "last_season": 4,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/diziler/tracker.html": {
+    "group": "TRACKER",
+    "last_season": 3,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/ghosts.html": {
+    "group": "GHOSTS",
+    "last_season": 5,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/will-trent.html": {
+    "group": "WILL TRENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/primal.html": {
     "group": "PRIMAL",
     "last_season": 3,
@@ -51,30 +75,6 @@
     "group": "SENTENCED TO BE A HERO",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/fire-country.html": {
-    "group": "FIRE COUNTRY",
-    "last_season": 4,
-    "last_episode": 4,
-    "start_episode": 1
-  },
-  "/diziler/pokemon-horizons.html": {
-    "group": "POKEMON HORIZONS",
-    "last_season": 3,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/cats-eye.html": {
-    "group": "CAT'S EYE",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/diziler/jujutsu-kaisen.html": {
-    "group": "JUJUTSU KAISEN",
-    "last_season": 3,
-    "last_episode": 2,
     "start_episode": 1
   }
 }
