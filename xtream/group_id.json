@@ -70441,6 +70441,14 @@
     "15629": {
       "name": "SINEMA KOMEDI",
       "category_id": "3"
+    },
+    "15630": {
+      "name": "SPORT1+ FHD",
+      "category_id": "20"
+    },
+    "15631": {
+      "name": "TV3+ HD",
+      "category_id": "20"
     }
   }
 }
