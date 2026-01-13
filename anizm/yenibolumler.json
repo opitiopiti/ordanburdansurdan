@@ -1,4 +1,10 @@
 {
+  "/tondemo-skill-de-isekai-hourou-meshi-2": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
   "/kirei-ni-shitemoraemasu-ka": {
     "group": "KIREI NI SHITEMORAEMASU KA.",
     "last_season": 1,
@@ -87,12 +93,6 @@
     "group": "AKUYAKU REIJOU WA RINGOKU NO OUTAISHI NI DEKIAI SARERU",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/majutsushi-kunon-wa-mieteiru": {
-    "group": "MAJUTSUSHI KUNON WA MIETEIRU",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }
