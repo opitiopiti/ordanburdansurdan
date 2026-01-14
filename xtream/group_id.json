@@ -7275,7 +7275,9 @@
     "8272": "THE GETBACK(2023) (DUBLAJ & ALTYAZI)",
     "8273": "YARIŞÇILAR: BÜYÜK HESAPLAŞMA(2023) (DUBLAJ & ALTYAZI)",
     "8274": "GREENLAND 2 MIGRATION(2026) (ALTYAZI)",
-    "8275": "PIYANO(1993) (DUBLAJ & ALTYAZI)"
+    "8275": "PIYANO(1993) (DUBLAJ & ALTYAZI)",
+    "8276": "TOZ YUMAĞI(2025) (ALTYAZI)",
+    "8277": "THE INTERNSHIP(2026) (ALTYAZI)"
   },
   "series": {
     "1000": "İNGİLTERE MEZATÇILARI DMAX TÜRKİYE",
@@ -70481,6 +70483,742 @@
     "15637": {
       "name": "EDGESPORT",
       "category_id": "32"
+    },
+    "15638": {
+      "name": "MAX AKSIYON",
+      "category_id": "19"
+    },
+    "15639": {
+      "name": "SCIENCE & VICE",
+      "category_id": "19"
+    },
+    "15640": {
+      "name": "DAZN 1 -HD  HEVC H.265",
+      "category_id": "20"
+    },
+    "15641": {
+      "name": "DAZN BAR 1 FHD",
+      "category_id": "20"
+    },
+    "15642": {
+      "name": "DAZN BAR 1 HD",
+      "category_id": "20"
+    },
+    "15643": {
+      "name": "DAZN BAR 2 FHD",
+      "category_id": "20"
+    },
+    "15644": {
+      "name": "DAZN BAR 2 HD",
+      "category_id": "20"
+    },
+    "15645": {
+      "name": "DAZN EVENTS 1",
+      "category_id": "20"
+    },
+    "15646": {
+      "name": "DAZN EVENTS 2",
+      "category_id": "20"
+    },
+    "15647": {
+      "name": "DYN SPORT 3",
+      "category_id": "20"
+    },
+    "15648": {
+      "name": "SKY BUNDESLIGA 2",
+      "category_id": "20"
+    },
+    "15649": {
+      "name": "SKY BUNDESLIGA 9 HD",
+      "category_id": "20"
+    },
+    "15650": {
+      "name": "SKY SELECT 06 4K",
+      "category_id": "20"
+    },
+    "15651": {
+      "name": "SKY SELECT 07 4K",
+      "category_id": "20"
+    },
+    "15652": {
+      "name": "SKY SELECT 08 4K",
+      "category_id": "20"
+    },
+    "15653": {
+      "name": "SKY SELECT PREMIERE 8",
+      "category_id": "20"
+    },
+    "15654": {
+      "name": "STAR WARS CHANNEL",
+      "category_id": "20"
+    },
+    "15655": {
+      "name": "WICKED TUNA GERMANY",
+      "category_id": "20"
+    },
+    "15656": {
+      "name": "WILLKOMMEN BEI DEN LOUDS",
+      "category_id": "20"
+    },
+    "15657": {
+      "name": "WINGS DIE ÜBERFLIEGER",
+      "category_id": "20"
+    },
+    "15658": {
+      "name": "YU-GI-OH!",
+      "category_id": "20"
+    },
+    "15659": {
+      "name": "COMEDY 2",
+      "category_id": "21"
+    },
+    "15660": {
+      "name": "ON DEMAND EXTRA 1",
+      "category_id": "21"
+    },
+    "15661": {
+      "name": "THRILLER 2",
+      "category_id": "21"
+    },
+    "15662": {
+      "name": "TV CRIME",
+      "category_id": "21"
+    },
+    "15663": {
+      "name": "TV MOVIES FAMILY",
+      "category_id": "21"
+    },
+    "15664": {
+      "name": "WOMAN",
+      "category_id": "21"
+    },
+    "15665": {
+      "name": "8OVA DRAME",
+      "category_id": "22"
+    },
+    "15666": {
+      "name": "ART KINO 2",
+      "category_id": "22"
+    },
+    "15667": {
+      "name": "BAYANE",
+      "category_id": "22"
+    },
+    "15668": {
+      "name": "DARK INSTRUMENTALE INT",
+      "category_id": "22"
+    },
+    "15669": {
+      "name": "FAJER 4",
+      "category_id": "22"
+    },
+    "15670": {
+      "name": "KINEMA AGIMI",
+      "category_id": "22"
+    },
+    "15671": {
+      "name": "KINEMA AKSION",
+      "category_id": "22"
+    },
+    "15672": {
+      "name": "KINEMA MILENIUM 1",
+      "category_id": "22"
+    },
+    "15673": {
+      "name": "MASHHAD",
+      "category_id": "22"
+    },
+    "15674": {
+      "name": "METITV COMEDY",
+      "category_id": "22"
+    },
+    "15675": {
+      "name": "METITV LUFTË",
+      "category_id": "22"
+    },
+    "15676": {
+      "name": "PRO 1",
+      "category_id": "22"
+    },
+    "15677": {
+      "name": "ROMA TV",
+      "category_id": "22"
+    },
+    "15678": {
+      "name": "SA3A ALYOUM",
+      "category_id": "22"
+    },
+    "15679": {
+      "name": "SHABAB SPORT 1",
+      "category_id": "22"
+    },
+    "15680": {
+      "name": "SMILE",
+      "category_id": "22"
+    },
+    "15681": {
+      "name": "STAR+ SHKODER",
+      "category_id": "22"
+    },
+    "15682": {
+      "name": "T",
+      "category_id": "22"
+    },
+    "15683": {
+      "name": "TËVË1",
+      "category_id": "22"
+    },
+    "15684": {
+      "name": "WEBSTAR CHUCHU",
+      "category_id": "22"
+    },
+    "15685": {
+      "name": "WEBSTAR KOMEDI",
+      "category_id": "22"
+    },
+    "15686": {
+      "name": "DAZN 4K",
+      "category_id": "25"
+    },
+    "15687": {
+      "name": "DAZN ELEVENT1 HD",
+      "category_id": "25"
+    },
+    "15688": {
+      "name": "DAZN ELEVENT1. HD",
+      "category_id": "25"
+    },
+    "15689": {
+      "name": "DAZN RISE  HD",
+      "category_id": "25"
+    },
+    "15690": {
+      "name": "DAZN SPORT FHD",
+      "category_id": "25"
+    },
+    "15691": {
+      "name": "LE FIGARO",
+      "category_id": "25"
+    },
+    "15692": {
+      "name": "PSG - LIGUE 1",
+      "category_id": "25"
+    },
+    "15693": {
+      "name": "RMC SPORT 2 HD",
+      "category_id": "25"
+    },
+    "15694": {
+      "name": "TEBEO",
+      "category_id": "25"
+    },
+    "15695": {
+      "name": "XILAM TV",
+      "category_id": "25"
+    },
+    "15696": {
+      "name": "CRIME &INVESTIGATION",
+      "category_id": "26"
+    },
+    "15697": {
+      "name": "DAZN SOPORT 3 HD",
+      "category_id": "26"
+    },
+    "15698": {
+      "name": "RTV RIOBAMBA",
+      "category_id": "26"
+    },
+    "15699": {
+      "name": "VIAPLAY EVENT 9",
+      "category_id": "26"
+    },
+    "15700": {
+      "name": "ZFM ZOETERMEER",
+      "category_id": "26"
+    },
+    "15701": {
+      "name": "ZIGGO SPORT TENNIS",
+      "category_id": "26"
+    },
+    "15702": {
+      "name": "ZO!34",
+      "category_id": "26"
+    },
+    "15703": {
+      "name": "CANAL+ EXTRA 1",
+      "category_id": "27"
+    },
+    "15704": {
+      "name": "CANAL+ EXTRA 3",
+      "category_id": "27"
+    },
+    "15705": {
+      "name": "CANAL+ EXTRA 5",
+      "category_id": "27"
+    },
+    "15706": {
+      "name": "CANAL+ EXTRA 6",
+      "category_id": "27"
+    },
+    "15707": {
+      "name": "CANAL+ EXTRA 7",
+      "category_id": "27"
+    },
+    "15708": {
+      "name": "MEZZO LIVE",
+      "category_id": "28"
+    },
+    "15709": {
+      "name": "TCV INTERNACIONAL",
+      "category_id": "28"
+    },
+    "15710": {
+      "name": "AMEDIA HOME OF HBO",
+      "category_id": "30"
+    },
+    "15711": {
+      "name": "BELARUS",
+      "category_id": "30"
+    },
+    "15712": {
+      "name": "BOXE TB",
+      "category_id": "30"
+    },
+    "15713": {
+      "name": "DA VINCI LEARNING",
+      "category_id": "30"
+    },
+    "15714": {
+      "name": "DISNEY CHANNEL",
+      "category_id": "30"
+    },
+    "15715": {
+      "name": "DOMASHNIY",
+      "category_id": "30"
+    },
+    "15716": {
+      "name": "EUROKINO",
+      "category_id": "30"
+    },
+    "15717": {
+      "name": "FINE LIVING",
+      "category_id": "30"
+    },
+    "15718": {
+      "name": "FOTBALL",
+      "category_id": "30"
+    },
+    "15719": {
+      "name": "HAWE",
+      "category_id": "30"
+    },
+    "15720": {
+      "name": "HAWE HOBEW",
+      "category_id": "30"
+    },
+    "15721": {
+      "name": "HD LIFE",
+      "category_id": "30"
+    },
+    "15722": {
+      "name": "ILLUSION",
+      "category_id": "30"
+    },
+    "15723": {
+      "name": "KINO FILM",
+      "category_id": "30"
+    },
+    "15724": {
+      "name": "KINO ROKAS 2",
+      "category_id": "30"
+    },
+    "15725": {
+      "name": "LEN 24",
+      "category_id": "30"
+    },
+    "15726": {
+      "name": "MATCH OUR SPORTS",
+      "category_id": "30"
+    },
+    "15727": {
+      "name": "MATCH PLANET",
+      "category_id": "30"
+    },
+    "15728": {
+      "name": "MATCH TV",
+      "category_id": "30"
+    },
+    "15729": {
+      "name": "MILLET",
+      "category_id": "30"
+    },
+    "15730": {
+      "name": "MUSIC",
+      "category_id": "30"
+    },
+    "15731": {
+      "name": "MY3 TB",
+      "category_id": "30"
+    },
+    "15732": {
+      "name": "NATIONAL GEOGRAPHIC",
+      "category_id": "30"
+    },
+    "15733": {
+      "name": "ONE CHANNEL",
+      "category_id": "30"
+    },
+    "15734": {
+      "name": "PERVIY KANAL",
+      "category_id": "30"
+    },
+    "15735": {
+      "name": "PETPO",
+      "category_id": "30"
+    },
+    "15736": {
+      "name": "PJATNICA",
+      "category_id": "30"
+    },
+    "15737": {
+      "name": "RTDOCUMENTARY",
+      "category_id": "30"
+    },
+    "15738": {
+      "name": "RUSSIA RTR",
+      "category_id": "30"
+    },
+    "15739": {
+      "name": "RUSSIA XTREAM",
+      "category_id": "30"
+    },
+    "15740": {
+      "name": "TB U",
+      "category_id": "30"
+    },
+    "15741": {
+      "name": "TBA LIFE",
+      "category_id": "30"
+    },
+    "15742": {
+      "name": "TELE CAFE",
+      "category_id": "30"
+    },
+    "15743": {
+      "name": "TOCHIKA ORTIVA",
+      "category_id": "30"
+    },
+    "15744": {
+      "name": "TV 1000 RUSKOE KINO",
+      "category_id": "30"
+    },
+    "15745": {
+      "name": "VIJU+ EXPLORER",
+      "category_id": "30"
+    },
+    "15746": {
+      "name": "VIJU+ HISTORY",
+      "category_id": "30"
+    },
+    "15747": {
+      "name": "VIJU+ MEGAHIT",
+      "category_id": "30"
+    },
+    "15748": {
+      "name": "VIJU+ NATURE",
+      "category_id": "30"
+    },
+    "15749": {
+      "name": "VIJU+ PREMIUM",
+      "category_id": "30"
+    },
+    "15750": {
+      "name": "LIVERPOOL VS EVERTON",
+      "category_id": "32"
+    },
+    "15751": {
+      "name": "SKY SPORT TENNIS",
+      "category_id": "32"
+    },
+    "15752": {
+      "name": "SKY SPORTS F1 FHD",
+      "category_id": "32"
+    },
+    "15753": {
+      "name": "SKY SPORTS MIX FHD",
+      "category_id": "32"
+    },
+    "15754": {
+      "name": "SKY SPORTS NEWS HQ HD",
+      "category_id": "32"
+    },
+    "15755": {
+      "name": "SKY SPORTS TENNIS",
+      "category_id": "32"
+    },
+    "15756": {
+      "name": "SKY SPORTS TENNIS FHD",
+      "category_id": "32"
+    },
+    "15757": {
+      "name": "SKY SPORTS ULTRA 1 4K",
+      "category_id": "32"
+    },
+    "15758": {
+      "name": "SKY SPORTS ULTRA 2 4K",
+      "category_id": "32"
+    },
+    "15759": {
+      "name": "SKY STORE INFO",
+      "category_id": "32"
+    },
+    "15760": {
+      "name": "SKY STORE PREMIERE 1 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15761": {
+      "name": "SKY STORE PREMIERE 10 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15762": {
+      "name": "SKY STORE PREMIERE 11 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15763": {
+      "name": "SKY STORE PREMIERE 12 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15764": {
+      "name": "SKY STORE PREMIERE 13 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15765": {
+      "name": "SKY STORE PREMIERE 14 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15766": {
+      "name": "SKY STORE PREMIERE 15 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15767": {
+      "name": "SKY STORE PREMIERE 16 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15768": {
+      "name": "SKY STORE PREMIERE 17 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15769": {
+      "name": "SKY STORE PREMIERE 18 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15770": {
+      "name": "SKY STORE PREMIERE 19 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15771": {
+      "name": "SKY STORE PREMIERE 2 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15772": {
+      "name": "SKY STORE PREMIERE 20 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15773": {
+      "name": "SKY STORE PREMIERE 21 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15774": {
+      "name": "SKY STORE PREMIERE 22 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15775": {
+      "name": "SKY STORE PREMIERE 23 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15776": {
+      "name": "SKY STORE PREMIERE 24 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15777": {
+      "name": "SKY STORE PREMIERE 25 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15778": {
+      "name": "SKY STORE PREMIERE 26 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15779": {
+      "name": "SKY STORE PREMIERE 27 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15780": {
+      "name": "SKY STORE PREMIERE 28 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15781": {
+      "name": "SKY STORE PREMIERE 29 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15782": {
+      "name": "SKY STORE PREMIERE 3 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15783": {
+      "name": "SKY STORE PREMIERE 30 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15784": {
+      "name": "SKY STORE PREMIERE 4 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15785": {
+      "name": "SKY STORE PREMIERE 5 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15786": {
+      "name": "SKY STORE PREMIERE 6 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15787": {
+      "name": "SKY STORE PREMIERE 7 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15788": {
+      "name": "SKY STORE PREMIERE 8 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15789": {
+      "name": "SKY STORE PREMIERE 9 ᴴᴰ",
+      "category_id": "32"
+    },
+    "15790": {
+      "name": "TNT SPORTS 09",
+      "category_id": "32"
+    },
+    "15791": {
+      "name": "TNT SPORTS 10",
+      "category_id": "32"
+    },
+    "15792": {
+      "name": "TNT SPORTS 5",
+      "category_id": "32"
+    },
+    "15793": {
+      "name": "TNT SPORTS 6",
+      "category_id": "32"
+    },
+    "15794": {
+      "name": "TNT SPORTS 7",
+      "category_id": "32"
+    },
+    "15795": {
+      "name": "TNT SPORTS 8",
+      "category_id": "32"
+    },
+    "15796": {
+      "name": "TNT SPORTS ULTIMATE",
+      "category_id": "32"
+    },
+    "15797": {
+      "name": "TRAVELXP",
+      "category_id": "32"
+    },
+    "15798": {
+      "name": "UKFHD : TNT SPORTS BOX OFFICE",
+      "category_id": "32"
+    },
+    "15799": {
+      "name": "UKHD : TNT SPORTS BOX OFFICE",
+      "category_id": "32"
+    },
+    "15800": {
+      "name": "UKSD : TNT SPORTS BOX OFFICE",
+      "category_id": "32"
+    },
+    "15801": {
+      "name": "VIAPLAY SPORTS 1",
+      "category_id": "32"
+    },
+    "15802": {
+      "name": "VIAPLAY SPORTS 2",
+      "category_id": "32"
+    },
+    "15803": {
+      "name": "VIAPLAY XTRA",
+      "category_id": "32"
+    },
+    "15804": {
+      "name": "VIRGIN MEDIA ONE",
+      "category_id": "32"
+    },
+    "15805": {
+      "name": "VIRGIN MEDIA TWO",
+      "category_id": "32"
+    },
+    "15806": {
+      "name": "101 TV",
+      "category_id": "33"
+    },
+    "15807": {
+      "name": "324",
+      "category_id": "33"
+    },
+    "15808": {
+      "name": "CANAL SIERRA DE CADIZ",
+      "category_id": "33"
+    },
+    "15809": {
+      "name": "CGTN ESPANOL",
+      "category_id": "33"
+    },
+    "15810": {
+      "name": "EUROSPORT 4",
+      "category_id": "33"
+    },
+    "15811": {
+      "name": "YU-GI-OH! EN ESPANOL",
+      "category_id": "33"
+    },
+    "15812": {
+      "name": "ZAZ",
+      "category_id": "33"
+    },
+    "15813": {
+      "name": "GRANDE FRATELLO",
+      "category_id": "34"
+    },
+    "15814": {
+      "name": "PAROLE DI VITA",
+      "category_id": "34"
+    },
+    "15815": {
+      "name": "RETE 8",
+      "category_id": "34"
+    },
+    "15816": {
+      "name": "TELEPACE 1",
+      "category_id": "34"
+    },
+    "15817": {
+      "name": "TELEPACE 2",
+      "category_id": "34"
+    },
+    "15818": {
+      "name": "TELEPACE 3",
+      "category_id": "34"
+    },
+    "15819": {
+      "name": "TELEPACE 4",
+      "category_id": "34"
+    },
+    "15820": {
+      "name": "TELESONDRIO NEWS",
+      "category_id": "34"
+    },
+    "15821": {
+      "name": "YU-GI-OH! ITALY",
+      "category_id": "34"
     }
   }
 }
