@@ -1,4 +1,22 @@
 {
+  "/okiraku-ryoushu-no-tanoshii-ryouchi-bouei-seisankei-majutsu-de-na-mo-naki-mura-wo-saikyou-no-jousai-toshi-ni": {
+    "group": "OKIRAKU RYOUSHU NO TANOSHII RYOUCHI BOUEI: SEISANKEI MAJUTSU DE NA MO NAKI MURA WO SAIKYOU NO JOUSAI TOSHI NI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/29-sai-dokushin-chuuken-boukensha-no-nichijou": {
+    "group": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/isekai-no-sata-wa-shachiku-shidai": {
+    "group": "ISEKAI NO SATA WA SHACHIKU SHIDAI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/yoroi-shin-den-samurai-troopers": {
     "group": "YOROI SHIN DEN SAMURAI TROOPERS",
     "last_season": 1,
@@ -75,24 +93,6 @@
     "group": "KUI CHENG SHOUFU CONG YOUXI KAISHI",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/goumon-baito-kun-no-nichijou": {
-    "group": "GOUMON BAITO-KUN NO NICHIJOU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/hanazakari-no-kimitachi-e": {
-    "group": "HANAZAKARI NO KIMITACHI E",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/digimon-beatbreak": {
-    "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 14.0,
     "start_episode": 1
   }
 }

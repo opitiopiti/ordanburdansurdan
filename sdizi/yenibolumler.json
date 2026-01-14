@@ -1,4 +1,22 @@
 {
+  "/diziler/percy-jackson-and-the-olympians.html": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/hijack.html": {
+    "group": "HIJACK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/palm-royale.html": {
+    "group": "PALM ROYALE",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "/diziler/fire-country.html": {
     "group": "FIRE COUNTRY",
     "last_season": 4,
@@ -69,12 +87,6 @@
     "group": "TO YOUR ETERNITY",
     "last_season": 3,
     "last_episode": 14,
-    "start_episode": 1
-  },
-  "/diziler/sentenced-to-be-a-hero.html": {
-    "group": "SENTENCED TO BE A HERO",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

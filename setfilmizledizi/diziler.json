@@ -10504,5 +10504,11 @@
     "last_season": 4,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi/pole-to-pole-with-will-smith/": {
+    "group": "POLE TO POLE WITH WILL SMITH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
