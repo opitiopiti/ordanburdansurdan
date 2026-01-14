@@ -324,7 +324,8 @@
     {"name": "THE YOGURT SHOP MURDERS", "year": "2025"},
     {"name": "ROOM 104", "year": "2017"},
     {"name": "I LOVE LA", "year": "2025"},
-    {"name": "SEEN & HEARD: THE HISTORY OF BLACK TELEVISION", "year": "2025"}
+    {"name": "SEEN & HEARD: THE HISTORY OF BLACK TELEVISION", "year": "2025"},
+    {"name": "INDUSTRY", "year": "2020"}
   ],
   "NICKELODEON DİZİLERİ": [
     {"name": "AVATAR: THE LAST AIRBENDER", "year": "2005"},
@@ -2169,7 +2170,11 @@
     {"name": "SEVGILIM BIR KORELI", "year": "2026"},
     {"name": "RIPPLE", "year": "2025"},
     {"name": "ALPHA MALES MACHOS ALFA", "year": "2022"},
-    {"name": "PAPARAZZI KING", "year": "2026"}
+    {"name": "PAPARAZZI KING", "year": "2026"},
+    {"name": "HIS & HERS", "year": "2026"},
+    {"name": "THE HUNTING WIVES", "year": "2025"},
+    {"name": "KASABA", "year": "2025"},
+    {"name": "TASKAREE: THE SMUGGLER’S WEB", "year": "2026"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "DEXTER: RESURRECTION", "year": "2025"},
@@ -2207,7 +2212,8 @@
     {"name": "LANDMAN", "year": "2024"},
     {"name": "DON'T PICK UP THE PHONE", "year": "2022"},
     {"name": "DEXTER RESURRECTION", "year": "2025"},
-    {"name": "LITTLE DISASTERS", "year": "2025"}
+    {"name": "LITTLE DISASTERS", "year": "2025"},
+    {"name": "GIRL TAKEN", "year": "2026"}
   ],
   "ITV DİZİLERİ": [
     {"name": "THE WORLD AT WAR", "year": "1973"},
@@ -2686,7 +2692,8 @@
     {"name": "POWERLESS", "year": "2017"},
     {"name": "THE CAPE", "year": "2011"},
     {"name": "KNIGHT RIDER (2008)", "year": "2008"},
-    {"name": "ROSEMARY'S BABY", "year": "2014"}
+    {"name": "ROSEMARY'S BABY", "year": "2014"},
+    {"name": "ALF", "year": "1986"}
   ],
   "FUJI TV DİZİLERİ": [
     {"name": "ONE PIECE", "year": "1999"},
@@ -3554,7 +3561,9 @@
     {"name": "TAYLOR SWIFT THE ERAS TOUR THE END OF AN ERA", "year": "2025"},
     {"name": "ARE YOU SURE", "year": "2024"},
     {"name": "TAYLOR SWIFT THE ERAS TOUR THE FINAL SHOW", "year": "2025"},
-    {"name": "MADE IN KOREA", "year": "2025"}
+    {"name": "MADE IN KOREA", "year": "2025"},
+    {"name": "THE END OF AN ERA", "year": "2025"},
+    {"name": "POLE TO POLE WITH WILL SMITH", "year": "2026"}
   ],
   "FRANCE 2 DİZİLERİ": [
     {"name": "APOCALYPSE: THE SECOND WORLD WAR", "year": "2009"},
@@ -3839,7 +3848,8 @@
     {"name": "ITS FLORIDA MAN", "year": "2024"},
     {"name": "HAHA YOU CLOWNS", "year": "2025"},
     {"name": "THE PITT", "year": "2025"},
-    {"name": "HEAVEN", "year": "2025"}
+    {"name": "HEAVEN", "year": "2025"},
+    {"name": "JASMINE", "year": "2025"}
   ],
   "TELETAMA DİZİLERİ": [
     {"name": "STEINS;GATE", "year": "2011"},
@@ -4234,7 +4244,8 @@
     {"name": "DETECTIVE CONAN: ZERO’S TEA TIME", "year": "2022"},
     {"name": "ULTRAMARINE MAGMELL", "year": "2019"},
     {"name": "AYAKA", "year": "2023"},
-    {"name": "ÜBEL BLATT", "year": "2025"}
+    {"name": "ÜBEL BLATT", "year": "2025"},
+    {"name": "FATE/STRANGE FAKE", "year": "2026"}
   ],
   "DISCOVERY DİZİLERİ": [
     {"name": "GREATEST EVENTS OF WWII IN COLOUR", "year": "2019"},
@@ -4780,7 +4791,9 @@
     {"name": "MAGIC CITY", "year": "2012"},
     {"name": "HIGHTOWN", "year": "2020"},
     {"name": "DANGEROUS LIAISONS", "year": "2022"},
-    {"name": "INSOMNIA", "year": "2018"}
+    {"name": "INSOMNIA", "year": "2018"},
+    {"name": "OUTLANDER: BLOOD OF MY BLOOD", "year": "2025"},
+    {"name": "SPARTACUS: HOUSE OF ASHUR", "year": "2025"}
   ],
   "E4 DİZİLERİ": [
     {"name": "THE INBETWEENERS", "year": "2008"},
@@ -5115,7 +5128,8 @@
     {"name": "THE COUNT OF MONTE CRISTO", "year": "2024"},
     {"name": "LEONARDO", "year": "2021"},
     {"name": "THE NAME OF THE ROSE", "year": "2019"},
-    {"name": "EXTERIOR NIGHT", "year": "2022"}
+    {"name": "EXTERIOR NIGHT", "year": "2022"},
+    {"name": "SANDOKAN", "year": "2025"}
   ],
   "FREEFORM DİZİLERİ": [
     {"name": "THE BOLD TYPE", "year": "2017"},
@@ -5492,7 +5506,8 @@
     {"name": "THE FORSYTES", "year": "2025"}
   ],
   "AMC+ DİZİLERİ": [
-    {"name": "MOONHAVEN", "year": "2022"}
+    {"name": "MOONHAVEN", "year": "2022"},
+    {"name": "SANCTUARY: A WITCH'S TALE", "year": "2024"}
   ],
   "PEACOCK PREMIUM DİZİLERİ": [
     {"name": "ST DENIS MEDICAL", "year": "2024"},
@@ -5869,7 +5884,8 @@
   "IQIYI DİZİLERİ": [
     {"name": "LOVE BETWEEN FAIRY AND DEVIL", "year": "2022"},
     {"name": "MY UNICORN GIRL", "year": "2020"},
-    {"name": "ONCE UPON A TIME IN LINGJIAN MOUNTAIN", "year": "2019"}
+    {"name": "ONCE UPON A TIME IN LINGJIAN MOUNTAIN", "year": "2019"},
+    {"name": "再会～SILENT TRUTH～", "year": "2023"}
   ],
   "SKY DEUTSCHLAND DİZİLERİ": [
     {"name": "DER PASS (PAGAN PEAK)", "year": "2019"},
@@ -5946,7 +5962,8 @@
     {"name": "KUNG FU", "year": "2021"},
     {"name": "PANDORA", "year": "2019"},
     {"name": "4400", "year": "2021"},
-    {"name": "TOM SWIFT", "year": "2022"}
+    {"name": "TOM SWIFT", "year": "2022"},
+    {"name": "HEAVEN", "year": "1996"}
   ],
   "ABC3 DİZİLERİ": [
     {"name": "THE INBESTIGATORS", "year": "2019"},
@@ -6408,7 +6425,9 @@
   ],
   "CBC GEM DİZİLERİ": [
     {"name": "FAKES", "year": "2022"},
-    {"name": "THE BANNOCKING", "year": "2023"}
+    {"name": "THE BANNOCKING", "year": "2023"},
+    {"name": "SAINT PIERRE", "year": "2025"},
+    {"name": "SAINT-PIERRE", "year": "2025"}
   ],
   "LA 1 DİZİLERİ": [
     {"name": "THE PATIENTS OF DR. GARCÍA", "year": "2023"}
@@ -6722,6 +6741,15 @@
     {"name": "HEAVEN", "year": "1987"}
   ],
   "PLEX DİZİLERİ": [
+
+  ],
+  "CMT DİZİLERİ": [
+    {"name": "9-1-1: NASHVILLE", "year": "2012"}
+  ],
+  "TENCENT QQ DİZİLERİ": [
+    {"name": "RUN AWAY", "year": "2023"}
+  ],
+  "CRUNCHYROLL DİZİLERİ": [
 
   ]
 }
