@@ -1,4 +1,10 @@
 {
+  "/yoroi-shin-den-samurai-troopers": {
+    "group": "YOROI SHIN DEN SAMURAI TROOPERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/arne-no-jikenbo": {
     "group": "ARNE NO JIKENBO",
     "last_season": 1,
@@ -87,12 +93,6 @@
     "group": "DIGIMON BEATBREAK",
     "last_season": 1,
     "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/ikoku-nikki": {
-    "group": "IKOKU NIKKI",
-    "last_season": 1,
-    "last_episode": 2.0,
     "start_episode": 1
   }
 }

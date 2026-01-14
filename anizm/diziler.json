@@ -352,5 +352,11 @@
     "last_season": 1,
     "last_episode": 3.0,
     "start_episode": 1
+  },
+  "/yoroi-shin-den-samurai-troopers": {
+    "group": "YOROI SHIN DEN SAMURAI TROOPERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
