@@ -340,5 +340,11 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/anime/love-through-a-prism/": {
+    "group": "LOVE THROUGH A PRISM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
