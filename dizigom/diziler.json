@@ -1132,5 +1132,11 @@
     "last_season": 2,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi-izle/taskaree-the-smugglers-web": {
+    "group": "TASKAREE: THE SMUGGLER'S WEB",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

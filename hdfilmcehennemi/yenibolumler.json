@@ -1,4 +1,10 @@
 {
+  "/dizi/the-rookie-izle-hdf9-a86/": {
+    "group": "THE ROOKIE"
+  },
+  "/dizi/high-potential/": {
+    "group": "HIGH POTENTIAL"
+  },
   "/dizi/percy-jackson-and-the-olympians-42/": {
     "group": "PERCY JACKSON AND THE OLYMPIANS"
   },
@@ -35,12 +41,6 @@
   "/dizi/the-night-manager/": {
     "group": "THE NIGHT MANAGER"
   },
-  "/dizi/heaven-2025-dizi-hdfc/": {
-    "group": "HEAVEN"
-  },
-  "/dizi/a-thousand-blows/": {
-    "group": "A THOUSAND BLOWS"
-  },
   "/dizi/outlander-blood-of-my-blood/": {
     "group": "OUTLANDER: BLOOD OF MY BLOOD"
   },
@@ -49,6 +49,9 @@
   },
   "/dizi/the-war-between-the-land-and-the-sea/": {
     "group": "THE WAR BETWEEN THE LAND AND THE SEA"
+  },
+  "/dizi/heaven-2025-dizi-hdfc/": {
+    "group": "HEAVEN"
   },
   "/dizi/dispatches-from-elsewhere/": {
     "group": "DISPATCHES FROM ELSEWHERE"
