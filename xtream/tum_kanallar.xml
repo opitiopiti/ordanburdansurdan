@@ -2625,47 +2625,26 @@
   <programme start="20260115000000 +0000" stop="20260115020000 +0000" channel="KANAL D SD">
     <title>POYRAZ KARAYEL</title>
   </programme>
-  <programme start="20260115020000 +0000" stop="20260115040000 +0000" channel="4K TR: KANAL D HD">
+  <programme start="20260115020000 +0000" stop="20260115060000 +0000" channel="4K TR: KANAL D HD">
     <title>ÜÇ KIZ KARDEŞ</title>
   </programme>
-  <programme start="20260115020000 +0000" stop="20260115040000 +0000" channel="KANAL D">
+  <programme start="20260115020000 +0000" stop="20260115060000 +0000" channel="KANAL D">
     <title>ÜÇ KIZ KARDEŞ</title>
   </programme>
-  <programme start="20260115020000 +0000" stop="20260115040000 +0000" channel="KANAL D FHD">
+  <programme start="20260115020000 +0000" stop="20260115060000 +0000" channel="KANAL D FHD">
     <title>ÜÇ KIZ KARDEŞ</title>
   </programme>
-  <programme start="20260115020000 +0000" stop="20260115040000 +0000" channel="KANAL D HD">
+  <programme start="20260115020000 +0000" stop="20260115060000 +0000" channel="KANAL D HD">
     <title>ÜÇ KIZ KARDEŞ</title>
   </programme>
-  <programme start="20260115020000 +0000" stop="20260115040000 +0000" channel="KANAL D HEVC">
+  <programme start="20260115020000 +0000" stop="20260115060000 +0000" channel="KANAL D HEVC">
     <title>ÜÇ KIZ KARDEŞ</title>
   </programme>
-  <programme start="20260115020000 +0000" stop="20260115040000 +0000" channel="KANAL D RAW">
+  <programme start="20260115020000 +0000" stop="20260115060000 +0000" channel="KANAL D RAW">
     <title>ÜÇ KIZ KARDEŞ</title>
   </programme>
-  <programme start="20260115020000 +0000" stop="20260115040000 +0000" channel="KANAL D SD">
+  <programme start="20260115020000 +0000" stop="20260115060000 +0000" channel="KANAL D SD">
     <title>ÜÇ KIZ KARDEŞ</title>
-  </programme>
-  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="4K TR: KANAL D HD">
-    <title>YABANCI DAMAT</title>
-  </programme>
-  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="KANAL D">
-    <title>YABANCI DAMAT</title>
-  </programme>
-  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="KANAL D FHD">
-    <title>YABANCI DAMAT</title>
-  </programme>
-  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="KANAL D HD">
-    <title>YABANCI DAMAT</title>
-  </programme>
-  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="KANAL D HEVC">
-    <title>YABANCI DAMAT</title>
-  </programme>
-  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="KANAL D RAW">
-    <title>YABANCI DAMAT</title>
-  </programme>
-  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="KANAL D SD">
-    <title>YABANCI DAMAT</title>
   </programme>
   <programme start="20260115060000 +0000" stop="20260115080000 +0000" channel="4K TR: KANAL D HD">
     <title>NELER OLUYOR HAYATTA</title>
@@ -2814,25 +2793,25 @@
   <programme start="20260115183000 +0000" stop="20260115204500 +0000" channel="KANAL D SD">
     <title>JURASSIC WORLD: YIKILMIŞ KRALLIK</title>
   </programme>
-  <programme start="20260115204500 +0000" stop="20260115233000 +0000" channel="4K TR: KANAL D HD">
+  <programme start="20260115204500 +0000" stop="20260115230000 +0000" channel="4K TR: KANAL D HD">
     <title>JURASSIC WORLD: YIKILMIŞ KRALLIK</title>
   </programme>
-  <programme start="20260115204500 +0000" stop="20260115233000 +0000" channel="KANAL D">
+  <programme start="20260115204500 +0000" stop="20260115230000 +0000" channel="KANAL D">
     <title>JURASSIC WORLD: YIKILMIŞ KRALLIK</title>
   </programme>
-  <programme start="20260115204500 +0000" stop="20260115233000 +0000" channel="KANAL D FHD">
+  <programme start="20260115204500 +0000" stop="20260115230000 +0000" channel="KANAL D FHD">
     <title>JURASSIC WORLD: YIKILMIŞ KRALLIK</title>
   </programme>
-  <programme start="20260115204500 +0000" stop="20260115233000 +0000" channel="KANAL D HD">
+  <programme start="20260115204500 +0000" stop="20260115230000 +0000" channel="KANAL D HD">
     <title>JURASSIC WORLD: YIKILMIŞ KRALLIK</title>
   </programme>
-  <programme start="20260115204500 +0000" stop="20260115233000 +0000" channel="KANAL D HEVC">
+  <programme start="20260115204500 +0000" stop="20260115230000 +0000" channel="KANAL D HEVC">
     <title>JURASSIC WORLD: YIKILMIŞ KRALLIK</title>
   </programme>
-  <programme start="20260115204500 +0000" stop="20260115233000 +0000" channel="KANAL D RAW">
+  <programme start="20260115204500 +0000" stop="20260115230000 +0000" channel="KANAL D RAW">
     <title>JURASSIC WORLD: YIKILMIŞ KRALLIK</title>
   </programme>
-  <programme start="20260115204500 +0000" stop="20260115233000 +0000" channel="KANAL D SD">
+  <programme start="20260115204500 +0000" stop="20260115230000 +0000" channel="KANAL D SD">
     <title>JURASSIC WORLD: YIKILMIŞ KRALLIK</title>
   </programme>
   <programme start="20260114211500 +0000" stop="20260114230000 +0000" channel="4K TR: STAR TV HD">
@@ -11286,17 +11265,11 @@
   <programme start="20260115125500 +0000" stop="20260115130000 +0000" channel="A PARA RAW">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20260115130000 +0000" stop="20260115135500 +0000" channel="A PARA">
+  <programme start="20260115130000 +0000" stop="20260115145500 +0000" channel="A PARA">
     <title>PIYASA RAPORU</title>
   </programme>
-  <programme start="20260115130000 +0000" stop="20260115135500 +0000" channel="A PARA RAW">
+  <programme start="20260115130000 +0000" stop="20260115145500 +0000" channel="A PARA RAW">
     <title>PIYASA RAPORU</title>
-  </programme>
-  <programme start="20260115135500 +0000" stop="20260115145500 +0000" channel="A PARA">
-    <title>YATIRIM DÜNYASI</title>
-  </programme>
-  <programme start="20260115135500 +0000" stop="20260115145500 +0000" channel="A PARA RAW">
-    <title>YATIRIM DÜNYASI</title>
   </programme>
   <programme start="20260115145500 +0000" stop="20260115150000 +0000" channel="A PARA">
     <title>HAVA DURUMU</title>
@@ -15303,26 +15276,215 @@
   <programme start="20260114210500 +0000" stop="20260114225000 +0000" channel="TABII SPOR 1">
     <title>VILLAREAL - KOPENHAG</title>
   </programme>
-  <programme start="20260114225000 +0000" stop="20260116000000 +0000" channel="TABII SPOR 1 4K">
+  <programme start="20260114225000 +0000" stop="20260115063000 +0000" channel="TABII SPOR 1 4K">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260114225000 +0000" stop="20260116000000 +0000" channel="TABII SPOR 1 720P">
+  <programme start="20260114225000 +0000" stop="20260115063000 +0000" channel="TABII SPOR 1 720P">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260114225000 +0000" stop="20260116000000 +0000" channel="TABII SPOR 1 UHD">
+  <programme start="20260114225000 +0000" stop="20260115063000 +0000" channel="TABII SPOR 1 UHD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260114225000 +0000" stop="20260116000000 +0000" channel="TABII SPOR HD">
+  <programme start="20260114225000 +0000" stop="20260115063000 +0000" channel="TABII SPOR HD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260114225000 +0000" stop="20260116000000 +0000" channel="TABII SPOR SD">
+  <programme start="20260114225000 +0000" stop="20260115063000 +0000" channel="TABII SPOR SD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260114225000 +0000" stop="20260116000000 +0000" channel="TABII SPOR">
+  <programme start="20260114225000 +0000" stop="20260115063000 +0000" channel="TABII SPOR">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260114225000 +0000" stop="20260116000000 +0000" channel="TABII SPOR 1">
+  <programme start="20260114225000 +0000" stop="20260115063000 +0000" channel="TABII SPOR 1">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
+  </programme>
+  <programme start="20260115063000 +0000" stop="20260115081000 +0000" channel="TABII SPOR 1 4K">
+    <title>BASEL - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115063000 +0000" stop="20260115081000 +0000" channel="TABII SPOR 1 720P">
+    <title>BASEL - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115063000 +0000" stop="20260115081000 +0000" channel="TABII SPOR 1 UHD">
+    <title>BASEL - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115063000 +0000" stop="20260115081000 +0000" channel="TABII SPOR HD">
+    <title>BASEL - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115063000 +0000" stop="20260115081000 +0000" channel="TABII SPOR SD">
+    <title>BASEL - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115063000 +0000" stop="20260115081000 +0000" channel="TABII SPOR">
+    <title>BASEL - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115063000 +0000" stop="20260115081000 +0000" channel="TABII SPOR 1">
+    <title>BASEL - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115081000 +0000" stop="20260115103500 +0000" channel="TABII SPOR 1 4K">
+    <title>EVERTON - SUNDERLAND</title>
+  </programme>
+  <programme start="20260115081000 +0000" stop="20260115103500 +0000" channel="TABII SPOR 1 720P">
+    <title>EVERTON - SUNDERLAND</title>
+  </programme>
+  <programme start="20260115081000 +0000" stop="20260115103500 +0000" channel="TABII SPOR 1 UHD">
+    <title>EVERTON - SUNDERLAND</title>
+  </programme>
+  <programme start="20260115081000 +0000" stop="20260115103500 +0000" channel="TABII SPOR HD">
+    <title>EVERTON - SUNDERLAND</title>
+  </programme>
+  <programme start="20260115081000 +0000" stop="20260115103500 +0000" channel="TABII SPOR SD">
+    <title>EVERTON - SUNDERLAND</title>
+  </programme>
+  <programme start="20260115081000 +0000" stop="20260115103500 +0000" channel="TABII SPOR">
+    <title>EVERTON - SUNDERLAND</title>
+  </programme>
+  <programme start="20260115081000 +0000" stop="20260115103500 +0000" channel="TABII SPOR 1">
+    <title>EVERTON - SUNDERLAND</title>
+  </programme>
+  <programme start="20260115103500 +0000" stop="20260115130000 +0000" channel="TABII SPOR 1 4K">
+    <title>WREXHAM - NOTTINGHAM FOREST</title>
+  </programme>
+  <programme start="20260115103500 +0000" stop="20260115130000 +0000" channel="TABII SPOR 1 720P">
+    <title>WREXHAM - NOTTINGHAM FOREST</title>
+  </programme>
+  <programme start="20260115103500 +0000" stop="20260115130000 +0000" channel="TABII SPOR 1 UHD">
+    <title>WREXHAM - NOTTINGHAM FOREST</title>
+  </programme>
+  <programme start="20260115103500 +0000" stop="20260115130000 +0000" channel="TABII SPOR HD">
+    <title>WREXHAM - NOTTINGHAM FOREST</title>
+  </programme>
+  <programme start="20260115103500 +0000" stop="20260115130000 +0000" channel="TABII SPOR SD">
+    <title>WREXHAM - NOTTINGHAM FOREST</title>
+  </programme>
+  <programme start="20260115103500 +0000" stop="20260115130000 +0000" channel="TABII SPOR">
+    <title>WREXHAM - NOTTINGHAM FOREST</title>
+  </programme>
+  <programme start="20260115103500 +0000" stop="20260115130000 +0000" channel="TABII SPOR 1">
+    <title>WREXHAM - NOTTINGHAM FOREST</title>
+  </programme>
+  <programme start="20260115130000 +0000" stop="20260115132500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115130000 +0000" stop="20260115132500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115130000 +0000" stop="20260115132500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115130000 +0000" stop="20260115132500 +0000" channel="TABII SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115130000 +0000" stop="20260115132500 +0000" channel="TABII SPOR SD">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115130000 +0000" stop="20260115132500 +0000" channel="TABII SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115130000 +0000" stop="20260115132500 +0000" channel="TABII SPOR 1">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115132500 +0000" stop="20260115150500 +0000" channel="TABII SPOR 1 4K">
+    <title>FCSB - FEYENOORD</title>
+  </programme>
+  <programme start="20260115132500 +0000" stop="20260115150500 +0000" channel="TABII SPOR 1 720P">
+    <title>FCSB - FEYENOORD</title>
+  </programme>
+  <programme start="20260115132500 +0000" stop="20260115150500 +0000" channel="TABII SPOR 1 UHD">
+    <title>FCSB - FEYENOORD</title>
+  </programme>
+  <programme start="20260115132500 +0000" stop="20260115150500 +0000" channel="TABII SPOR HD">
+    <title>FCSB - FEYENOORD</title>
+  </programme>
+  <programme start="20260115132500 +0000" stop="20260115150500 +0000" channel="TABII SPOR SD">
+    <title>FCSB - FEYENOORD</title>
+  </programme>
+  <programme start="20260115132500 +0000" stop="20260115150500 +0000" channel="TABII SPOR">
+    <title>FCSB - FEYENOORD</title>
+  </programme>
+  <programme start="20260115132500 +0000" stop="20260115150500 +0000" channel="TABII SPOR 1">
+    <title>FCSB - FEYENOORD</title>
+  </programme>
+  <programme start="20260115150500 +0000" stop="20260115164500 +0000" channel="TABII SPOR 1 4K">
+    <title>CELTA VIGO - BOLOGNA</title>
+  </programme>
+  <programme start="20260115150500 +0000" stop="20260115164500 +0000" channel="TABII SPOR 1 720P">
+    <title>CELTA VIGO - BOLOGNA</title>
+  </programme>
+  <programme start="20260115150500 +0000" stop="20260115164500 +0000" channel="TABII SPOR 1 UHD">
+    <title>CELTA VIGO - BOLOGNA</title>
+  </programme>
+  <programme start="20260115150500 +0000" stop="20260115164500 +0000" channel="TABII SPOR HD">
+    <title>CELTA VIGO - BOLOGNA</title>
+  </programme>
+  <programme start="20260115150500 +0000" stop="20260115164500 +0000" channel="TABII SPOR SD">
+    <title>CELTA VIGO - BOLOGNA</title>
+  </programme>
+  <programme start="20260115150500 +0000" stop="20260115164500 +0000" channel="TABII SPOR">
+    <title>CELTA VIGO - BOLOGNA</title>
+  </programme>
+  <programme start="20260115150500 +0000" stop="20260115164500 +0000" channel="TABII SPOR 1">
+    <title>CELTA VIGO - BOLOGNA</title>
+  </programme>
+  <programme start="20260115164500 +0000" stop="20260115183000 +0000" channel="TABII SPOR 1 4K">
+    <title>MANCHESTER CITY - EXHETER CITY</title>
+  </programme>
+  <programme start="20260115164500 +0000" stop="20260115183000 +0000" channel="TABII SPOR 1 720P">
+    <title>MANCHESTER CITY - EXHETER CITY</title>
+  </programme>
+  <programme start="20260115164500 +0000" stop="20260115183000 +0000" channel="TABII SPOR 1 UHD">
+    <title>MANCHESTER CITY - EXHETER CITY</title>
+  </programme>
+  <programme start="20260115164500 +0000" stop="20260115183000 +0000" channel="TABII SPOR HD">
+    <title>MANCHESTER CITY - EXHETER CITY</title>
+  </programme>
+  <programme start="20260115164500 +0000" stop="20260115183000 +0000" channel="TABII SPOR SD">
+    <title>MANCHESTER CITY - EXHETER CITY</title>
+  </programme>
+  <programme start="20260115164500 +0000" stop="20260115183000 +0000" channel="TABII SPOR">
+    <title>MANCHESTER CITY - EXHETER CITY</title>
+  </programme>
+  <programme start="20260115164500 +0000" stop="20260115183000 +0000" channel="TABII SPOR 1">
+    <title>MANCHESTER CITY - EXHETER CITY</title>
+  </programme>
+  <programme start="20260115183000 +0000" stop="20260115201500 +0000" channel="TABII SPOR 1 4K">
+    <title>TOTTENHAM - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115183000 +0000" stop="20260115201500 +0000" channel="TABII SPOR 1 720P">
+    <title>TOTTENHAM - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115183000 +0000" stop="20260115201500 +0000" channel="TABII SPOR 1 UHD">
+    <title>TOTTENHAM - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115183000 +0000" stop="20260115201500 +0000" channel="TABII SPOR HD">
+    <title>TOTTENHAM - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115183000 +0000" stop="20260115201500 +0000" channel="TABII SPOR SD">
+    <title>TOTTENHAM - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115183000 +0000" stop="20260115201500 +0000" channel="TABII SPOR">
+    <title>TOTTENHAM - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115183000 +0000" stop="20260115201500 +0000" channel="TABII SPOR 1">
+    <title>TOTTENHAM - ASTON VILLA</title>
+  </programme>
+  <programme start="20260115201500 +0000" stop="20260115210500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115201500 +0000" stop="20260115210500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115201500 +0000" stop="20260115210500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115201500 +0000" stop="20260115210500 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115201500 +0000" stop="20260115210500 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115201500 +0000" stop="20260115210500 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260115201500 +0000" stop="20260115210500 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
   </programme>
   <programme start="20260114213000 +0000" stop="20260114233000 +0000" channel="4K TR: S SPORT">
     <title>BYU - UTAH</title>
@@ -26559,10 +26721,7 @@
   <programme start="20260115031600 +0000" stop="20260115033800 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260115033800 +0000" stop="20260115034000 +0000" channel="NICKTOONS">
-    <title>SPONGEBOB SQUAREPANTS</title>
-  </programme>
-  <programme start="20260115034000 +0000" stop="20260115040000 +0000" channel="NICKTOONS">
+  <programme start="20260115033800 +0000" stop="20260115040000 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
   <programme start="20260115040000 +0000" stop="20260115042100 +0000" channel="NICKTOONS">
