@@ -3727,25 +3727,25 @@
     <title>ZUHAL TOPAL'LA YEMEKTEYIZ</title>
   </programme>
   <programme start="20260116170000 +0000" stop="20260116211500 +0000" channel="4K TR: TV8 HD">
-    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
+    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
   </programme>
   <programme start="20260116170000 +0000" stop="20260116211500 +0000" channel="TV 8">
-    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
+    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
   </programme>
   <programme start="20260116170000 +0000" stop="20260116211500 +0000" channel="TV 8 HD">
-    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
+    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
   </programme>
   <programme start="20260116170000 +0000" stop="20260116211500 +0000" channel="TV 8 HEVC">
-    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
+    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
   </programme>
   <programme start="20260116170000 +0000" stop="20260116211500 +0000" channel="TV 8 SD">
-    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
+    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
   </programme>
   <programme start="20260116170000 +0000" stop="20260116211500 +0000" channel="TV8 FHD">
-    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
+    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
   </programme>
   <programme start="20260116170000 +0000" stop="20260116211500 +0000" channel="TV8 RAW">
-    <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
+    <title>MASTERCHEF TÜRKIYE ALL STAR ALTIN KUPA</title>
   </programme>
   <programme start="20260115213000 +0000" stop="20260115221500 +0000" channel="360">
     <title>LEZZET PEŞINDE</title>
@@ -13381,7 +13381,7 @@
     <title>ANA HABER</title>
   </programme>
   <programme start="20260116164000 +0000" stop="20260116164400 +0000" channel="TV 5">
-    <title>REKLAM</title>
+    <title>REKLAM+SPONSOR</title>
   </programme>
   <programme start="20260116164400 +0000" stop="20260116164500 +0000" channel="TV 5">
     <title>EKONOMI TERIMLERI</title>
@@ -14407,154 +14407,199 @@
     <title>ALBÜMDEKI YILDIZLAR</title>
   </programme>
   <programme start="20260116135000 +0000" stop="20260116140500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>REKORTMEN</title>
+    <title>ULTRA</title>
   </programme>
   <programme start="20260116135000 +0000" stop="20260116140500 +0000" channel="TRT SPOR YILDIZ">
-    <title>REKORTMEN</title>
+    <title>ULTRA</title>
   </programme>
   <programme start="20260116135000 +0000" stop="20260116140500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>REKORTMEN</title>
+    <title>ULTRA</title>
   </programme>
   <programme start="20260116135000 +0000" stop="20260116140500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>REKORTMEN</title>
+    <title>ULTRA</title>
   </programme>
   <programme start="20260116135000 +0000" stop="20260116140500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ULTRA</title>
+  </programme>
+  <programme start="20260116140500 +0000" stop="20260116142000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>REKORTMEN</title>
   </programme>
-  <programme start="20260116140500 +0000" stop="20260116143000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260116140500 +0000" stop="20260116142000 +0000" channel="TRT SPOR YILDIZ">
+    <title>REKORTMEN</title>
+  </programme>
+  <programme start="20260116140500 +0000" stop="20260116142000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>REKORTMEN</title>
+  </programme>
+  <programme start="20260116140500 +0000" stop="20260116142000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>REKORTMEN</title>
+  </programme>
+  <programme start="20260116140500 +0000" stop="20260116142000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>REKORTMEN</title>
+  </programme>
+  <programme start="20260116142000 +0000" stop="20260116144500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>TENIS DÜNYASI</title>
   </programme>
-  <programme start="20260116140500 +0000" stop="20260116143000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260116142000 +0000" stop="20260116144500 +0000" channel="TRT SPOR YILDIZ">
     <title>TENIS DÜNYASI</title>
   </programme>
-  <programme start="20260116140500 +0000" stop="20260116143000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260116142000 +0000" stop="20260116144500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>TENIS DÜNYASI</title>
   </programme>
-  <programme start="20260116140500 +0000" stop="20260116143000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260116142000 +0000" stop="20260116144500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>TENIS DÜNYASI</title>
   </programme>
-  <programme start="20260116140500 +0000" stop="20260116143000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260116142000 +0000" stop="20260116144500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>TENIS DÜNYASI</title>
   </programme>
-  <programme start="20260116143000 +0000" stop="20260116143500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260116143000 +0000" stop="20260116143500 +0000" channel="TRT SPOR YILDIZ">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260116143000 +0000" stop="20260116143500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260116143000 +0000" stop="20260116143500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260116143000 +0000" stop="20260116143500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260116143500 +0000" stop="20260116165000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
-  </programme>
-  <programme start="20260116143500 +0000" stop="20260116165000 +0000" channel="TRT SPOR YILDIZ">
-    <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
-  </programme>
-  <programme start="20260116143500 +0000" stop="20260116165000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
-  </programme>
-  <programme start="20260116143500 +0000" stop="20260116165000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
-  </programme>
-  <programme start="20260116143500 +0000" stop="20260116165000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
-  </programme>
-  <programme start="20260116165000 +0000" stop="20260116185000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ECZACIBAŞI - OLIMPIAKOS</title>
-  </programme>
-  <programme start="20260116165000 +0000" stop="20260116185000 +0000" channel="TRT SPOR YILDIZ">
-    <title>ECZACIBAŞI - OLIMPIAKOS</title>
-  </programme>
-  <programme start="20260116165000 +0000" stop="20260116185000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ECZACIBAŞI - OLIMPIAKOS</title>
-  </programme>
-  <programme start="20260116165000 +0000" stop="20260116185000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ECZACIBAŞI - OLIMPIAKOS</title>
-  </programme>
-  <programme start="20260116165000 +0000" stop="20260116185000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ECZACIBAŞI - OLIMPIAKOS</title>
-  </programme>
-  <programme start="20260116185000 +0000" stop="20260116191500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260116144500 +0000" stop="20260116151000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YENILMEZLER</title>
   </programme>
-  <programme start="20260116185000 +0000" stop="20260116191500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260116144500 +0000" stop="20260116151000 +0000" channel="TRT SPOR YILDIZ">
     <title>YENILMEZLER</title>
   </programme>
-  <programme start="20260116185000 +0000" stop="20260116191500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260116144500 +0000" stop="20260116151000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YENILMEZLER</title>
   </programme>
-  <programme start="20260116185000 +0000" stop="20260116191500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260116144500 +0000" stop="20260116151000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YENILMEZLER</title>
   </programme>
-  <programme start="20260116185000 +0000" stop="20260116191500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260116144500 +0000" stop="20260116151000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YENILMEZLER</title>
   </programme>
-  <programme start="20260116191500 +0000" stop="20260116193000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>REKORTMEN</title>
-  </programme>
-  <programme start="20260116191500 +0000" stop="20260116193000 +0000" channel="TRT SPOR YILDIZ">
-    <title>REKORTMEN</title>
-  </programme>
-  <programme start="20260116191500 +0000" stop="20260116193000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>REKORTMEN</title>
-  </programme>
-  <programme start="20260116191500 +0000" stop="20260116193000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>REKORTMEN</title>
-  </programme>
-  <programme start="20260116191500 +0000" stop="20260116193000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>REKORTMEN</title>
-  </programme>
-  <programme start="20260116193000 +0000" stop="20260116193500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260116193000 +0000" stop="20260116193500 +0000" channel="TRT SPOR YILDIZ">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260116193000 +0000" stop="20260116193500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260116193000 +0000" stop="20260116193500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260116193000 +0000" stop="20260116193500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>NEDIR, NASIL OYNANIR?</title>
-  </programme>
-  <programme start="20260116193500 +0000" stop="20260116195000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260116151000 +0000" stop="20260116152500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>OYUN MODU</title>
   </programme>
-  <programme start="20260116193500 +0000" stop="20260116195000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260116151000 +0000" stop="20260116152500 +0000" channel="TRT SPOR YILDIZ">
     <title>OYUN MODU</title>
   </programme>
-  <programme start="20260116193500 +0000" stop="20260116195000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260116151000 +0000" stop="20260116152500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>OYUN MODU</title>
   </programme>
-  <programme start="20260116193500 +0000" stop="20260116195000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260116151000 +0000" stop="20260116152500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>OYUN MODU</title>
   </programme>
-  <programme start="20260116193500 +0000" stop="20260116195000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260116151000 +0000" stop="20260116152500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>OYUN MODU</title>
+  </programme>
+  <programme start="20260116152500 +0000" stop="20260116164500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
+  </programme>
+  <programme start="20260116152500 +0000" stop="20260116164500 +0000" channel="TRT SPOR YILDIZ">
+    <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
+  </programme>
+  <programme start="20260116152500 +0000" stop="20260116164500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
+  </programme>
+  <programme start="20260116152500 +0000" stop="20260116164500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
+  </programme>
+  <programme start="20260116152500 +0000" stop="20260116164500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
+  </programme>
+  <programme start="20260116164500 +0000" stop="20260116184500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ECZACIBAŞI - OLIMPIAKOS</title>
+  </programme>
+  <programme start="20260116164500 +0000" stop="20260116184500 +0000" channel="TRT SPOR YILDIZ">
+    <title>ECZACIBAŞI - OLIMPIAKOS</title>
+  </programme>
+  <programme start="20260116164500 +0000" stop="20260116184500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ECZACIBAŞI - OLIMPIAKOS</title>
+  </programme>
+  <programme start="20260116164500 +0000" stop="20260116184500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ECZACIBAŞI - OLIMPIAKOS</title>
+  </programme>
+  <programme start="20260116164500 +0000" stop="20260116184500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ECZACIBAŞI - OLIMPIAKOS</title>
+  </programme>
+  <programme start="20260116184500 +0000" stop="20260116191000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>SPORUN İKONLARI</title>
+  </programme>
+  <programme start="20260116184500 +0000" stop="20260116191000 +0000" channel="TRT SPOR YILDIZ">
+    <title>SPORUN İKONLARI</title>
+  </programme>
+  <programme start="20260116184500 +0000" stop="20260116191000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>SPORUN İKONLARI</title>
+  </programme>
+  <programme start="20260116184500 +0000" stop="20260116191000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>SPORUN İKONLARI</title>
+  </programme>
+  <programme start="20260116184500 +0000" stop="20260116191000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>SPORUN İKONLARI</title>
+  </programme>
+  <programme start="20260116191000 +0000" stop="20260116192500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>REKORTMEN</title>
+  </programme>
+  <programme start="20260116191000 +0000" stop="20260116192500 +0000" channel="TRT SPOR YILDIZ">
+    <title>REKORTMEN</title>
+  </programme>
+  <programme start="20260116191000 +0000" stop="20260116192500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>REKORTMEN</title>
+  </programme>
+  <programme start="20260116191000 +0000" stop="20260116192500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>REKORTMEN</title>
+  </programme>
+  <programme start="20260116191000 +0000" stop="20260116192500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>REKORTMEN</title>
+  </programme>
+  <programme start="20260116192500 +0000" stop="20260116193000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>NEDIR, NASIL OYNANIR?</title>
+  </programme>
+  <programme start="20260116192500 +0000" stop="20260116193000 +0000" channel="TRT SPOR YILDIZ">
+    <title>NEDIR, NASIL OYNANIR?</title>
+  </programme>
+  <programme start="20260116192500 +0000" stop="20260116193000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>NEDIR, NASIL OYNANIR?</title>
+  </programme>
+  <programme start="20260116192500 +0000" stop="20260116193000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>NEDIR, NASIL OYNANIR?</title>
+  </programme>
+  <programme start="20260116192500 +0000" stop="20260116193000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>NEDIR, NASIL OYNANIR?</title>
+  </programme>
+  <programme start="20260116193000 +0000" stop="20260116194500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>OYUN MODU</title>
+  </programme>
+  <programme start="20260116193000 +0000" stop="20260116194500 +0000" channel="TRT SPOR YILDIZ">
+    <title>OYUN MODU</title>
+  </programme>
+  <programme start="20260116193000 +0000" stop="20260116194500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>OYUN MODU</title>
+  </programme>
+  <programme start="20260116193000 +0000" stop="20260116194500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>OYUN MODU</title>
+  </programme>
+  <programme start="20260116193000 +0000" stop="20260116194500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>OYUN MODU</title>
+  </programme>
+  <programme start="20260116194500 +0000" stop="20260116195000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20260116194500 +0000" stop="20260116195000 +0000" channel="TRT SPOR YILDIZ">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20260116194500 +0000" stop="20260116195000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20260116194500 +0000" stop="20260116195000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20260116194500 +0000" stop="20260116195000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ONSUZ ASLA</title>
   </programme>
   <programme start="20260116195000 +0000" stop="20260116195500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
+    <title>6.ADAM</title>
   </programme>
   <programme start="20260116195000 +0000" stop="20260116195500 +0000" channel="TRT SPOR YILDIZ">
-    <title>ONSUZ ASLA</title>
+    <title>6.ADAM</title>
   </programme>
   <programme start="20260116195000 +0000" stop="20260116195500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ONSUZ ASLA</title>
+    <title>6.ADAM</title>
   </programme>
   <programme start="20260116195000 +0000" stop="20260116195500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ONSUZ ASLA</title>
+    <title>6.ADAM</title>
   </programme>
   <programme start="20260116195000 +0000" stop="20260116195500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ONSUZ ASLA</title>
+    <title>6.ADAM</title>
   </programme>
   <programme start="20260116195500 +0000" stop="20260116215500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>AVRUPA ARTISTIK BUZ PATENI ŞAMPIYONASI 2026</title>
@@ -15196,25 +15241,25 @@
     <title>SORMAZSAM OLMAZ</title>
   </programme>
   <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+    <title>ARSENAL - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+    <title>ARSENAL - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+    <title>ARSENAL - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+    <title>ARSENAL - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+    <title>ARSENAL - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+    <title>ARSENAL - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+    <title>ARSENAL - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116112000 +0000" stop="20260116114500 +0000" channel="TABII SPOR 1 4K">
     <title>YENILMEZLER</title>
@@ -15238,25 +15283,25 @@
     <title>YENILMEZLER</title>
   </programme>
   <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+    <title>PSG - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+    <title>PSG - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+    <title>PSG - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+    <title>PSG - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+    <title>PSG - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+    <title>PSG - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+    <title>PSG - BAYERN MÜNIH</title>
   </programme>
   <programme start="20260116133000 +0000" stop="20260116135500 +0000" channel="TABII SPOR 1 4K">
     <title>TÜM ZAMANLARIN EN İYILERI</title>
@@ -15322,25 +15367,25 @@
     <title>UEFA AVRUPA LIGI MAGAZIN</title>
   </programme>
   <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+    <title>REAL MADRID - M.CITY</title>
   </programme>
   <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+    <title>REAL MADRID - M.CITY</title>
   </programme>
   <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+    <title>REAL MADRID - M.CITY</title>
   </programme>
   <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+    <title>REAL MADRID - M.CITY</title>
   </programme>
   <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+    <title>REAL MADRID - M.CITY</title>
   </programme>
   <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+    <title>REAL MADRID - M.CITY</title>
   </programme>
   <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+    <title>REAL MADRID - M.CITY</title>
   </programme>
   <programme start="20260116170000 +0000" stop="20260116172500 +0000" channel="TABII SPOR 1 4K">
     <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
@@ -15385,25 +15430,25 @@
     <title>AL ITTIHAD - AL ETTIFAQ</title>
   </programme>
   <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+    <title>FENERBAHÇE - STUTTGART</title>
   </programme>
   <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+    <title>FENERBAHÇE - STUTTGART</title>
   </programme>
   <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+    <title>FENERBAHÇE - STUTTGART</title>
   </programme>
   <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR HD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+    <title>FENERBAHÇE - STUTTGART</title>
   </programme>
   <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR SD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+    <title>FENERBAHÇE - STUTTGART</title>
   </programme>
   <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+    <title>FENERBAHÇE - STUTTGART</title>
   </programme>
   <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR 1">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+    <title>FENERBAHÇE - STUTTGART</title>
   </programme>
   <programme start="20260115214500 +0000" stop="20260115220000 +0000" channel="4K TR: S SPORT">
     <title>ÖZETLER</title>
