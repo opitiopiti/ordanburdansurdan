@@ -1,16 +1,4 @@
 {
-  "/dizi-izle/the-upshaws": {
-    "group": "THE UPSHAWS",
-    "last_season": 7,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi-izle/genel": {
-    "group": "GENEL",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
   "/dizi-izle/love-through-a-prism": {
     "group": "LOVE THROUGH A PRISM",
     "last_season": 1,
@@ -33,6 +21,18 @@
     "group": "MADE IN KOREA",
     "last_season": 1,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/genel": {
+    "group": "GENEL",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-upshaws": {
+    "group": "THE UPSHAWS",
+    "last_season": 7,
+    "last_episode": 12,
     "start_episode": 1
   }
 }
