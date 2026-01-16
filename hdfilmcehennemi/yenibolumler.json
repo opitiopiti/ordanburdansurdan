@@ -1,6 +1,15 @@
 {
+  "/dizi/heaven-2025-dizi-hdfc/": {
+    "group": "HEAVEN"
+  },
+  "/dizi/can-this-love-be-translated/": {
+    "group": "CAN THIS LOVE BE TRANSLATED?"
+  },
   "/dizi/beast-games/": {
     "group": "BEAST GAMES"
+  },
+  "/dizi/the-pitt-2/": {
+    "group": "THE PITT"
   },
   "/dizi/to-love-to-lose/": {
     "group": "AYRILIK DA SEVDAYA DAHIL"
@@ -38,12 +47,6 @@
   "/dizi/industry-izle-41/": {
     "group": "INDUSTRY"
   },
-  "/dizi/brilliant-minds/": {
-    "group": "BRILLIANT MINDS"
-  },
-  "/dizi/saint-pierre/": {
-    "group": "SAINT PIERRE"
-  },
   "/dizi/outlander-blood-of-my-blood/": {
     "group": "OUTLANDER: BLOOD OF MY BLOOD"
   },
@@ -55,9 +58,6 @@
   },
   "/dizi/the-war-between-the-land-and-the-sea/": {
     "group": "THE WAR BETWEEN THE LAND AND THE SEA"
-  },
-  "/dizi/heaven-2025-dizi-hdfc/": {
-    "group": "HEAVEN"
   },
   "/dizi/dispatches-from-elsewhere/": {
     "group": "DISPATCHES FROM ELSEWHERE"
@@ -115,8 +115,5 @@
   },
   "/dizi/city-of-shadows/": {
     "group": "GÖLGELER ŞEHRI"
-  },
-  "/dizi/jasmine/": {
-    "group": "JASMINE"
   }
 }
