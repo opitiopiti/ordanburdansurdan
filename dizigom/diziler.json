@@ -1138,5 +1138,17 @@
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
+  },
+  "/dizi-izle/the-upshaws": {
+    "group": "THE UPSHAWS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/love-through-a-prism": {
+    "group": "LOVE THROUGH A PRISM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
