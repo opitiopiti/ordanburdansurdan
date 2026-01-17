@@ -1156,5 +1156,17 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi-izle/no-tail-to-tell": {
+    "group": "NO TAIL TO TELL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/agatha-christies-seven-dials": {
+    "group": "AGATHA CHRISTIE'S SEVEN DIALS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
