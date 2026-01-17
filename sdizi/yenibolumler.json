@@ -1,4 +1,10 @@
 {
+  "/diziler/fate-strange-fake.html": {
+    "group": "FATE/STRANGE FAKE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/diziler/can-this-love-be-translated.html": {
     "group": "CAN THIS LOVE BE TRANSLATED?",
     "last_season": 1,
@@ -80,12 +86,6 @@
   "/diziler/tracker.html": {
     "group": "TRACKER",
     "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/ghosts.html": {
-    "group": "GHOSTS",
-    "last_season": 5,
     "last_episode": 8,
     "start_episode": 1
   }

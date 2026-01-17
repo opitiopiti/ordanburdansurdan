@@ -5,10 +5,10 @@
     "last_episode": 14,
     "start_episode": 1
   },
-  "/anime/trigun-stargaze/": {
-    "group": "TRIGUN STARGAZE",
+  "/anime/scum-of-the-brave/": {
+    "group": "SCUM OF THE BRAVE",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/gnosia/": {
@@ -17,14 +17,32 @@
     "last_episode": 13,
     "start_episode": 1
   },
-  "/anime/dead-account/": {
-    "group": "DEAD ACCOUNT",
+  "/anime/fate-strange-fake-dub/": {
+    "group": "FATE/STRANGE FAKE DUB",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/anime/fate-strange-fake/": {
     "group": "FATE/STRANGE FAKE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/a-misanthrope-teaches-a-class-for-demi-humans/": {
+    "group": "A MISANTHROPE TEACHES A CLASS FOR DEMI-HUMANS",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/trigun-stargaze/": {
+    "group": "TRIGUN STARGAZE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/dead-account/": {
+    "group": "DEAD ACCOUNT",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
@@ -97,24 +115,6 @@
   },
   "/anime/roll-over-and-die/": {
     "group": "ROLL OVER AND DIE",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/chained-soldier-season-2-uncensored/": {
-    "group": "CHAINED SOLDIER SEASON 2 (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/the-invisible-man-and-his-soon-to-be-wife/": {
-    "group": "THE INVISIBLE MAN AND HIS SOON-TO-BE WIFE",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/the-holy-grail-of-eris/": {
-    "group": "THE HOLY GRAIL OF ERIS",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
