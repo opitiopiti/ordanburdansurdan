@@ -304,5 +304,35 @@
     "last_season": 3,
     "last_episode": 10,
     "start_episode": 1
+  },
+  "/dizi/going-dutch": {
+    "group": "Going Dutch",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/happy-s-place": {
+    "group": "Happy’s Place",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/no-tail-to-tell": {
+    "group": "No Tail to Tell",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/9-1-1": {
+    "group": "9-1-1",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/animal-control": {
+    "group": "Animal Control",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1,4 +1,46 @@
 {
+  "/dizi/going-dutch": {
+    "group": "Going Dutch",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/happy-s-place": {
+    "group": "Happy’s Place",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/no-tail-to-tell": {
+    "group": "No Tail to Tell",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/ponies": {
+    "group": "Ponies",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi/9-1-1": {
+    "group": "9-1-1",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/9-1-1-nashville": {
+    "group": "9-1-1: Nashville",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/animal-control": {
+    "group": "Animal Control",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/cat-s-eye": {
     "group": "Cat’s Eye",
     "last_season": 1,

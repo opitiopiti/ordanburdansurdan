@@ -8,14 +8,14 @@
   "/dizi/beast-games/": {
     "group": "BEAST GAMES"
   },
+  "/dizi/sanctuary-a-witch-s-tale/": {
+    "group": "SANCTUARY: A WITCH'S TALE"
+  },
   "/dizi/the-pitt-2/": {
     "group": "THE PITT"
   },
   "/dizi/the-hunting-party-2025-hdfc/": {
     "group": "THE HUNTING PARTY"
-  },
-  "/dizi/to-love-to-lose/": {
-    "group": "AYRILIK DA SEVDAYA DAHIL"
   },
   "/dizi/agatha-christie-s-seven-dials/": {
     "group": "AGATHA CHRISTIE'S SEVEN DIALS"
@@ -47,6 +47,9 @@
   "/dizi/will-trent-1/": {
     "group": "WILL TRENT"
   },
+  "/dizi/to-love-to-lose/": {
+    "group": "AYRILIK DA SEVDAYA DAHIL"
+  },
   "/dizi/outlander-blood-of-my-blood/": {
     "group": "OUTLANDER: BLOOD OF MY BLOOD"
   },
@@ -76,9 +79,6 @@
   },
   "/dizi/the-copenhagen-test/": {
     "group": "THE COPENHAGEN TEST"
-  },
-  "/dizi/sanctuary-a-witch-s-tale/": {
-    "group": "SANCTUARY: A WITCH'S TALE"
   },
   "/dizi/cashero/": {
     "group": "CASHERO"

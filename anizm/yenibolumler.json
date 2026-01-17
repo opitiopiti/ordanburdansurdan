@@ -1,4 +1,22 @@
 {
+  "/trigun-stargaze": {
+    "group": "TRIGUN STARGAZE",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/tondemo-skill-de-isekai-hourou-meshi-2": {
+    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
+    "last_season": 1,
+    "last_episode": 11.0,
+    "start_episode": 1
+  },
+  "/ganglion": {
+    "group": "GANGLION",
+    "last_season": 1,
+    "last_episode": 13.0,
+    "start_episode": 1
+  },
   "/yi-ren-zhi-xia-6": {
     "group": "YI REN ZHI XIA 6",
     "last_season": 1,
@@ -87,24 +105,6 @@
     "group": "TOUMEI OTOKO TO NINGEN ONNA: SONOUCHI FUUFU NI NARU FUTARI",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/eris-no-seihai": {
-    "group": "ERIS NO SEIHAI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku": {
-    "group": "YUUSHA-KEI NI SHOSU: CHOUBATSU YUUSHA 9004-TAI KEIMU KIROKU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/prism-rondo": {
-    "group": "PRISM RONDO",
-    "last_season": 1,
-    "last_episode": 20.0,
     "start_episode": 1
   }
 }
