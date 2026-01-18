@@ -14538,65 +14538,101 @@
   <programme start="20260118190000 +0000" stop="20260118210000 +0000" channel="HT SPOR">
     <title>DAKIKA 90</title>
   </programme>
-  <programme start="20260117210000 +0000" stop="20260117230000 +0000" channel="4K TR: FB TV">
+  <programme start="20260117210000 +0000" stop="20260117223000 +0000" channel="4K TR: FB TV">
     <title>VOLEYBOL: EFELER LIGI</title>
   </programme>
-  <programme start="20260117210000 +0000" stop="20260117230000 +0000" channel="FB TV">
+  <programme start="20260117210000 +0000" stop="20260117223000 +0000" channel="FB TV">
     <title>VOLEYBOL: EFELER LIGI</title>
   </programme>
-  <programme start="20260117230000 +0000" stop="20260118003000 +0000" channel="4K TR: FB TV">
-    <title>MAÇIN ARDINDAN</title>
+  <programme start="20260117223000 +0000" stop="20260117224500 +0000" channel="4K TR: FB TV">
+    <title>ANALIZ FENERBAHÇE</title>
   </programme>
-  <programme start="20260117230000 +0000" stop="20260118003000 +0000" channel="FB TV">
-    <title>MAÇIN ARDINDAN</title>
+  <programme start="20260117223000 +0000" stop="20260117224500 +0000" channel="FB TV">
+    <title>ANALIZ FENERBAHÇE</title>
   </programme>
-  <programme start="20260118003000 +0000" stop="20260118021500 +0000" channel="4K TR: FB TV">
-    <title>U19 PAF LIGI</title>
+  <programme start="20260117224500 +0000" stop="20260117230000 +0000" channel="4K TR: FB TV">
+    <title>RAKAMLARLA RAKIPLER</title>
   </programme>
-  <programme start="20260118003000 +0000" stop="20260118021500 +0000" channel="FB TV">
-    <title>U19 PAF LIGI</title>
+  <programme start="20260117224500 +0000" stop="20260117230000 +0000" channel="FB TV">
+    <title>RAKAMLARLA RAKIPLER</title>
   </programme>
-  <programme start="20260118021500 +0000" stop="20260118024500 +0000" channel="4K TR: FB TV">
-    <title>ONE DAY</title>
+  <programme start="20260117230000 +0000" stop="20260117231500 +0000" channel="4K TR: FB TV">
+    <title>SÖZ TARAFTARDA</title>
   </programme>
-  <programme start="20260118021500 +0000" stop="20260118024500 +0000" channel="FB TV">
-    <title>ONE DAY</title>
+  <programme start="20260117230000 +0000" stop="20260117231500 +0000" channel="FB TV">
+    <title>SÖZ TARAFTARDA</title>
   </programme>
-  <programme start="20260118024500 +0000" stop="20260118033000 +0000" channel="4K TR: FB TV">
+  <programme start="20260117231500 +0000" stop="20260118004500 +0000" channel="4K TR: FB TV">
+    <title>BASKETBOL: KADINLAR SÜPER LIGI</title>
+  </programme>
+  <programme start="20260117231500 +0000" stop="20260118004500 +0000" channel="FB TV">
+    <title>BASKETBOL: KADINLAR SÜPER LIGI</title>
+  </programme>
+  <programme start="20260118004500 +0000" stop="20260118010000 +0000" channel="4K TR: FB TV">
+    <title>GECE HABERI</title>
+  </programme>
+  <programme start="20260118004500 +0000" stop="20260118010000 +0000" channel="FB TV">
+    <title>GECE HABERI</title>
+  </programme>
+  <programme start="20260118010000 +0000" stop="20260118023000 +0000" channel="4K TR: FB TV">
+    <title>BASKETBOL: TEKERLEKLI SANDALYE SÜPER LIGI</title>
+  </programme>
+  <programme start="20260118010000 +0000" stop="20260118023000 +0000" channel="FB TV">
+    <title>BASKETBOL: TEKERLEKLI SANDALYE SÜPER LIGI</title>
+  </programme>
+  <programme start="20260118023000 +0000" stop="20260118030000 +0000" channel="4K TR: FB TV">
     <title>TARIH VE FENERBAHÇE</title>
   </programme>
-  <programme start="20260118024500 +0000" stop="20260118033000 +0000" channel="FB TV">
+  <programme start="20260118023000 +0000" stop="20260118030000 +0000" channel="FB TV">
     <title>TARIH VE FENERBAHÇE</title>
   </programme>
-  <programme start="20260118033000 +0000" stop="20260118050000 +0000" channel="4K TR: FB TV">
+  <programme start="20260118030000 +0000" stop="20260118043000 +0000" channel="4K TR: FB TV">
     <title>BASKETBOL: EUROLEAGUE</title>
   </programme>
-  <programme start="20260118033000 +0000" stop="20260118050000 +0000" channel="FB TV">
+  <programme start="20260118030000 +0000" stop="20260118043000 +0000" channel="FB TV">
     <title>BASKETBOL: EUROLEAGUE</title>
   </programme>
-  <programme start="20260118050000 +0000" stop="20260118053000 +0000" channel="4K TR: FB TV">
-    <title>YAŞAYAN ÇINARLARIMIZ</title>
+  <programme start="20260118043000 +0000" stop="20260118050000 +0000" channel="4K TR: FB TV">
+    <title>ONE DAY: KAAN GÜRBÜZ</title>
   </programme>
-  <programme start="20260118050000 +0000" stop="20260118053000 +0000" channel="FB TV">
-    <title>YAŞAYAN ÇINARLARIMIZ</title>
+  <programme start="20260118043000 +0000" stop="20260118050000 +0000" channel="FB TV">
+    <title>ONE DAY: KAAN GÜRBÜZ</title>
   </programme>
-  <programme start="20260118053000 +0000" stop="20260118080000 +0000" channel="4K TR: FB TV">
-    <title>MAÇIN ARDINDAN</title>
+  <programme start="20260118050000 +0000" stop="20260118064500 +0000" channel="4K TR: FB TV">
+    <title>FUTBOL: SÜPER LIG</title>
   </programme>
-  <programme start="20260118053000 +0000" stop="20260118080000 +0000" channel="FB TV">
-    <title>MAÇIN ARDINDAN</title>
+  <programme start="20260118050000 +0000" stop="20260118064500 +0000" channel="FB TV">
+    <title>FUTBOL: SÜPER LIG</title>
+  </programme>
+  <programme start="20260118064500 +0000" stop="20260118070000 +0000" channel="4K TR: FB TV">
+    <title>TARIHTE BUGÜN</title>
+  </programme>
+  <programme start="20260118064500 +0000" stop="20260118070000 +0000" channel="FB TV">
+    <title>TARIHTE BUGÜN</title>
+  </programme>
+  <programme start="20260118070000 +0000" stop="20260118074500 +0000" channel="4K TR: FB TV">
+    <title>HEAD TO HEAD</title>
+  </programme>
+  <programme start="20260118070000 +0000" stop="20260118074500 +0000" channel="FB TV">
+    <title>HEAD TO HEAD</title>
+  </programme>
+  <programme start="20260118074500 +0000" stop="20260118080000 +0000" channel="4K TR: FB TV">
+    <title>ANALIZ FENERBAHÇE</title>
+  </programme>
+  <programme start="20260118074500 +0000" stop="20260118080000 +0000" channel="FB TV">
+    <title>ANALIZ FENERBAHÇE</title>
   </programme>
   <programme start="20260118080000 +0000" stop="20260118083000 +0000" channel="4K TR: FB TV">
-    <title>EFSANELER</title>
+    <title>EFSANELER: CEM PAMIROĞLU</title>
   </programme>
   <programme start="20260118080000 +0000" stop="20260118083000 +0000" channel="FB TV">
-    <title>EFSANELER</title>
+    <title>EFSANELER: CEM PAMIROĞLU</title>
   </programme>
   <programme start="20260118083000 +0000" stop="20260118090000 +0000" channel="4K TR: FB TV">
-    <title>ONE DAY</title>
+    <title>RAKAMLARLA RAKIPLER</title>
   </programme>
   <programme start="20260118083000 +0000" stop="20260118090000 +0000" channel="FB TV">
-    <title>ONE DAY</title>
+    <title>RAKAMLARLA RAKIPLER</title>
   </programme>
   <programme start="20260118090000 +0000" stop="20260118091500 +0000" channel="4K TR: FB TV">
     <title>HABER</title>
@@ -14605,22 +14641,16 @@
     <title>HABER</title>
   </programme>
   <programme start="20260118091500 +0000" stop="20260118093000 +0000" channel="4K TR: FB TV">
-    <title>TARIHTE BUGÜN</title>
+    <title>FENERIUM SAATI</title>
   </programme>
   <programme start="20260118091500 +0000" stop="20260118093000 +0000" channel="FB TV">
-    <title>TARIHTE BUGÜN</title>
+    <title>FENERIUM SAATI</title>
   </programme>
-  <programme start="20260118093000 +0000" stop="20260118100000 +0000" channel="4K TR: FB TV">
-    <title>SARI LACIVERT HAYATLAR</title>
+  <programme start="20260118093000 +0000" stop="20260118104500 +0000" channel="4K TR: FB TV">
+    <title>SÖZ TARAFTARDA</title>
   </programme>
-  <programme start="20260118093000 +0000" stop="20260118100000 +0000" channel="FB TV">
-    <title>SARI LACIVERT HAYATLAR</title>
-  </programme>
-  <programme start="20260118100000 +0000" stop="20260118104500 +0000" channel="4K TR: FB TV">
-    <title>TARIH VE FENERBAHÇE</title>
-  </programme>
-  <programme start="20260118100000 +0000" stop="20260118104500 +0000" channel="FB TV">
-    <title>TARIH VE FENERBAHÇE</title>
+  <programme start="20260118093000 +0000" stop="20260118104500 +0000" channel="FB TV">
+    <title>SÖZ TARAFTARDA</title>
   </programme>
   <programme start="20260118104500 +0000" stop="20260118110000 +0000" channel="4K TR: FB TV">
     <title>MAÇ BAŞLIYOR</title>
@@ -14628,64 +14658,70 @@
   <programme start="20260118104500 +0000" stop="20260118110000 +0000" channel="FB TV">
     <title>MAÇ BAŞLIYOR</title>
   </programme>
-  <programme start="20260118110000 +0000" stop="20260118131500 +0000" channel="4K TR: FB TV">
+  <programme start="20260118110000 +0000" stop="20260118130000 +0000" channel="4K TR: FB TV">
     <title>KADIN FUTBOL SÜPER LIGI</title>
   </programme>
-  <programme start="20260118110000 +0000" stop="20260118131500 +0000" channel="FB TV">
+  <programme start="20260118110000 +0000" stop="20260118130000 +0000" channel="FB TV">
     <title>KADIN FUTBOL SÜPER LIGI</title>
+  </programme>
+  <programme start="20260118130000 +0000" stop="20260118131500 +0000" channel="4K TR: FB TV">
+    <title>HABER</title>
+  </programme>
+  <programme start="20260118130000 +0000" stop="20260118131500 +0000" channel="FB TV">
+    <title>HABER</title>
   </programme>
   <programme start="20260118131500 +0000" stop="20260118133000 +0000" channel="4K TR: FB TV">
-    <title>HABER</title>
+    <title>ANALIZ FENERBAHÇE</title>
   </programme>
   <programme start="20260118131500 +0000" stop="20260118133000 +0000" channel="FB TV">
-    <title>HABER</title>
+    <title>ANALIZ FENERBAHÇE</title>
   </programme>
   <programme start="20260118133000 +0000" stop="20260118140000 +0000" channel="4K TR: FB TV">
-    <title>YAŞAYAN ÇINARLARIMIZ</title>
+    <title>RAKAMLARLA RAKIPLER</title>
   </programme>
   <programme start="20260118133000 +0000" stop="20260118140000 +0000" channel="FB TV">
-    <title>YAŞAYAN ÇINARLARIMIZ</title>
+    <title>RAKAMLARLA RAKIPLER</title>
   </programme>
-  <programme start="20260118140000 +0000" stop="20260118160700 +0000" channel="4K TR: FB TV">
-    <title>VOLEYBOL: EFELER LIGI</title>
+  <programme start="20260118140000 +0000" stop="20260118150000 +0000" channel="4K TR: FB TV">
+    <title>FENERIN MAÇI VAR</title>
   </programme>
-  <programme start="20260118140000 +0000" stop="20260118160700 +0000" channel="FB TV">
-    <title>VOLEYBOL: EFELER LIGI</title>
+  <programme start="20260118140000 +0000" stop="20260118150000 +0000" channel="FB TV">
+    <title>FENERIN MAÇI VAR</title>
   </programme>
-  <programme start="20260118160700 +0000" stop="20260118163000 +0000" channel="4K TR: FB TV">
-    <title>ANA HABER</title>
+  <programme start="20260118150000 +0000" stop="20260118151500 +0000" channel="4K TR: FB TV">
+    <title>SÖZ TARAFTARDA</title>
   </programme>
-  <programme start="20260118160700 +0000" stop="20260118163000 +0000" channel="FB TV">
-    <title>ANA HABER</title>
+  <programme start="20260118150000 +0000" stop="20260118151500 +0000" channel="FB TV">
+    <title>SÖZ TARAFTARDA</title>
   </programme>
-  <programme start="20260118163000 +0000" stop="20260118180000 +0000" channel="4K TR: FB TV">
-    <title>VOLEYBOL: TÜRKIYE KADINLAR LIGI</title>
+  <programme start="20260118151500 +0000" stop="20260118160000 +0000" channel="4K TR: FB TV">
+    <title>HEAD TO HEAD</title>
   </programme>
-  <programme start="20260118163000 +0000" stop="20260118180000 +0000" channel="FB TV">
-    <title>VOLEYBOL: TÜRKIYE KADINLAR LIGI</title>
+  <programme start="20260118151500 +0000" stop="20260118160000 +0000" channel="FB TV">
+    <title>HEAD TO HEAD</title>
   </programme>
-  <programme start="20260118180000 +0000" stop="20260118183000 +0000" channel="4K TR: FB TV">
-    <title>EFSANELER</title>
+  <programme start="20260118160000 +0000" stop="20260118170000 +0000" channel="4K TR: FB TV">
+    <title>MAÇ BAŞLIYOR</title>
   </programme>
-  <programme start="20260118180000 +0000" stop="20260118183000 +0000" channel="FB TV">
-    <title>EFSANELER</title>
+  <programme start="20260118160000 +0000" stop="20260118170000 +0000" channel="FB TV">
+    <title>MAÇ BAŞLIYOR</title>
   </programme>
-  <programme start="20260118183000 +0000" stop="20260118203000 +0000" channel="4K TR: FB TV">
-    <title>KADIN FUTBOL SÜPER LIGI</title>
+  <programme start="20260118170000 +0000" stop="20260118190000 +0000" channel="4K TR: FB TV">
+    <title>MAÇ HAVASI</title>
   </programme>
-  <programme start="20260118183000 +0000" stop="20260118203000 +0000" channel="FB TV">
-    <title>KADIN FUTBOL SÜPER LIGI</title>
+  <programme start="20260118170000 +0000" stop="20260118190000 +0000" channel="FB TV">
+    <title>MAÇ HAVASI</title>
   </programme>
-  <programme start="20260118203000 +0000" stop="20260118204500 +0000" channel="4K TR: FB TV">
-    <title>FENERIUM SAATI</title>
+  <programme start="20260118190000 +0000" stop="20260118203000 +0000" channel="4K TR: FB TV">
+    <title>MAÇIN ARDINDAN</title>
   </programme>
-  <programme start="20260118203000 +0000" stop="20260118204500 +0000" channel="FB TV">
-    <title>FENERIUM SAATI</title>
+  <programme start="20260118190000 +0000" stop="20260118203000 +0000" channel="FB TV">
+    <title>MAÇIN ARDINDAN</title>
   </programme>
-  <programme start="20260118204500 +0000" stop="20260118210000 +0000" channel="4K TR: FB TV">
+  <programme start="20260118203000 +0000" stop="20260118210000 +0000" channel="4K TR: FB TV">
     <title>GECE HABERI</title>
   </programme>
-  <programme start="20260118204500 +0000" stop="20260118210000 +0000" channel="FB TV">
+  <programme start="20260118203000 +0000" stop="20260118210000 +0000" channel="FB TV">
     <title>GECE HABERI</title>
   </programme>
   <programme start="20260117210500 +0000" stop="20260117225000 +0000" channel="TABII SPOR 1 4K">
