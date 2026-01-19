@@ -1,4 +1,10 @@
 {
+  "/dizi/ponies": {
+    "group": "PONIES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/devil-in-disguise-john-wayne-gacy": {
     "group": "DEVIL IN DISGUISE: JOHN WAYNE GACY",
     "last_season": 1,
@@ -129,12 +135,6 @@
     "group": "TELL ME LIES",
     "last_season": 3,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/gyeongdoreul-gidarimyeo-asya": {
-    "group": "ELBET YARIN",
-    "last_season": 1,
-    "last_episode": 12,
     "start_episode": 1
   }
 }

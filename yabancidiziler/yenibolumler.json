@@ -16,23 +16,5 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
-  },
-  "/dizi/going-dutch": {
-    "group": "Going Dutch",
-    "last_season": 2,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/happy-s-place": {
-    "group": "Happy’s Place",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/no-tail-to-tell": {
-    "group": "No Tail to Tell",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
   }
 }
