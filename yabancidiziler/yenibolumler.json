@@ -11,6 +11,12 @@
     "last_episode": 2,
     "start_episode": 1
   },
+  "/dizi/love-is-blind-germany": {
+    "group": "Love Is Blind: Germany",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "/dizi/ponies": {
     "group": "Ponies",
     "last_season": 1,
