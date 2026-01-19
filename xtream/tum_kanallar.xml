@@ -3301,25 +3301,25 @@
     <title>SHOW ANA HABER</title>
   </programme>
   <programme start="20260119170000 +0000" stop="20260119193000 +0000" channel="4K TR: SHOW TV HD">
-    <title>EYVAH EYVAH 2</title>
+    <title>EYYVAH EYVAH 2</title>
   </programme>
   <programme start="20260119170000 +0000" stop="20260119193000 +0000" channel="SHOW TV">
-    <title>EYVAH EYVAH 2</title>
+    <title>EYYVAH EYVAH 2</title>
   </programme>
   <programme start="20260119170000 +0000" stop="20260119193000 +0000" channel="SHOW TV FHD">
-    <title>EYVAH EYVAH 2</title>
+    <title>EYYVAH EYVAH 2</title>
   </programme>
   <programme start="20260119170000 +0000" stop="20260119193000 +0000" channel="SHOW TV HD">
-    <title>EYVAH EYVAH 2</title>
+    <title>EYYVAH EYVAH 2</title>
   </programme>
   <programme start="20260119170000 +0000" stop="20260119193000 +0000" channel="SHOW TV HEVC">
-    <title>EYVAH EYVAH 2</title>
+    <title>EYYVAH EYVAH 2</title>
   </programme>
   <programme start="20260119170000 +0000" stop="20260119193000 +0000" channel="SHOW TV RAW">
-    <title>EYVAH EYVAH 2</title>
+    <title>EYYVAH EYVAH 2</title>
   </programme>
   <programme start="20260119170000 +0000" stop="20260119193000 +0000" channel="SHOW TV SD">
-    <title>EYVAH EYVAH 2</title>
+    <title>EYYVAH EYVAH 2</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119213000 +0000" channel="4K TR: SHOW TV HD">
     <title>KÜÇÜK ESNAF</title>
@@ -6153,8 +6153,8 @@
   <programme start="20260119200800 +0000" stop="20260119204900 +0000" channel="GZT TV">
     <title>FUAT DIRI</title>
   </programme>
-  <programme start="20260119204900 +0000" stop="20260120205900 +0000" channel="GZT TV">
-    <title>TARIH 101</title>
+  <programme start="20260119204900 +0000" stop="20260119210000 +0000" channel="GZT TV">
+    <title>GZT TV</title>
   </programme>
   <programme start="20260118210000 +0000" stop="20260118221500 +0000" channel="VAV TV">
     <title>VAKTIN NAKTI</title>
@@ -8430,53 +8430,77 @@
   <programme start="20260119145500 +0000" stop="20260119150000 +0000" channel="NTV SD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119153500 +0000" channel="4K TR: NTV HD">
+  <programme start="20260119150000 +0000" stop="20260119150500 +0000" channel="4K TR: NTV HD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119153500 +0000" channel="NTV">
+  <programme start="20260119150000 +0000" stop="20260119150500 +0000" channel="NTV">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119153500 +0000" channel="NTV HABER">
+  <programme start="20260119150000 +0000" stop="20260119150500 +0000" channel="NTV HABER">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119153500 +0000" channel="NTV HABER HD">
+  <programme start="20260119150000 +0000" stop="20260119150500 +0000" channel="NTV HABER HD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119153500 +0000" channel="NTV HABER HEVC">
+  <programme start="20260119150000 +0000" stop="20260119150500 +0000" channel="NTV HABER HEVC">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119153500 +0000" channel="NTV HD">
+  <programme start="20260119150000 +0000" stop="20260119150500 +0000" channel="NTV HD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119153500 +0000" channel="NTV RAW">
+  <programme start="20260119150000 +0000" stop="20260119150500 +0000" channel="NTV RAW">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119153500 +0000" channel="NTV SD">
+  <programme start="20260119150000 +0000" stop="20260119150500 +0000" channel="NTV SD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260119153500 +0000" stop="20260119154000 +0000" channel="4K TR: NTV HD">
+  <programme start="20260119150500 +0000" stop="20260119151000 +0000" channel="4K TR: NTV HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119153500 +0000" stop="20260119154000 +0000" channel="NTV">
+  <programme start="20260119150500 +0000" stop="20260119151000 +0000" channel="NTV">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119153500 +0000" stop="20260119154000 +0000" channel="NTV HABER">
+  <programme start="20260119150500 +0000" stop="20260119151000 +0000" channel="NTV HABER">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119153500 +0000" stop="20260119154000 +0000" channel="NTV HABER HD">
+  <programme start="20260119150500 +0000" stop="20260119151000 +0000" channel="NTV HABER HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119153500 +0000" stop="20260119154000 +0000" channel="NTV HABER HEVC">
+  <programme start="20260119150500 +0000" stop="20260119151000 +0000" channel="NTV HABER HEVC">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119153500 +0000" stop="20260119154000 +0000" channel="NTV HD">
+  <programme start="20260119150500 +0000" stop="20260119151000 +0000" channel="NTV HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119153500 +0000" stop="20260119154000 +0000" channel="NTV RAW">
+  <programme start="20260119150500 +0000" stop="20260119151000 +0000" channel="NTV RAW">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119153500 +0000" stop="20260119154000 +0000" channel="NTV SD">
+  <programme start="20260119150500 +0000" stop="20260119151000 +0000" channel="NTV SD">
     <title>PIYASALAR</title>
+  </programme>
+  <programme start="20260119151000 +0000" stop="20260119154000 +0000" channel="4K TR: NTV HD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260119151000 +0000" stop="20260119154000 +0000" channel="NTV">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260119151000 +0000" stop="20260119154000 +0000" channel="NTV HABER">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260119151000 +0000" stop="20260119154000 +0000" channel="NTV HABER HD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260119151000 +0000" stop="20260119154000 +0000" channel="NTV HABER HEVC">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260119151000 +0000" stop="20260119154000 +0000" channel="NTV HD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260119151000 +0000" stop="20260119154000 +0000" channel="NTV RAW">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260119151000 +0000" stop="20260119154000 +0000" channel="NTV SD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20260119154000 +0000" stop="20260119154500 +0000" channel="4K TR: NTV HD">
     <title>UZMAN BAKIŞI</title>
@@ -8550,77 +8574,53 @@
   <programme start="20260119155500 +0000" stop="20260119160000 +0000" channel="NTV SD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119161000 +0000" channel="4K TR: NTV HD">
+  <programme start="20260119160000 +0000" stop="20260119164500 +0000" channel="4K TR: NTV HD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119161000 +0000" channel="NTV">
+  <programme start="20260119160000 +0000" stop="20260119164500 +0000" channel="NTV">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119161000 +0000" channel="NTV HABER">
+  <programme start="20260119160000 +0000" stop="20260119164500 +0000" channel="NTV HABER">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119161000 +0000" channel="NTV HABER HD">
+  <programme start="20260119160000 +0000" stop="20260119164500 +0000" channel="NTV HABER HD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119161000 +0000" channel="NTV HABER HEVC">
+  <programme start="20260119160000 +0000" stop="20260119164500 +0000" channel="NTV HABER HEVC">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119161000 +0000" channel="NTV HD">
+  <programme start="20260119160000 +0000" stop="20260119164500 +0000" channel="NTV HD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119161000 +0000" channel="NTV RAW">
+  <programme start="20260119160000 +0000" stop="20260119164500 +0000" channel="NTV RAW">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119161000 +0000" channel="NTV SD">
+  <programme start="20260119160000 +0000" stop="20260119164500 +0000" channel="NTV SD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260119161000 +0000" stop="20260119161500 +0000" channel="4K TR: NTV HD">
+  <programme start="20260119164500 +0000" stop="20260119165000 +0000" channel="4K TR: NTV HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119161000 +0000" stop="20260119161500 +0000" channel="NTV">
+  <programme start="20260119164500 +0000" stop="20260119165000 +0000" channel="NTV">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119161000 +0000" stop="20260119161500 +0000" channel="NTV HABER">
+  <programme start="20260119164500 +0000" stop="20260119165000 +0000" channel="NTV HABER">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119161000 +0000" stop="20260119161500 +0000" channel="NTV HABER HD">
+  <programme start="20260119164500 +0000" stop="20260119165000 +0000" channel="NTV HABER HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119161000 +0000" stop="20260119161500 +0000" channel="NTV HABER HEVC">
+  <programme start="20260119164500 +0000" stop="20260119165000 +0000" channel="NTV HABER HEVC">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119161000 +0000" stop="20260119161500 +0000" channel="NTV HD">
+  <programme start="20260119164500 +0000" stop="20260119165000 +0000" channel="NTV HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119161000 +0000" stop="20260119161500 +0000" channel="NTV RAW">
+  <programme start="20260119164500 +0000" stop="20260119165000 +0000" channel="NTV RAW">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260119161000 +0000" stop="20260119161500 +0000" channel="NTV SD">
+  <programme start="20260119164500 +0000" stop="20260119165000 +0000" channel="NTV SD">
     <title>PIYASALAR</title>
-  </programme>
-  <programme start="20260119161500 +0000" stop="20260119165000 +0000" channel="4K TR: NTV HD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260119161500 +0000" stop="20260119165000 +0000" channel="NTV">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260119161500 +0000" stop="20260119165000 +0000" channel="NTV HABER">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260119161500 +0000" stop="20260119165000 +0000" channel="NTV HABER HD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260119161500 +0000" stop="20260119165000 +0000" channel="NTV HABER HEVC">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260119161500 +0000" stop="20260119165000 +0000" channel="NTV HD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260119161500 +0000" stop="20260119165000 +0000" channel="NTV RAW">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260119161500 +0000" stop="20260119165000 +0000" channel="NTV SD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20260119165000 +0000" stop="20260119165500 +0000" channel="4K TR: NTV HD">
     <title>ANA HABER ÖZET</title>
@@ -13362,16 +13362,16 @@
   <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="SÖZCÜ TV">
     <title>VATANDAŞ EKREM AÇIKEL</title>
   </programme>
-  <programme start="20260119190000 +0000" stop="20260119213000 +0000" channel="S ZC SZC TV">
+  <programme start="20260119190000 +0000" stop="20260119210000 +0000" channel="S ZC SZC TV">
     <title>ÖNCESI SONRASI GECE</title>
   </programme>
-  <programme start="20260119190000 +0000" stop="20260119213000 +0000" channel="4K TR: SOZCU TV">
+  <programme start="20260119190000 +0000" stop="20260119210000 +0000" channel="4K TR: SOZCU TV">
     <title>ÖNCESI SONRASI GECE</title>
   </programme>
-  <programme start="20260119190000 +0000" stop="20260119213000 +0000" channel="SOZCU SZC TV SD">
+  <programme start="20260119190000 +0000" stop="20260119210000 +0000" channel="SOZCU SZC TV SD">
     <title>ÖNCESI SONRASI GECE</title>
   </programme>
-  <programme start="20260119190000 +0000" stop="20260119213000 +0000" channel="SÖZCÜ TV">
+  <programme start="20260119190000 +0000" stop="20260119210000 +0000" channel="SÖZCÜ TV">
     <title>ÖNCESI SONRASI GECE</title>
   </programme>
   <programme start="20260118220000 +0000" stop="20260118230000 +0000" channel="4K TR: TRT SPOR HD">
@@ -13614,35 +13614,35 @@
   <programme start="20260119140000 +0000" stop="20260119160000 +0000" channel="TRT SPOR RAW">
     <title>İSTANBULSPOR-KEÇIÖRENGÜCÜ</title>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119180000 +0000" channel="4K TR: TRT SPOR HD">
-    <title>S. BODRUM - Ö. SIVASSPOR</title>
-  </programme>
-  <programme start="20260119160000 +0000" stop="20260119180000 +0000" channel="TRT SPOR">
-    <title>S. BODRUM - Ö. SIVASSPOR</title>
-  </programme>
-  <programme start="20260119160000 +0000" stop="20260119180000 +0000" channel="TRT SPOR FHD">
-    <title>S. BODRUM - Ö. SIVASSPOR</title>
-  </programme>
-  <programme start="20260119160000 +0000" stop="20260119180000 +0000" channel="TRT SPOR HD">
-    <title>S. BODRUM - Ö. SIVASSPOR</title>
-  </programme>
-  <programme start="20260119160000 +0000" stop="20260119180000 +0000" channel="TRT SPOR RAW">
-    <title>S. BODRUM - Ö. SIVASSPOR</title>
-  </programme>
-  <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="4K TR: TRT SPOR HD">
+  <programme start="20260119160000 +0000" stop="20260119170000 +0000" channel="4K TR: TRT SPOR HD">
     <title>GÜNDEM FUTBOL TRANSFER</title>
   </programme>
-  <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="TRT SPOR">
+  <programme start="20260119160000 +0000" stop="20260119170000 +0000" channel="TRT SPOR">
     <title>GÜNDEM FUTBOL TRANSFER</title>
   </programme>
-  <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="TRT SPOR FHD">
+  <programme start="20260119160000 +0000" stop="20260119170000 +0000" channel="TRT SPOR FHD">
     <title>GÜNDEM FUTBOL TRANSFER</title>
   </programme>
-  <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="TRT SPOR HD">
+  <programme start="20260119160000 +0000" stop="20260119170000 +0000" channel="TRT SPOR HD">
     <title>GÜNDEM FUTBOL TRANSFER</title>
   </programme>
-  <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="TRT SPOR RAW">
+  <programme start="20260119160000 +0000" stop="20260119170000 +0000" channel="TRT SPOR RAW">
     <title>GÜNDEM FUTBOL TRANSFER</title>
+  </programme>
+  <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>S. BODRUM - Ö. SIVASSPOR</title>
+  </programme>
+  <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="TRT SPOR">
+    <title>S. BODRUM - Ö. SIVASSPOR</title>
+  </programme>
+  <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="TRT SPOR FHD">
+    <title>S. BODRUM - Ö. SIVASSPOR</title>
+  </programme>
+  <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="TRT SPOR HD">
+    <title>S. BODRUM - Ö. SIVASSPOR</title>
+  </programme>
+  <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="TRT SPOR RAW">
+    <title>S. BODRUM - Ö. SIVASSPOR</title>
   </programme>
   <programme start="20260119190000 +0000" stop="20260119203000 +0000" channel="4K TR: TRT SPOR HD">
     <title>STADYUM</title>
@@ -15058,46 +15058,46 @@
     <title>DEPLASMAN LEZZETLERI</title>
   </programme>
   <programme start="20260119122500 +0000" stop="20260119140500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20260119122500 +0000" stop="20260119140500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20260119122500 +0000" stop="20260119140500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20260119122500 +0000" stop="20260119140500 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20260119122500 +0000" stop="20260119140500 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20260119122500 +0000" stop="20260119140500 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20260119122500 +0000" stop="20260119140500 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BENFICA - NAPOLI'</title>
+    <title>BENFICA - NAPOLI</title>
   </programme>
   <programme start="20260119140500 +0000" stop="20260119154500 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20260119140500 +0000" stop="20260119154500 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20260119140500 +0000" stop="20260119154500 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20260119140500 +0000" stop="20260119154500 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20260119140500 +0000" stop="20260119154500 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20260119140500 +0000" stop="20260119154500 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20260119140500 +0000" stop="20260119154500 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'VILLAREAL - KOPENHAG'</title>
+    <title>VILLAREAL - KOPENHAG</title>
   </programme>
   <programme start="20260119154500 +0000" stop="20260119161000 +0000" channel="TABII SPOR 1 4K">
     <title>TÜM ZAMANLARIN EN İYILERI</title>
@@ -15121,67 +15121,67 @@
     <title>TÜM ZAMANLARIN EN İYILERI</title>
   </programme>
   <programme start="20260119161000 +0000" stop="20260119175000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'DINAMO ZAGREB - REAL BETIS'</title>
+    <title>DINAMO ZAGREB - REAL BETIS</title>
   </programme>
   <programme start="20260119161000 +0000" stop="20260119175000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'DINAMO ZAGREB - REAL BETIS'</title>
+    <title>DINAMO ZAGREB - REAL BETIS</title>
   </programme>
   <programme start="20260119161000 +0000" stop="20260119175000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'DINAMO ZAGREB - REAL BETIS'</title>
+    <title>DINAMO ZAGREB - REAL BETIS</title>
   </programme>
   <programme start="20260119161000 +0000" stop="20260119175000 +0000" channel="TABII SPOR HD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'DINAMO ZAGREB - REAL BETIS'</title>
+    <title>DINAMO ZAGREB - REAL BETIS</title>
   </programme>
   <programme start="20260119161000 +0000" stop="20260119175000 +0000" channel="TABII SPOR SD">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'DINAMO ZAGREB - REAL BETIS'</title>
+    <title>DINAMO ZAGREB - REAL BETIS</title>
   </programme>
   <programme start="20260119161000 +0000" stop="20260119175000 +0000" channel="TABII SPOR">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'DINAMO ZAGREB - REAL BETIS'</title>
+    <title>DINAMO ZAGREB - REAL BETIS</title>
   </programme>
   <programme start="20260119161000 +0000" stop="20260119175000 +0000" channel="TABII SPOR 1">
-    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'DINAMO ZAGREB - REAL BETIS'</title>
+    <title>DINAMO ZAGREB - REAL BETIS</title>
   </programme>
   <programme start="20260119175000 +0000" stop="20260119193000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+    <title>CLUB BRUGGE - ARSENAL</title>
   </programme>
   <programme start="20260119175000 +0000" stop="20260119193000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+    <title>CLUB BRUGGE - ARSENAL</title>
   </programme>
   <programme start="20260119175000 +0000" stop="20260119193000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+    <title>CLUB BRUGGE - ARSENAL</title>
   </programme>
   <programme start="20260119175000 +0000" stop="20260119193000 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+    <title>CLUB BRUGGE - ARSENAL</title>
   </programme>
   <programme start="20260119175000 +0000" stop="20260119193000 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+    <title>CLUB BRUGGE - ARSENAL</title>
   </programme>
   <programme start="20260119175000 +0000" stop="20260119193000 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+    <title>CLUB BRUGGE - ARSENAL</title>
   </programme>
   <programme start="20260119175000 +0000" stop="20260119193000 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'CLUB BRUGGE - ARSENAL'</title>
+    <title>CLUB BRUGGE - ARSENAL</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119211000 +0000" channel="TABII SPOR 1 4K">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+    <title>BAYERN MÜNIH - SPORTING</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119211000 +0000" channel="TABII SPOR 1 720P">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+    <title>BAYERN MÜNIH - SPORTING</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119211000 +0000" channel="TABII SPOR 1 UHD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+    <title>BAYERN MÜNIH - SPORTING</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119211000 +0000" channel="TABII SPOR HD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+    <title>BAYERN MÜNIH - SPORTING</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119211000 +0000" channel="TABII SPOR SD">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+    <title>BAYERN MÜNIH - SPORTING</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119211000 +0000" channel="TABII SPOR">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+    <title>BAYERN MÜNIH - SPORTING</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119211000 +0000" channel="TABII SPOR 1">
-    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'BAYERN MÜNIH - SPORTING'</title>
+    <title>BAYERN MÜNIH - SPORTING</title>
   </programme>
   <programme start="20260118233000 +0000" stop="20260119000000 +0000" channel="4K TR: S SPORT">
     <title>ARIZONA STATE - HOUSTON</title>
@@ -15319,13 +15319,13 @@
     <title>NBA ÖZETLER</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119220000 +0000" channel="4K TR: S SPORT">
-    <title>OKLAHOMA - CLEVELAND</title>
+    <title>OKLAHOMA CITY THUNDER - CLEVELAND CAVALIERS</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119220000 +0000" channel="S SPORT">
-    <title>OKLAHOMA - CLEVELAND</title>
+    <title>OKLAHOMA CITY THUNDER - CLEVELAND CAVALIERS</title>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119220000 +0000" channel="SARAN SPORT 1">
-    <title>OKLAHOMA - CLEVELAND</title>
+    <title>OKLAHOMA CITY THUNDER - CLEVELAND CAVALIERS</title>
   </programme>
   <programme start="20260118214500 +0000" stop="20260118220000 +0000" channel="SARAN SPORT 2">
     <title>ÖZETLER</title>
@@ -15461,6 +15461,15 @@
   </programme>
   <programme start="20260119193000 +0000" stop="20260119194500 +0000" channel="4K TR: S SPORT 2">
     <title>ÖZETLER</title>
+  </programme>
+  <programme start="20260119194500 +0000" stop="20260119214500 +0000" channel="SARAN SPORT 2">
+    <title>LAZIO - COMO</title>
+  </programme>
+  <programme start="20260119194500 +0000" stop="20260119214500 +0000" channel="S SPORT 2">
+    <title>LAZIO - COMO</title>
+  </programme>
+  <programme start="20260119194500 +0000" stop="20260119214500 +0000" channel="4K TR: S SPORT 2">
+    <title>LAZIO - COMO</title>
   </programme>
   <programme start="20260118220000 +0000" stop="20260118230000 +0000" channel="EUROSPORT 1">
     <title>KAYAKLA ATLAMA DÜNYA KUPASI</title>
@@ -23799,74 +23808,83 @@
   <programme start="20260119062600 +0000" stop="20260119070500 +0000" channel="MOONBUG KIDS">
     <title>ROB THE ROBOT - BIR OYUN GÖSTERISI, SARILMIŞ VE GALAKSI GOLFÜ!</title>
   </programme>
-  <programme start="20260119070500 +0000" stop="20260119074300 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - TAKLITÇI, DIŞ VE BIR MAYMUN!</title>
+  <programme start="20260119073000 +0000" stop="20260119080200 +0000" channel="MOONBUG KIDS">
+    <title>COCOMELON - JJ’IN FAVORI OYUNLARI VE ARAÇLARI!</title>
   </programme>
-  <programme start="20260119074300 +0000" stop="20260119082200 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - BIR MUMYA, BIR DILEK VE NOT ALMA BAŞARISI!</title>
+  <programme start="20260119080200 +0000" stop="20260119082400 +0000" channel="MOONBUG KIDS">
+    <title>GECKO'S GARAGE - GARAJDA YOĞUN BIR GÜN!</title>
   </programme>
-  <programme start="20260119082200 +0000" stop="20260119090100 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - BIR YAZAR, GÖRGÜ KURALLARI VE EĞLENCELI BIR ADAM!</title>
+  <programme start="20260119082400 +0000" stop="20260119085900 +0000" channel="MOONBUG KIDS">
+    <title>GECKO'S GARAGE - MUHTEŞEM KURTARIŞLAR VE WEASEL’IN HATALARI!</title>
   </programme>
-  <programme start="20260119090100 +0000" stop="20260119093900 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - PEYNIRLI BIR GÖREV, KANDIRMACA VE EĞLENCE!</title>
+  <programme start="20260119085900 +0000" stop="20260119092800 +0000" channel="MOONBUG KIDS">
+    <title>DIGLEY - DAZEY - YARIŞLAR, OYUNLAR VE YARDIMSEVER ARKADAŞLAR!</title>
   </programme>
-  <programme start="20260119093900 +0000" stop="20260119101800 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - BIR ŞÖVALYE, BIR LORD VE KAYIP BIR DINOZOR!</title>
+  <programme start="20260119092800 +0000" stop="20260119100200 +0000" channel="MOONBUG KIDS">
+    <title>DIGLEY - DAZEY - İNŞAAT KAOSU VE ZEKICE ÇÖZÜMLER!</title>
   </programme>
-  <programme start="20260119101800 +0000" stop="20260119105600 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - ZORLU BIR PIKNIK, KAYIP VE BULUNAN ŞEYLER!</title>
+  <programme start="20260119100200 +0000" stop="20260119104100 +0000" channel="MOONBUG KIDS">
+    <title>ROB THE ROBOT - UZAY KAMPI, UYKULAR VE UZUN BIR HIKÂYE!</title>
   </programme>
-  <programme start="20260119105600 +0000" stop="20260119113600 +0000" channel="MOONBUG KIDS">
-    <title>ARPO - ÇILGIN YARIŞMALAR VE ROBOT ARIZALARI!</title>
-  </programme>
-  <programme start="20260119113600 +0000" stop="20260119120400 +0000" channel="MOONBUG KIDS">
-    <title>ARPO - SIFIR YERÇEKIMI, KÜÇÜLTME IŞINLARI VE DAHA FAZLA KAOS!</title>
-  </programme>
-  <programme start="20260119120400 +0000" stop="20260119124300 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - SPOR GÜNÜ, BIR ROKET GRUBU VE BIR KEMIK!</title>
-  </programme>
-  <programme start="20260119124300 +0000" stop="20260119132200 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - UZAY KEDILERI, ORIGAMI VE KESIN BIR İŞARET!</title>
-  </programme>
-  <programme start="20260119132200 +0000" stop="20260119140000 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - UÇURTMALAR, CIYAKLAR VE AĞAÇ EVI SORUNU!</title>
-  </programme>
-  <programme start="20260119140000 +0000" stop="20260119143900 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - HAZINE, PEYNIR VE BIR GIZEM!</title>
-  </programme>
-  <programme start="20260119143900 +0000" stop="20260119151700 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - ÇOK HIZLI, BIR İNŞA YARIŞI VE BIR SIS!</title>
-  </programme>
-  <programme start="20260119151700 +0000" stop="20260119155600 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - GÖSTER VE PAYLAŞ, TITREME VE BIR ÇATLAK!</title>
-  </programme>
-  <programme start="20260119155600 +0000" stop="20260119163000 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - BIR TAVŞAN, BIR ŞERIF VE KAPLUMBAĞA KABUĞU!</title>
-  </programme>
-  <programme start="20260119163000 +0000" stop="20260119170900 +0000" channel="MOONBUG KIDS">
+  <programme start="20260119104100 +0000" stop="20260119113000 +0000" channel="MOONBUG KIDS">
     <title>ROB THE ROBOT - DANS, UZAY ÖRDEĞI VE RENKLI EĞLENCE!</title>
   </programme>
-  <programme start="20260119170900 +0000" stop="20260119174700 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - TAKIM RUHU, KOZMIK BIR GÜN VE BOWLING!</title>
+  <programme start="20260119113000 +0000" stop="20260119120400 +0000" channel="MOONBUG KIDS">
+    <title>COCOMELON - HADI JJ ILE OYNAYALIM, KEŞFEDELIM VE ÖĞRENELIM!</title>
   </programme>
-  <programme start="20260119174700 +0000" stop="20260119182300 +0000" channel="MOONBUG KIDS">
-    <title>ARPO - ANNEMIN ÇILGIN İCATLARI KONTROLDEN ÇIKIYOR!</title>
+  <programme start="20260119120400 +0000" stop="20260119123700 +0000" channel="MOONBUG KIDS">
+    <title>COCOMELON - JJ ILE BIR GÜN: GÜNDÜZ VE GECE!</title>
   </programme>
-  <programme start="20260119182300 +0000" stop="20260119185500 +0000" channel="MOONBUG KIDS">
-    <title>ARPO - SINCAP SORUNU VE DIĞER TUHAF DERTLER!</title>
+  <programme start="20260119123700 +0000" stop="20260119130800 +0000" channel="MOONBUG KIDS">
+    <title>LITTLE ANGEL - HAYAL GÜCÜ VE SORUN ÇÖZME EĞLENCESI!</title>
   </programme>
-  <programme start="20260119185500 +0000" stop="20260119193400 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - PEYNIRLI BIR GÖREV, KANDIRMACA VE EĞLENCE!</title>
+  <programme start="20260119130800 +0000" stop="20260119133100 +0000" channel="MOONBUG KIDS">
+    <title>LITTLE ANGEL - BEBEK JOHN’LA ÖNEMLI DERSLER!</title>
   </programme>
-  <programme start="20260119193400 +0000" stop="20260119201200 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - FARE EVI, UZAY VIRÜSÜ VE BIR ROBOT!</title>
+  <programme start="20260119133100 +0000" stop="20260119135300 +0000" channel="MOONBUG KIDS">
+    <title>BLIPPI - BLIPPI’NIN MUHTEŞEM AKVARYUM GÜNÜ!</title>
   </programme>
-  <programme start="20260119201200 +0000" stop="20260119205100 +0000" channel="MOONBUG KIDS">
-    <title>ROB THE ROBOT - TAKLITÇI, DIŞ VE BIR MAYMUN!</title>
+  <programme start="20260119135300 +0000" stop="20260119142800 +0000" channel="MOONBUG KIDS">
+    <title>BLIPPI - ŞEKILLER, RENKLER VE DAHA FAZLASI – BLIPPI TARZIYLA!</title>
   </programme>
-  <programme start="20260119205100 +0000" stop="20260119213300 +0000" channel="MOONBUG KIDS">
-    <title>CICO ILE MOCO - BÖLÜM 10</title>
+  <programme start="20260119142800 +0000" stop="20260119145300 +0000" channel="MOONBUG KIDS">
+    <title>SUPA STRIKAS - AYAK CAMBAZLIĞI</title>
+  </programme>
+  <programme start="20260119145300 +0000" stop="20260119151400 +0000" channel="MOONBUG KIDS">
+    <title>SUPA STRIKAS - HAVALI JOE SIRRINI KAYBEDIYOR BÖLÜM 2</title>
+  </programme>
+  <programme start="20260119151400 +0000" stop="20260119153900 +0000" channel="MOONBUG KIDS">
+    <title>SUPA STRIKAS - DENIZLER ALTINDA BIR SÜPER LIG</title>
+  </programme>
+  <programme start="20260119153900 +0000" stop="20260119160000 +0000" channel="MOONBUG KIDS">
+    <title>ODDBODS - KIVILCIM TUZAKLARI, ŞEKERLEME YAPAN HIRSIZ VE KÖPÜK FIYASKOSU</title>
+  </programme>
+  <programme start="20260119160000 +0000" stop="20260119163200 +0000" channel="MOONBUG KIDS">
+    <title>ODDBODS - DENIZKIZI KUYRUĞU, KÖTÜ YOLCULUK VE MÜKEMMEL HEDIYE!</title>
+  </programme>
+  <programme start="20260119163200 +0000" stop="20260119165700 +0000" channel="MOONBUG KIDS">
+    <title>ARPO - ŞEHRIN HER YERINDE KAOS!</title>
+  </programme>
+  <programme start="20260119165700 +0000" stop="20260119173700 +0000" channel="MOONBUG KIDS">
+    <title>ARPO - ÇILGIN YARIŞMALAR VE ROBOT ARIZALARI!</title>
+  </programme>
+  <programme start="20260119173700 +0000" stop="20260119181500 +0000" channel="MOONBUG KIDS">
+    <title>ROB THE ROBOT - ÇOK HIZLI, BIR İNŞA YARIŞI VE BIR SIS!</title>
+  </programme>
+  <programme start="20260119181500 +0000" stop="20260119190500 +0000" channel="MOONBUG KIDS">
+    <title>ROB THE ROBOT - SIÇRA, SERINLE VE EĞLEN!</title>
+  </programme>
+  <programme start="20260119190500 +0000" stop="20260119193800 +0000" channel="MOONBUG KIDS">
+    <title>COCOMELON - JJ’IN BÜYÜK HAYVAN MACERASI!</title>
+  </programme>
+  <programme start="20260119193800 +0000" stop="20260119201100 +0000" channel="MOONBUG KIDS">
+    <title>COCOMELON - HADI JJ ILE OYNAYIP ÖĞRENELIM!</title>
+  </programme>
+  <programme start="20260119201100 +0000" stop="20260119203700 +0000" channel="MOONBUG KIDS">
+    <title>LITTLE ANGEL - BEBEK JOHN’UN EĞLENCELI HAYVAN OYUN ZAMANI!</title>
+  </programme>
+  <programme start="20260119203700 +0000" stop="20260119211100 +0000" channel="MOONBUG KIDS">
+    <title>LITTLE ANGEL - BEBEK JOHN BÜYÜYOR!</title>
   </programme>
   <programme start="20260118210500 +0000" stop="20260118212000 +0000" channel="CARTOONITO">
     <title>KRAL ŞAKIR</title>
