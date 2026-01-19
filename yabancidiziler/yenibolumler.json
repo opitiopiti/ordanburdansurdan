@@ -20,13 +20,13 @@
   "/dizi/spring-fever": {
     "group": "Spring Fever",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/the-artist": {
     "group": "The Artist",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
