@@ -46,35 +46,5 @@
     "last_season": 2,
     "last_episode": 5,
     "start_episode": 1
-  },
-  "/dizi/a-knight-of-the-seven-kingdoms": {
-    "group": "A Knight of the Seven Kingdoms",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/industry": {
-    "group": "Industry",
-    "last_season": 4,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/love-is-blind-germany": {
-    "group": "Love Is Blind: Germany",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/the-artist": {
-    "group": "The Artist",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/when-calls-the-heart": {
-    "group": "When Calls the Heart",
-    "last_season": 13,
-    "last_episode": 3,
-    "start_episode": 1
   }
 }
