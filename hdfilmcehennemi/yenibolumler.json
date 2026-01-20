@@ -1,4 +1,13 @@
 {
+  "/dizi/tell-me-lies-hdf2-14/": {
+    "group": "TELL ME LIES"
+  },
+  "/dizi/spring-fever/": {
+    "group": "SPRING FEVER"
+  },
+  "/dizi/saint-pierre/": {
+    "group": "SAINT PIERRE"
+  },
   "/dizi/the-night-manager/": {
     "group": "THE NIGHT MANAGER"
   },
@@ -38,15 +47,6 @@
   "/dizi/high-potential/": {
     "group": "HIGH POTENTIAL"
   },
-  "/dizi/percy-jackson-and-the-olympians-42/": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS"
-  },
-  "/dizi/allegiance-hdfc/": {
-    "group": "ALLEGIANCE"
-  },
-  "/dizi/hijack-38/": {
-    "group": "HIJACK"
-  },
   "/dizi/to-love-to-lose/": {
     "group": "AYRILIK DA SEVDAYA DAHIL"
   },
@@ -55,9 +55,6 @@
   },
   "/dizi/his-hers-2026-hdfc/": {
     "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
-  },
-  "/dizi/spring-fever/": {
-    "group": "SPRING FEVER"
   },
   "/dizi/the-war-between-the-land-and-the-sea/": {
     "group": "THE WAR BETWEEN THE LAND AND THE SEA"

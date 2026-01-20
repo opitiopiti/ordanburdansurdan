@@ -352,5 +352,23 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/single-s-inferno": {
+    "group": "Single’s Inferno",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-fall-and-rise-of-reggie-dinkins": {
+    "group": "The Fall and Rise of Reggie Dinkins",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/wwe-unreal": {
+    "group": "WWE: Unreal",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
