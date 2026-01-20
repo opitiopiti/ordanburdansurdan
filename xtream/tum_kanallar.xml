@@ -6900,59 +6900,41 @@
   <programme start="20260120090000 +0000" stop="20260120100000 +0000" channel="EKOL TV SD">
     <title>SPOR BÜLTENI</title>
   </programme>
-  <programme start="20260120100000 +0000" stop="20260120120000 +0000" channel="4K TR: EKOL TV">
-    <title>BUGÜN</title>
+  <programme start="20260120100000 +0000" stop="20260120110000 +0000" channel="4K TR: EKOL TV">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120100000 +0000" stop="20260120120000 +0000" channel="EKOL TV">
-    <title>BUGÜN</title>
+  <programme start="20260120100000 +0000" stop="20260120110000 +0000" channel="EKOL TV">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120100000 +0000" stop="20260120120000 +0000" channel="EKOL TV SD">
-    <title>BUGÜN</title>
+  <programme start="20260120100000 +0000" stop="20260120110000 +0000" channel="EKOL TV SD">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120120000 +0000" stop="20260120130000 +0000" channel="4K TR: EKOL TV">
-    <title>SPOR BÜLTENI</title>
+  <programme start="20260120110000 +0000" stop="20260120150000 +0000" channel="4K TR: EKOL TV">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120120000 +0000" stop="20260120130000 +0000" channel="EKOL TV">
-    <title>SPOR BÜLTENI</title>
+  <programme start="20260120110000 +0000" stop="20260120150000 +0000" channel="EKOL TV">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120120000 +0000" stop="20260120130000 +0000" channel="EKOL TV SD">
-    <title>SPOR BÜLTENI</title>
+  <programme start="20260120110000 +0000" stop="20260120150000 +0000" channel="EKOL TV SD">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120130000 +0000" stop="20260120160000 +0000" channel="4K TR: EKOL TV">
-    <title>AJANS</title>
+  <programme start="20260120150000 +0000" stop="20260120190000 +0000" channel="4K TR: EKOL TV">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120130000 +0000" stop="20260120160000 +0000" channel="EKOL TV">
-    <title>AJANS</title>
+  <programme start="20260120150000 +0000" stop="20260120190000 +0000" channel="EKOL TV">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120130000 +0000" stop="20260120160000 +0000" channel="EKOL TV SD">
-    <title>AJANS</title>
+  <programme start="20260120150000 +0000" stop="20260120190000 +0000" channel="EKOL TV SD">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120160000 +0000" stop="20260120170000 +0000" channel="4K TR: EKOL TV">
-    <title>ANA HABER</title>
+  <programme start="20260120190000 +0000" stop="20260121030000 +0000" channel="4K TR: EKOL TV">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120160000 +0000" stop="20260120170000 +0000" channel="EKOL TV">
-    <title>ANA HABER</title>
+  <programme start="20260120190000 +0000" stop="20260121030000 +0000" channel="EKOL TV">
+    <title>EKOL TV</title>
   </programme>
-  <programme start="20260120160000 +0000" stop="20260120170000 +0000" channel="EKOL TV SD">
-    <title>ANA HABER</title>
-  </programme>
-  <programme start="20260120170000 +0000" stop="20260120200000 +0000" channel="4K TR: EKOL TV">
-    <title>TARTIŞMA ZEMINI</title>
-  </programme>
-  <programme start="20260120170000 +0000" stop="20260120200000 +0000" channel="EKOL TV">
-    <title>TARTIŞMA ZEMINI</title>
-  </programme>
-  <programme start="20260120170000 +0000" stop="20260120200000 +0000" channel="EKOL TV SD">
-    <title>TARTIŞMA ZEMINI</title>
-  </programme>
-  <programme start="20260120200000 +0000" stop="20260121050000 +0000" channel="4K TR: EKOL TV">
-    <title>TEKRAR PROGRAMLAR</title>
-  </programme>
-  <programme start="20260120200000 +0000" stop="20260121050000 +0000" channel="EKOL TV">
-    <title>TEKRAR PROGRAMLAR</title>
-  </programme>
-  <programme start="20260120200000 +0000" stop="20260121050000 +0000" channel="EKOL TV SD">
-    <title>TEKRAR PROGRAMLAR</title>
+  <programme start="20260120190000 +0000" stop="20260121030000 +0000" channel="EKOL TV SD">
+    <title>EKOL TV</title>
   </programme>
   <programme start="20260119210000 +0000" stop="20260119220000 +0000" channel="THT TURK HABER">
     <title>GECE BÜLTENI</title>
@@ -13071,53 +13053,113 @@
   <programme start="20260120080000 +0000" stop="20260120120000 +0000" channel="KRT TV">
     <title>İREM AKTAŞ ILE KRT HABER</title>
   </programme>
-  <programme start="20260120120000 +0000" stop="20260120150000 +0000" channel="4K TR: KRT TV">
-    <title>HAYATIN İÇINDEN</title>
+  <programme start="20260120120000 +0000" stop="20260120130000 +0000" channel="4K TR: KRT TV">
+    <title>ZAMAN DIŞI</title>
   </programme>
-  <programme start="20260120120000 +0000" stop="20260120150000 +0000" channel="KRT HD+ SD">
-    <title>HAYATIN İÇINDEN</title>
+  <programme start="20260120120000 +0000" stop="20260120130000 +0000" channel="KRT HD+ SD">
+    <title>ZAMAN DIŞI</title>
   </programme>
-  <programme start="20260120120000 +0000" stop="20260120150000 +0000" channel="KRT TV HD">
-    <title>HAYATIN İÇINDEN</title>
+  <programme start="20260120120000 +0000" stop="20260120130000 +0000" channel="KRT TV HD">
+    <title>ZAMAN DIŞI</title>
   </programme>
-  <programme start="20260120120000 +0000" stop="20260120150000 +0000" channel="KRT TV">
-    <title>HAYATIN İÇINDEN</title>
+  <programme start="20260120120000 +0000" stop="20260120130000 +0000" channel="KRT TV">
+    <title>ZAMAN DIŞI</title>
   </programme>
-  <programme start="20260120150000 +0000" stop="20260120164500 +0000" channel="4K TR: KRT TV">
-    <title>GIZEM ÇETIN ILE KRT ANA HABER</title>
+  <programme start="20260120130000 +0000" stop="20260120140000 +0000" channel="4K TR: KRT TV">
+    <title>HAFIZA</title>
   </programme>
-  <programme start="20260120150000 +0000" stop="20260120164500 +0000" channel="KRT HD+ SD">
-    <title>GIZEM ÇETIN ILE KRT ANA HABER</title>
+  <programme start="20260120130000 +0000" stop="20260120140000 +0000" channel="KRT HD+ SD">
+    <title>HAFIZA</title>
   </programme>
-  <programme start="20260120150000 +0000" stop="20260120164500 +0000" channel="KRT TV HD">
-    <title>GIZEM ÇETIN ILE KRT ANA HABER</title>
+  <programme start="20260120130000 +0000" stop="20260120140000 +0000" channel="KRT TV HD">
+    <title>HAFIZA</title>
   </programme>
-  <programme start="20260120150000 +0000" stop="20260120164500 +0000" channel="KRT TV">
-    <title>GIZEM ÇETIN ILE KRT ANA HABER</title>
+  <programme start="20260120130000 +0000" stop="20260120140000 +0000" channel="KRT TV">
+    <title>HAFIZA</title>
   </programme>
-  <programme start="20260120164500 +0000" stop="20260120170000 +0000" channel="4K TR: KRT TV">
-    <title>KRT SPOR</title>
+  <programme start="20260120140000 +0000" stop="20260120150000 +0000" channel="4K TR: KRT TV">
+    <title>UZMAN REHBERI</title>
   </programme>
-  <programme start="20260120164500 +0000" stop="20260120170000 +0000" channel="KRT HD+ SD">
-    <title>KRT SPOR</title>
+  <programme start="20260120140000 +0000" stop="20260120150000 +0000" channel="KRT HD+ SD">
+    <title>UZMAN REHBERI</title>
   </programme>
-  <programme start="20260120164500 +0000" stop="20260120170000 +0000" channel="KRT TV HD">
-    <title>KRT SPOR</title>
+  <programme start="20260120140000 +0000" stop="20260120150000 +0000" channel="KRT TV HD">
+    <title>UZMAN REHBERI</title>
   </programme>
-  <programme start="20260120164500 +0000" stop="20260120170000 +0000" channel="KRT TV">
-    <title>KRT SPOR</title>
+  <programme start="20260120140000 +0000" stop="20260120150000 +0000" channel="KRT TV">
+    <title>UZMAN REHBERI</title>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260121050000 +0000" channel="4K TR: KRT TV">
-    <title>PANORAMA</title>
+  <programme start="20260120150000 +0000" stop="20260120160000 +0000" channel="4K TR: KRT TV">
+    <title>EN IYISI</title>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260121050000 +0000" channel="KRT HD+ SD">
-    <title>PANORAMA</title>
+  <programme start="20260120150000 +0000" stop="20260120160000 +0000" channel="KRT HD+ SD">
+    <title>EN IYISI</title>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260121050000 +0000" channel="KRT TV HD">
-    <title>PANORAMA</title>
+  <programme start="20260120150000 +0000" stop="20260120160000 +0000" channel="KRT TV HD">
+    <title>EN IYISI</title>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260121050000 +0000" channel="KRT TV">
-    <title>PANORAMA</title>
+  <programme start="20260120150000 +0000" stop="20260120160000 +0000" channel="KRT TV">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260120160000 +0000" stop="20260120170000 +0000" channel="4K TR: KRT TV">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260120160000 +0000" stop="20260120170000 +0000" channel="KRT HD+ SD">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260120160000 +0000" stop="20260120170000 +0000" channel="KRT TV HD">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260120160000 +0000" stop="20260120170000 +0000" channel="KRT TV">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260120170000 +0000" stop="20260120180000 +0000" channel="4K TR: KRT TV">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260120170000 +0000" stop="20260120180000 +0000" channel="KRT HD+ SD">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260120170000 +0000" stop="20260120180000 +0000" channel="KRT TV HD">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260120170000 +0000" stop="20260120180000 +0000" channel="KRT TV">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260120180000 +0000" stop="20260120190000 +0000" channel="4K TR: KRT TV">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260120180000 +0000" stop="20260120190000 +0000" channel="KRT HD+ SD">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260120180000 +0000" stop="20260120190000 +0000" channel="KRT TV HD">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260120180000 +0000" stop="20260120190000 +0000" channel="KRT TV">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260120190000 +0000" stop="20260120200000 +0000" channel="4K TR: KRT TV">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260120190000 +0000" stop="20260120200000 +0000" channel="KRT HD+ SD">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260120190000 +0000" stop="20260120200000 +0000" channel="KRT TV HD">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260120190000 +0000" stop="20260120200000 +0000" channel="KRT TV">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260120200000 +0000" stop="20260120210000 +0000" channel="4K TR: KRT TV">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260120200000 +0000" stop="20260120210000 +0000" channel="KRT HD+ SD">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260120200000 +0000" stop="20260120210000 +0000" channel="KRT TV HD">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260120200000 +0000" stop="20260120210000 +0000" channel="KRT TV">
+    <title>YAŞAMINI TASARLA</title>
   </programme>
   <programme start="20260120020000 +0000" stop="20260120020500 +0000" channel="TV 5">
     <title>SABAH EZANI</title>
@@ -28086,23 +28128,23 @@
   <programme start="20260120060500 +0000" stop="20260120063000 +0000" channel="TRT ÇOCUK">
     <title>ÇOCUKÇUF</title>
   </programme>
-  <programme start="20260120063000 +0000" stop="20260120064500 +0000" channel="TRT COCUK">
-    <title>YADE YADE</title>
-  </programme>
-  <programme start="20260120063000 +0000" stop="20260120064500 +0000" channel="TRT COCUK RAW">
-    <title>YADE YADE</title>
-  </programme>
-  <programme start="20260120063000 +0000" stop="20260120064500 +0000" channel="TRT ÇOCUK">
-    <title>YADE YADE</title>
-  </programme>
-  <programme start="20260120064500 +0000" stop="20260120070500 +0000" channel="TRT COCUK">
+  <programme start="20260120063000 +0000" stop="20260120065000 +0000" channel="TRT COCUK">
     <title>EGE ILE GAGA</title>
   </programme>
-  <programme start="20260120064500 +0000" stop="20260120070500 +0000" channel="TRT COCUK RAW">
+  <programme start="20260120063000 +0000" stop="20260120065000 +0000" channel="TRT COCUK RAW">
     <title>EGE ILE GAGA</title>
   </programme>
-  <programme start="20260120064500 +0000" stop="20260120070500 +0000" channel="TRT ÇOCUK">
+  <programme start="20260120063000 +0000" stop="20260120065000 +0000" channel="TRT ÇOCUK">
     <title>EGE ILE GAGA</title>
+  </programme>
+  <programme start="20260120065000 +0000" stop="20260120070500 +0000" channel="TRT COCUK">
+    <title>KATURI</title>
+  </programme>
+  <programme start="20260120065000 +0000" stop="20260120070500 +0000" channel="TRT COCUK RAW">
+    <title>KATURI</title>
+  </programme>
+  <programme start="20260120065000 +0000" stop="20260120070500 +0000" channel="TRT ÇOCUK">
+    <title>KATURI</title>
   </programme>
   <programme start="20260120070500 +0000" stop="20260120072000 +0000" channel="TRT COCUK">
     <title>NILOYA</title>
@@ -28204,13 +28246,13 @@
     <title>BELLE VE SEBASTIAN</title>
   </programme>
   <programme start="20260120105500 +0000" stop="20260120111000 +0000" channel="TRT COCUK">
-    <title>ANADOLU ROCK</title>
+    <title>TRAFIK TAYFA</title>
   </programme>
   <programme start="20260120105500 +0000" stop="20260120111000 +0000" channel="TRT COCUK RAW">
-    <title>ANADOLU ROCK</title>
+    <title>TRAFIK TAYFA</title>
   </programme>
   <programme start="20260120105500 +0000" stop="20260120111000 +0000" channel="TRT ÇOCUK">
-    <title>ANADOLU ROCK</title>
+    <title>TRAFIK TAYFA</title>
   </programme>
   <programme start="20260120111000 +0000" stop="20260120113500 +0000" channel="TRT COCUK">
     <title>NILS VE UÇAN KAZ</title>
@@ -28222,22 +28264,22 @@
     <title>NILS VE UÇAN KAZ</title>
   </programme>
   <programme start="20260120113500 +0000" stop="20260120114500 +0000" channel="TRT COCUK">
-    <title>ASLAN</title>
+    <title>SAGUN</title>
   </programme>
   <programme start="20260120113500 +0000" stop="20260120114500 +0000" channel="TRT COCUK RAW">
-    <title>ASLAN</title>
+    <title>SAGUN</title>
   </programme>
   <programme start="20260120113500 +0000" stop="20260120114500 +0000" channel="TRT ÇOCUK">
-    <title>ASLAN</title>
+    <title>SAGUN</title>
   </programme>
   <programme start="20260120114500 +0000" stop="20260120120000 +0000" channel="TRT COCUK">
-    <title>KAPTAN PENGU VE ARKADAŞLARI</title>
+    <title>ANADOLU ROCK</title>
   </programme>
   <programme start="20260120114500 +0000" stop="20260120120000 +0000" channel="TRT COCUK RAW">
-    <title>KAPTAN PENGU VE ARKADAŞLARI</title>
+    <title>ANADOLU ROCK</title>
   </programme>
   <programme start="20260120114500 +0000" stop="20260120120000 +0000" channel="TRT ÇOCUK">
-    <title>KAPTAN PENGU VE ARKADAŞLARI</title>
+    <title>ANADOLU ROCK</title>
   </programme>
   <programme start="20260120120000 +0000" stop="20260120121500 +0000" channel="TRT COCUK">
     <title>YILKI ATI - DORU</title>
@@ -28275,23 +28317,14 @@
   <programme start="20260120130000 +0000" stop="20260120132500 +0000" channel="TRT ÇOCUK">
     <title>NASREDDIN HOCA ZAMAN YOLCUSU</title>
   </programme>
-  <programme start="20260120132500 +0000" stop="20260120133500 +0000" channel="TRT COCUK">
+  <programme start="20260120132500 +0000" stop="20260120135000 +0000" channel="TRT COCUK">
     <title>KEHRIBAR İLE BONCUK</title>
   </programme>
-  <programme start="20260120132500 +0000" stop="20260120133500 +0000" channel="TRT COCUK RAW">
+  <programme start="20260120132500 +0000" stop="20260120135000 +0000" channel="TRT COCUK RAW">
     <title>KEHRIBAR İLE BONCUK</title>
   </programme>
-  <programme start="20260120132500 +0000" stop="20260120133500 +0000" channel="TRT ÇOCUK">
+  <programme start="20260120132500 +0000" stop="20260120135000 +0000" channel="TRT ÇOCUK">
     <title>KEHRIBAR İLE BONCUK</title>
-  </programme>
-  <programme start="20260120133500 +0000" stop="20260120135000 +0000" channel="TRT COCUK">
-    <title>ANADOLU ROCK</title>
-  </programme>
-  <programme start="20260120133500 +0000" stop="20260120135000 +0000" channel="TRT COCUK RAW">
-    <title>ANADOLU ROCK</title>
-  </programme>
-  <programme start="20260120133500 +0000" stop="20260120135000 +0000" channel="TRT ÇOCUK">
-    <title>ANADOLU ROCK</title>
   </programme>
   <programme start="20260120135000 +0000" stop="20260120141500 +0000" channel="TRT COCUK">
     <title>İBI</title>
@@ -28357,40 +28390,31 @@
     <title>RAFADAN TAYFA</title>
   </programme>
   <programme start="20260120165000 +0000" stop="20260120170500 +0000" channel="TRT COCUK">
-    <title>HABERIN OLSUN</title>
+    <title>ANADOLU ROCK</title>
   </programme>
   <programme start="20260120165000 +0000" stop="20260120170500 +0000" channel="TRT COCUK RAW">
-    <title>HABERIN OLSUN</title>
+    <title>ANADOLU ROCK</title>
   </programme>
   <programme start="20260120165000 +0000" stop="20260120170500 +0000" channel="TRT ÇOCUK">
-    <title>HABERIN OLSUN</title>
-  </programme>
-  <programme start="20260120170500 +0000" stop="20260120172000 +0000" channel="TRT COCUK">
     <title>ANADOLU ROCK</title>
   </programme>
-  <programme start="20260120170500 +0000" stop="20260120172000 +0000" channel="TRT COCUK RAW">
-    <title>ANADOLU ROCK</title>
-  </programme>
-  <programme start="20260120170500 +0000" stop="20260120172000 +0000" channel="TRT ÇOCUK">
-    <title>ANADOLU ROCK</title>
-  </programme>
-  <programme start="20260120172000 +0000" stop="20260120173000 +0000" channel="TRT COCUK">
+  <programme start="20260120170500 +0000" stop="20260120173000 +0000" channel="TRT COCUK">
     <title>BELLE VE SEBASTIAN</title>
   </programme>
-  <programme start="20260120172000 +0000" stop="20260120173000 +0000" channel="TRT COCUK RAW">
+  <programme start="20260120170500 +0000" stop="20260120173000 +0000" channel="TRT COCUK RAW">
     <title>BELLE VE SEBASTIAN</title>
   </programme>
-  <programme start="20260120172000 +0000" stop="20260120173000 +0000" channel="TRT ÇOCUK">
+  <programme start="20260120170500 +0000" stop="20260120173000 +0000" channel="TRT ÇOCUK">
     <title>BELLE VE SEBASTIAN</title>
   </programme>
   <programme start="20260120173000 +0000" stop="20260120175500 +0000" channel="TRT COCUK">
-    <title>TUHAF İŞLER TAKIMI</title>
+    <title>DENNIS VE GNASHER</title>
   </programme>
   <programme start="20260120173000 +0000" stop="20260120175500 +0000" channel="TRT COCUK RAW">
-    <title>TUHAF İŞLER TAKIMI</title>
+    <title>DENNIS VE GNASHER</title>
   </programme>
   <programme start="20260120173000 +0000" stop="20260120175500 +0000" channel="TRT ÇOCUK">
-    <title>TUHAF İŞLER TAKIMI</title>
+    <title>DENNIS VE GNASHER</title>
   </programme>
   <programme start="20260120175500 +0000" stop="20260120182000 +0000" channel="TRT COCUK">
     <title>NASREDDIN HOCA ZAMAN YOLCUSU</title>
@@ -28456,22 +28480,22 @@
     <title>İBI</title>
   </programme>
   <programme start="20260120202500 +0000" stop="20260120205000 +0000" channel="TRT COCUK">
-    <title>NASREDDIN HOCA ZAMAN YOLCUSU</title>
+    <title>KEHRIBAR İLE BONCUK</title>
   </programme>
   <programme start="20260120202500 +0000" stop="20260120205000 +0000" channel="TRT COCUK RAW">
-    <title>NASREDDIN HOCA ZAMAN YOLCUSU</title>
+    <title>KEHRIBAR İLE BONCUK</title>
   </programme>
   <programme start="20260120202500 +0000" stop="20260120205000 +0000" channel="TRT ÇOCUK">
-    <title>NASREDDIN HOCA ZAMAN YOLCUSU</title>
+    <title>KEHRIBAR İLE BONCUK</title>
   </programme>
   <programme start="20260120205000 +0000" stop="20260120211500 +0000" channel="TRT COCUK">
-    <title>VARILOTO</title>
+    <title>SAGUN</title>
   </programme>
   <programme start="20260120205000 +0000" stop="20260120211500 +0000" channel="TRT COCUK RAW">
-    <title>VARILOTO</title>
+    <title>SAGUN</title>
   </programme>
   <programme start="20260120205000 +0000" stop="20260120211500 +0000" channel="TRT ÇOCUK">
-    <title>VARILOTO</title>
+    <title>SAGUN</title>
   </programme>
   <programme start="20260119210000 +0000" stop="20260119213000 +0000" channel="MİNİKA ÇOCUK">
     <title>NEŞELI DÜNYAM</title>
@@ -33579,14 +33603,8 @@
   <programme start="20260120091500 +0000" stop="20260120094500 +0000" channel="DEUTSCHE WELLE ENGLISH">
     <title>CLOSE UP: THE CURRENT AFFAIRS DOCUMENTARY</title>
   </programme>
-  <programme start="20260120094500 +0000" stop="20260120100000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>REPORTER: ON LOCATION</title>
-  </programme>
-  <programme start="20260120100000 +0000" stop="20260120101500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+  <programme start="20260120094500 +0000" stop="20260120103000 +0000" channel="DEUTSCHE WELLE ENGLISH">
     <title>DW NEWS</title>
-  </programme>
-  <programme start="20260120101500 +0000" stop="20260120103000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>ASIA 2050</title>
   </programme>
   <programme start="20260120103000 +0000" stop="20260120110000 +0000" channel="DEUTSCHE WELLE ENGLISH">
     <title>TOMORROW TODAY</title>
