@@ -1,4 +1,16 @@
 {
+  "/diziler/hijack.html": {
+    "group": "HIJACK",
+    "last_season": 2,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/diziler/will-trent.html": {
+    "group": "WILL TRENT",
+    "last_season": 4,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/diziler/primal.html": {
     "group": "PRIMAL",
     "last_season": 3,
@@ -75,18 +87,6 @@
     "group": "SENTENCED TO BE A HERO",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/oshi-no-ko.html": {
-    "group": "OSHI NO KO",
-    "last_season": 3,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/percy-jackson-and-the-olympians.html": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 7,
     "start_episode": 1
   }
 }
