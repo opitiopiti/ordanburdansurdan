@@ -902,7 +902,7 @@
   "/dizi-izle/percy-jackson-and-the-olympians": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/record-of-ragnarok": {
@@ -1112,7 +1112,7 @@
   "/dizi-izle/silent-truth": {
     "group": "再会～SILENT TRUTH～",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi-izle/tell-me-lies": {
@@ -1124,7 +1124,7 @@
   "/dizi-izle/hijack": {
     "group": "HIJACK",
     "last_season": 2,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi-izle/the-boyfriend": {
@@ -1207,8 +1207,8 @@
   },
   "/dizi-izle/drops-of-god": {
     "group": "DROPS OF GOD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1
   }
 }

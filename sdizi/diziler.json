@@ -4010,7 +4010,7 @@
   "/diziler/drops-of-god.html": {
     "group": "DROPS OF GOD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/silo.html": {
@@ -5726,7 +5726,7 @@
   "/diziler/tell-me-lies.html": {
     "group": "TELL ME LIES",
     "last_season": 3,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/cars-on-the-road.html": {
@@ -16304,7 +16304,7 @@
   "/diziler/steal.html": {
     "group": "STEAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
