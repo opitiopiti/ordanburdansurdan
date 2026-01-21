@@ -107,6 +107,9 @@ jobs:
           pip install --upgrade pip
           pip install requests
 
+      - name: Run Xtream Live M3u Script
+        run: python private_py/channels/kanalbirlestirme.py
+
       - name: Run Xtream Movies M3u Script
         run: python private_py/xtream/film.py
 
