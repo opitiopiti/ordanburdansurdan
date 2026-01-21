@@ -69,6 +69,9 @@ jobs:
       - name: Run epg.py
         run: python private_py/channels/epg/gunlukepg.py || true
 
+      - name: Run sendes.py
+        run: python private_py/series/sendes/yenibolumler.py || true
+
       # 2. TV Dizileri
       - name: Run yereldiziler.py
         run: python private_py/series/yereldiziler/yereldiziler.py || true
@@ -89,6 +92,7 @@ jobs:
           cp v/vavoo_turkey.m3u privaate_m3u8file/vavoo_turkey.m3u || echo "v/vavoo_turkey.m3u bulunamadı"
           cp gunluk_spor.m3u privaate_m3u8file/gunluk_spor.m3u || echo "gunluk_spor.m3u bulunamadı"
           cp televizyondizileri.m3u privaate_m3u8file/televizyondizileri.m3u || echo "televizyondizileri.m3u bulunamadı"
+          cp sendes.m3u privaate_m3u8file/sendes.m3u || echo "sendes.m3u bulunamadı"
 
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
