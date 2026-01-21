@@ -382,5 +382,11 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/queer-eye": {
+    "group": "Queer Eye",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

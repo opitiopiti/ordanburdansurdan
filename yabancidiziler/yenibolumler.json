@@ -5,6 +5,18 @@
     "last_episode": 3,
     "start_episode": 1
   },
+  "/dizi/doc": {
+    "group": "Doc",
+    "last_season": 2,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/dizi/high-potential": {
+    "group": "High Potential",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "/dizi/hijack": {
     "group": "Hijack",
     "last_season": 2,
@@ -15,6 +27,12 @@
     "group": "Percy Jackson and the Olympians",
     "last_season": 2,
     "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/queer-eye": {
+    "group": "Queer Eye",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi/steal": {
@@ -33,6 +51,18 @@
     "group": "The Fall and Rise of Reggie Dinkins",
     "last_season": 2,
     "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/the-good-ship-murder": {
+    "group": "The Good Ship Murder",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/the-rookie": {
+    "group": "The Rookie",
+    "last_season": 8,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/will-trent": {
