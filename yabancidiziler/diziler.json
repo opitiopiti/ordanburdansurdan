@@ -374,7 +374,7 @@
   "/dizi/after-the-flood": {
     "group": "After the Flood",
     "last_season": 2,
-    "last_episode": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/steal": {
@@ -392,7 +392,7 @@
   "/dizi/the-beauty": {
     "group": "The Beauty",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   }
 }
