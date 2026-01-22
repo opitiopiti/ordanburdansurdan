@@ -50,109 +50,109 @@
   "/dizi/wild-cards": {
     "group": "WILD CARDS",
     "last_season": 3,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/when-calls-the-heart": {
     "group": "KALP ÇAĞRISI",
     "last_season": 13,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/the-rookie": {
     "group": "THE ROOKIE",
     "last_season": 8,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/the-rain-in-espana": {
     "group": "THE RAIN IN ESPAÑA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/the-hunting-party": {
     "group": "THE HUNTING PARTY",
     "last_season": 2,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/the-good-ship-murder": {
     "group": "THE GOOD SHIP MURDER",
     "last_season": 3,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/the-artist": {
     "group": "THE ARTIST",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/the-alibi": {
     "group": "THE ALIBI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/dizi/stumble": {
     "group": "STUMBLE",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/st-denis-medical": {
     "group": "ST. DENIS MEDICAL",
     "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/star-trek-starfleet-academy": {
     "group": "STAR TREK: STARFLEET ACADEMY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/shifting-gears": {
     "group": "SHIFTING GEARS",
     "last_season": 2,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/saint-pierre": {
     "group": "SAINT-PIERRE",
     "last_season": 2,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/power-book-iv-force": {
     "group": "POWER BOOK IV: FORCE",
     "last_season": 3,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/high-potential": {
     "group": "YÜKSEK POTANSIYEL",
     "last_season": 2,
-    "last_episode": 7,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/happy-s-place": {
     "group": "HAPPY'S PLACE",
     "last_season": 2,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi/grey-s-anatomy": {
     "group": "GREY'S ANATOMY",
     "last_season": 22,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/going-dutch": {
     "group": "GOING DUTCH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
