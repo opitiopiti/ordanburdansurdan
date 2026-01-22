@@ -1,4 +1,10 @@
 {
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 14,
+    "start_episode": 1
+  },
   "/anime/hell-teacher-jigoku-sensei-nube-part-2/": {
     "group": "HELL TEACHER: JIGOKU SENSEI NUBE PART 2",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/my-hero-academia-vigilantes-season-2/": {
     "group": "MY HERO ACADEMIA: VIGILANTES SEASON 2",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/anime/wash-it-all-away/": {
-    "group": "WASH IT ALL AWAY",
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1

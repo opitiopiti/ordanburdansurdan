@@ -1570,5 +1570,35 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/a-knight-of-the-seven-kingdoms": {
+    "group": "A KNIGHT OF THE SEVEN KINGDOMS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/fight-night-the-million-dollar-heist": {
+    "group": "FIGHT NIGHT: THE MILLION DOLLAR HEIST",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/seupeuring-pibeo": {
+    "group": "BAHAR ESINTISI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/soygun": {
+    "group": "SOYGUN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/suits-la": {
+    "group": "SUITS LA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

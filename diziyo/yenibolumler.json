@@ -1,4 +1,58 @@
 {
+  "/dizi/a-knight-of-the-seven-kingdoms": {
+    "group": "A KNIGHT OF THE SEVEN KINGDOMS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/fight-night-the-million-dollar-heist": {
+    "group": "FIGHT NIGHT: THE MILLION DOLLAR HEIST",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/landman": {
+    "group": "LANDMAN",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/seupeuring-pibeo": {
+    "group": "BAHAR ESINTISI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/soygun": {
+    "group": "SOYGUN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/suits-la": {
+    "group": "SUITS LA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-night-manager": {
+    "group": "THE NIGHT MANAGER",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/this-way-up": {
+    "group": "THIS WAY UP",
+    "last_season": 2,
+    "last_episode": 4,
+    "start_episode": 1
+  },
   "/dizi/wild-cards": {
     "group": "WILD CARDS",
     "last_season": 3,
@@ -99,72 +153,6 @@
     "group": "GREY'S ANATOMY",
     "last_season": 22,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/going-dutch": {
-    "group": "GOING DUTCH",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi/doc": {
-    "group": "DOC",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/chicago-p-d": {
-    "group": "CHICAGO P.D.",
-    "last_season": 13,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/chicago-med": {
-    "group": "CHICAGO MED",
-    "last_season": 11,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/chicago-fire": {
-    "group": "CHICAGO FIRE",
-    "last_season": 14,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/brilliant-minds": {
-    "group": "BRILLIANT MINDS",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/best-medicine": {
-    "group": "BEST MEDICINE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/animal-control": {
-    "group": "ANIMAL CONTROL",
-    "last_season": 4,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/allegiance-2024": {
-    "group": "ALLEGIANCE",
-    "last_season": 3,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/9-1-1": {
-    "group": "9-1-1",
-    "last_season": 9,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/9-1-1-nashville": {
-    "group": "9-1-1: NASHVILLE",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
