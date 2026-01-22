@@ -58,5 +58,17 @@
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
+  },
+  "/isekai-no-sata-wa-shachiku-shidai": {
+    "group": "ISEKAI NO SATA WA SHACHIKU SHIDAI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/darwin-jihen": {
+    "group": "DARWIN JIHEN",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
   }
 }
