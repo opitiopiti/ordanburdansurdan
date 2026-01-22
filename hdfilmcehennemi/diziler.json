@@ -248,13 +248,13 @@
   "/dizi/star-trek-starfleet-academy/": {
     "group": "STAR TREK: STARFLEET ACADEMY",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/the-beauty/": {
     "group": "GÜZELLIK - THE BEAUTY",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 11,
     "start_episode": 1
   }
 }
