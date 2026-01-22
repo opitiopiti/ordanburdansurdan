@@ -16306,5 +16306,11 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/diziler/sullivans-crossing.html": {
+    "group": "SULLIVAN'S CROSSING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

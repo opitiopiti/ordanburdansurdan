@@ -370,5 +370,11 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/cosmic-princess-kaguya/": {
+    "group": "COSMIC PRINCESS KAGUYA!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

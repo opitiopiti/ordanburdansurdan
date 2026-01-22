@@ -1,4 +1,10 @@
 {
+  "/chou-kaguya-hime": {
+    "group": "CHOU KAGUYA-HIME!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/oshi-no-ko-3rd-season": {
     "group": "[OSHI NO KO] 3RD SEASON",
     "last_season": 1,
@@ -93,12 +99,6 @@
     "group": "MAOU NO MUSUME WA YASASHISUGIRU!!",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/hokuto-no-ken-kenougun-zako-tachi-no-banka": {
-    "group": "HOKUTO NO KEN: KENOUGUN ZAKO-TACHI NO BANKA",
-    "last_season": 1,
-    "last_episode": 1.0,
     "start_episode": 1
   }
 }
