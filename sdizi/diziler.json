@@ -386,7 +386,7 @@
   "/diziler/cats-eye.html": {
     "group": "CAT'S EYE",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/diziler/house-of-guinness.html": {
@@ -16322,13 +16322,13 @@
   "/diziler/suits-la.html": {
     "group": "SUITS LA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/finding-her-edge.html": {
     "group": "FINDING HER EDGE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   }
 }
