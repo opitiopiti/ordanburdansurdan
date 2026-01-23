@@ -1,4 +1,16 @@
 {
+  "/yi-ren-zhi-xia-6": {
+    "group": "YI REN ZHI XIA 6",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/catseye": {
+    "group": "CAT'S♥EYE",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
   "/douse-koishite-shimaunda-2nd-season": {
     "group": "DOUSE, KOISHITE SHIMAUNDA. 2ND SEASON",
     "last_season": 1,
@@ -93,18 +105,6 @@
     "group": "OKIRAKU RYOUSHU NO TANOSHII RYOUCHI BOUEI: SEISANKEI MAJUTSU DE NA MO NAKI MURA WO SAIKYOU NO JOUSAI TOSHI NI",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/29-sai-dokushin-chuuken-boukensha-no-nichijou": {
-    "group": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru": {
-    "group": "SAIKYOU NO SHIENSHOKU \"WAJUTSUSHI\" DE ARU ORE WA SEKAI SAIKYOU CLAN WO SHITAGAERU",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }

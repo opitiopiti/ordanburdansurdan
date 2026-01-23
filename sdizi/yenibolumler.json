@@ -1,14 +1,20 @@
 {
+  "/diziler/cats-eye.html": {
+    "group": "CAT'S EYE",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/diziler/suits-la.html": {
+    "group": "SUITS LA",
     "last_season": 1,
     "last_episode": 0,
-    "group": "SUITS LA",
     "start_episode": 1
   },
   "/diziler/finding-her-edge.html": {
-    "last_season": 1,
-    "last_episode": 8,
     "group": "FINDING HER EDGE",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/diziler/the-beauty.html": {
@@ -80,12 +86,6 @@
   "/diziler/primal.html": {
     "group": "PRIMAL",
     "last_season": 3,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/hells-paradise.html": {
-    "group": "HELL'S PARADISE",
-    "last_season": 2,
     "last_episode": 2,
     "start_episode": 1
   }

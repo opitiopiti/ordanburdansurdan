@@ -16318,5 +16318,17 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/diziler/suits-la.html": {
+    "group": "SUITS LA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/finding-her-edge.html": {
+    "group": "FINDING HER EDGE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
