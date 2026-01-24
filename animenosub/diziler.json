@@ -376,5 +376,11 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/anime/medalist-season-2/": {
+    "group": "MEDALIST SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1,4 +1,22 @@
 {
+  "/dizi/the-beauty": {
+    "group": "THE BEAUTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-capture": {
+    "group": "THE CAPTURE",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/tehran": {
+    "group": "TEHRAN",
+    "last_season": 3,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/a-knight-of-the-seven-kingdoms": {
     "group": "A KNIGHT OF THE SEVEN KINGDOMS",
     "last_season": 1,
@@ -123,36 +141,6 @@
     "group": "SAINT-PIERRE",
     "last_season": 2,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/power-book-iv-force": {
-    "group": "POWER BOOK IV: FORCE",
-    "last_season": 3,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/high-potential": {
-    "group": "YÜKSEK POTANSIYEL",
-    "last_season": 2,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi/happy-s-place": {
-    "group": "HAPPY'S PLACE",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi/grey-s-anatomy": {
-    "group": "GREY'S ANATOMY",
-    "last_season": 22,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/going-dutch": {
-    "group": "GOING DUTCH",
-    "last_season": 2,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
