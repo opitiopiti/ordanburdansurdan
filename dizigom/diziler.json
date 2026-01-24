@@ -1210,5 +1210,23 @@
     "last_season": 2,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi-izle/finding-her-edge": {
+    "group": "FINDING HER EDGE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-beauty": {
+    "group": "THE BEAUTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/free-bert": {
+    "group": "FREE BERT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
