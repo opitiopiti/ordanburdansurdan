@@ -1,4 +1,16 @@
 {
+  "/diziler/tracker.html": {
+    "group": "TRACKER",
+    "last_season": 3,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/hells-paradise.html": {
+    "group": "HELL'S PARADISE",
+    "last_season": 2,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/diziler/roman-empire.html": {
     "group": "ROMAN EMPIRE",
     "last_season": 3,
@@ -75,18 +87,6 @@
     "group": "ALF",
     "last_season": 3,
     "last_episode": 26,
-    "start_episode": 1
-  },
-  "/diziler/drops-of-god.html": {
-    "group": "DROPS OF GOD",
-    "last_season": 2,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/steal.html": {
-    "group": "STEAL",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }

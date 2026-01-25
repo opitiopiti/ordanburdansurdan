@@ -1,4 +1,22 @@
 {
+  "/ikoku-nikki": {
+    "group": "IKOKU NIKKI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru": {
+    "group": "KIZOKU TENSEI: MEGUMARETA UMARE KARA SAIKYOU NO CHIKARA WO ERU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/jigokuraku-2nd-season": {
+    "group": "JIGOKURAKU 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru": {
     "group": "AKUYAKU REIJOU WA RINGOKU NO OUTAISHI NI DEKIAI SARERU",
     "last_season": 1,
@@ -87,24 +105,6 @@
     "group": "FATE/STRANGE FAKE",
     "last_season": 1,
     "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/jingai-kyoushitsu-no-ningengirai-kyoushi": {
-    "group": "JINGAI KYOUSHITSU NO NINGENGIRAI KYOUSHI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/trigun-stargaze": {
-    "group": "TRIGUN STARGAZE",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu": {
-    "group": "KOBAYASHI-SAN CHI NO MAID DRAGON: SAMISHIGARIYA NO RYUU",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
