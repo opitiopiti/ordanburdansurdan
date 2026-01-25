@@ -1606,5 +1606,17 @@
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1
+  },
+  "/dizi/finding-her-edge": {
+    "group": "FINDING HER EDGE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/free-bert": {
+    "group": "FREE BERT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
