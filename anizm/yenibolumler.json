@@ -1,8 +1,26 @@
 {
+  "/uruwashi-no-yoi-no-tsuki": {
+    "group": "URUWASHI NO YOI NO TSUKI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/kirei-ni-shitemoraemasu-ka": {
+    "group": "KIREI NI SHITEMORAEMASU KA.",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/dead-account": {
     "group": "DEAD ACCOUNT",
     "last_season": 1,
     "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/vigilante-boku-no-hero-academia-illegals-2nd-season": {
+    "group": "VIGILANTE: BOKU NO HERO ACADEMIA ILLEGALS 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/hanazakari-no-kimitachi-e": {
@@ -81,30 +99,6 @@
     "group": "NYAIGHT OF THE LIVING CAT",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/tensei-shitara-dragon-no-tamago-datta": {
-    "group": "TENSEI SHITARA DRAGON NO TAMAGO DATTA",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/xian-wang-de-richang-shenghuo-5": {
-    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
-    "last_season": 1,
-    "last_episode": 7.0,
-    "start_episode": 1
-  },
-  "/yuusha-no-kuzu": {
-    "group": "YUUSHA NO KUZU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/gnosia": {
-    "group": "GNOSIA",
-    "last_season": 1,
-    "last_episode": 14.0,
     "start_episode": 1
   }
 }
