@@ -241,8 +241,6 @@ jobs:
           ( python private_py/series/hdfilmcehennemi/yenibolumler.py || true ) &          
           ( python private_py/series/dizilife/yenibolumler.py || true ) &
           # ( python private_py/anime/anizm/yenibolumler.py || true ) & # Kod hatası mevcut şuanda çözmeye gerek yok
-          # ( python private_py/series/tlc/yenibolumler.py || true ) &  # Zaman çok alıyor 
-          # ( python private_py/series/dmax/yenibolumler.py || true ) & # Zaman çok alıyor 
           
           wait
           
@@ -397,14 +395,14 @@ jobs:
           git push origin main
           cd ..
 
-          # Dizilife & Tlc & Dmax
+          # Dizilife
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/m3u8file.git private_m3u8filee
           rsync -a dizilife/ private_m3u8filee/
           cd private_m3u8filee
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add . || echo "No files"
-          git commit -m "Dizilife & Tlc & Dmax çıktı güncellendi [auto]" || echo "No changes"
+          git commit -m "Dizilife çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           cd ..
           
