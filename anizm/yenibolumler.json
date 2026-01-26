@@ -1,4 +1,10 @@
 {
+  "/dead-account": {
+    "group": "DEAD ACCOUNT",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/hanazakari-no-kimitachi-e": {
     "group": "HANAZAKARI NO KIMITACHI E",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "GNOSIA",
     "last_season": 1,
     "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/medalist-2nd-season": {
-    "group": "MEDALIST 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }

@@ -11,6 +11,12 @@
     "last_episode": 3,
     "start_episode": 1
   },
+  "/dizi/memory-of-a-killer": {
+    "group": "Memory of a Killer",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/the-night-manager": {
     "group": "The Night Manager",
     "last_season": 2,
