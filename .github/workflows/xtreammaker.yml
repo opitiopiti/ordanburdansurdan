@@ -8,7 +8,6 @@ on:
       - completed
 
 env:
-  XTREAM_STD_CACHE_URL: ${{ secrets.XTREAM_STD_CACHE_URL }}
   XTREAM_PRE_CACHE_URL: ${{ secrets.XTREAM_PRE_CACHE_URL }}
   XTREAM_CACHE_URL: ${{ secrets.XTREAM_CACHE_URL }}
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -251,11 +250,6 @@ jobs:
         run: |
           echo "🚀 Clearing Premium Xtream cache..."
           curl -X GET "$XTREAM_PRE_CACHE_URL" || echo "⚠️ Cache clear request failed"
-
-      - name: Xtream Standard Cache Clear
-        run: |
-          echo "🚀 Clearing Standard Xtream cache..."
-          curl -X GET "$XTREAM_STD_CACHE_URL" || echo "⚠️ Cache clear request failed"
          
       - name: Telegram Success Notification
         if: success()
