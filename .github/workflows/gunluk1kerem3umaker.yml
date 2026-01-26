@@ -117,15 +117,16 @@ jobs:
       - name: Sync M3U outputs to private repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/gunluk1kere.git privaate_gunluk1keree
-
-          cp sinewix_diziler.m3u privaatee_gunluk1keree/sinewix_diziler.m3u || echo "sinewix_diziler.m3u bulunamadı"
-
+      
+          cp sinewix_diziler.m3u privaate_gunluk1keree/sinewix_diziler.m3u || echo "sinewix_diziler.m3u bulunamadı"
+      
           cd privaate_gunluk1keree
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
           git commit -m "Auto playlist update" || echo "No changes"
           git push origin main
+
 
   part3:
     name: Dmax ve Tlc
