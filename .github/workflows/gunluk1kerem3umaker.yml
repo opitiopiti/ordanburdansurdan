@@ -111,14 +111,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles
 
-      - name: Run movies.py
+      - name: Run series.py
         run: python private_py/sinesinewx/series.py || true
 
       - name: Sync M3U outputs to private repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/gunluk1kere.git privaate_gunluk1keree
 
-          cp sinewix_diziler.m3u privaatee_gunluk1kere/sinewix_diziler.m3u || echo "sinewix_diziler.m3u bulunamadı"
+          cp sinewix_diziler.m3u privaatee_gunluk1keree/sinewix_diziler.m3u || echo "sinewix_diziler.m3u bulunamadı"
 
           cd privaate_gunluk1keree
           git config user.name "GitHub Actions"
