@@ -273,7 +273,7 @@ jobs:
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type "application/json; charset=utf-8"
 
-          aws s3 cp live_standard_updated.json s3://iptv/live_standard_updated .json \
+          aws s3 cp live_standard_updated.json s3://iptv/live_standard_updated.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type "application/json; charset=utf-8"
       
