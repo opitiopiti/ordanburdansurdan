@@ -2,10 +2,10 @@ name: XTREAM MAKER
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["M3U MAKER"]
-    types:
-      - completed
+#  workflow_run:
+#    workflows: ["M3U MAKER"]
+#    types:
+#      - completed
 
 env:
   XTREAM_PRE_CACHE_URL: ${{ secrets.XTREAM_PRE_CACHE_URL }}
