@@ -1,4 +1,22 @@
 {
+  "/golden-kamuy-saishuushou": {
+    "group": "GOLDEN KAMUY: SAISHUUSHOU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/goumon-baito-kun-no-nichijou": {
+    "group": "GOUMON BAITO-KUN NO NICHIJOU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/osananajimi-to-wa-love-comedy-ni-naranai": {
+    "group": "OSANANAJIMI TO WA LOVE COMEDY NI NARANAI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/uruwashi-no-yoi-no-tsuki": {
     "group": "URUWASHI NO YOI NO TSUKI",
     "last_season": 1,
@@ -81,24 +99,6 @@
     "group": "SI-VIS: THE SOUND OF HEROES",
     "last_season": 1,
     "last_episode": 15.0,
-    "start_episode": 1
-  },
-  "/kaya-chan-wa-kowakunai": {
-    "group": "KAYA-CHAN WA KOWAKUNAI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/ao-no-orchestra-season-2": {
-    "group": "AO NO ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/nyaight-of-the-living-cat": {
-    "group": "NYAIGHT OF THE LIVING CAT",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
