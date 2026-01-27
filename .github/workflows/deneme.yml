@@ -269,30 +269,30 @@ jobs:
 
       - name: Upload JSON files to Cloudflare R2
         run: |
-          aws s3 cp xtream/live_premium_updated.json s3://iptv/live_premium_updated.json \
+          aws s3 cp live_premium_updated.json s3://iptv/live_premium_updated.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type "application/json; charset=utf-8"
 
-          aws s3 cp xtream/live_standard_updated.json s3://iptv/live_standard_updated .json \
+          aws s3 cp live_standard_updated.json s3://iptv/live_standard_updated .json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type "application/json; charset=utf-8"
       
-          aws s3 cp xtream/vod_premium_updated.json s3://iptv/vod_premium_updated.json \
+          aws s3 cp vod_premium_updated.json s3://iptv/vod_premium_updated.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type "application/json; charset=utf-8"
 
-          aws s3 cp xtream/vod_standard_updated.json s3://iptv/vod_standard_updated.json \
+          aws s3 cp vod_standard_updated.json s3://iptv/vod_standard_updated.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type "application/json; charset=utf-8"
       
-          aws s3 cp xtream/series_full_updated.json s3://iptv/series_full_updated.json \
+          aws s3 cp series_full_updated.json s3://iptv/series_full_updated.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type "application/json; charset=utf-8"
 
-          aws s3 cp xtream/series_premium_updated.json s3://iptv/series_premium_updated.json \
+          aws s3 cp series_premium_updated.json s3://iptv/series_premium_updated.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type "application/json; charset=utf-8"
     
-          aws s3 cp xtream/series_standard_updated.json s3://iptv/series_standard_updated.json \
+          aws s3 cp series_standard_updated.json s3://iptv/series_standard_updated.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type "application/json; charset=utf-8"
