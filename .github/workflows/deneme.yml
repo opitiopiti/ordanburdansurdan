@@ -57,11 +57,12 @@ jobs:
           aws s3 cp series_full_updated.json s3://iptv/full.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type application/json
-
-          aws s3 live_premium_updated.json s3://iptv/premium.json \
+      
+          aws s3 cp live_premium_updated.json s3://iptv/premium.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type application/json
-
+      
           aws s3 cp vod_premium_updated.json s3://iptv/standard.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type application/json
+
