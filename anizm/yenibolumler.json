@@ -1,4 +1,34 @@
 {
+  "/odayaka-kizoku-no-kyuuka-no-susume": {
+    "group": "ODAYAKA KIZOKU NO KYUUKA NO SUSUME.",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/yuusha-party-wo-oidasareta-kiyoubinbou": {
+    "group": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/shibou-yuugi-de-meshi-wo-kuu": {
+    "group": "SHIBOU YUUGI DE MESHI WO KUU.",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/okiraku-ryoushu-no-tanoshii-ryouchi-bouei-seisankei-majutsu-de-na-mo-naki-mura-wo-saikyou-no-jousai-toshi-ni": {
+    "group": "OKIRAKU RYOUSHU NO TANOSHII RYOUCHI BOUEI: SEISANKEI MAJUTSU DE NA MO NAKI MURA WO SAIKYOU NO JOUSAI TOSHI NI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/29-sai-dokushin-chuuken-boukensha-no-nichijou": {
+    "group": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/fumetsu-no-anata-e-season-3": {
     "group": "FUMETSU NO ANATA E SEASON 3",
     "last_season": 1,
@@ -75,30 +105,6 @@
     "group": "URUWASHI NO YOI NO TSUKI",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/kirei-ni-shitemoraemasu-ka": {
-    "group": "KIREI NI SHITEMORAEMASU KA.",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/dead-account": {
-    "group": "DEAD ACCOUNT",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/vigilante-boku-no-hero-academia-illegals-2nd-season": {
-    "group": "VIGILANTE: BOKU NO HERO ACADEMIA ILLEGALS 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/hanazakari-no-kimitachi-e": {
-    "group": "HANAZAKARI NO KIMITACHI E",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }

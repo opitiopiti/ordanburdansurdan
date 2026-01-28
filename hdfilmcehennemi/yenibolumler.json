@@ -5,10 +5,34 @@
     "last_episode": 8,
     "start_episode": 1
   },
+  "/dizi/hijack-38/": {
+    "group": "HIJACK",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/dizi/spring-fever/": {
     "group": "SPRING FEVER",
     "last_season": 1,
     "last_episode": 12,
+    "start_episode": 1
+  },
+  "/dizi/will-trent-1/": {
+    "group": "WILL TRENT",
+    "last_season": 4,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/dizi/wonder-man/": {
+    "group": "WONDER MAN",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/shrinking-5/": {
+    "group": "SHRINKING",
+    "last_season": 1,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/brilliant-minds/": {
@@ -51,30 +75,6 @@
     "group": "SANCTUARY: A WITCH'S TALE",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/the-pitt-2/": {
-    "group": "THE PITT",
-    "last_season": 2,
-    "last_episode": 15,
-    "start_episode": 1
-  },
-  "/dizi/the-hunting-party-2025-hdfc/": {
-    "group": "THE HUNTING PARTY",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi/free-bert/": {
-    "group": "FREE BERT",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/finding-her-edge/": {
-    "group": "FINDING HER EDGE",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

@@ -1,4 +1,16 @@
 {
+  "/diziler/oshi-no-ko.html": {
+    "group": "OSHI NO KO",
+    "last_season": 3,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/diziler/wonder-man.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "WONDER MAN",
+    "start_episode": 1
+  },
   "/diziler/shrinking.html": {
     "group": "SHRINKING",
     "last_season": 3,
@@ -75,18 +87,6 @@
     "group": "FATE/STRANGE FAKE",
     "last_season": 1,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "/diziler/to-your-eternity.html": {
-    "group": "TO YOUR ETERNITY",
-    "last_season": 3,
-    "last_episode": 15,
-    "start_episode": 1
-  },
-  "/diziler/frieren-beyond-journeys-end.html": {
-    "group": "FRIEREN: BEYOND JOURNEY'S END",
-    "last_season": 2,
-    "last_episode": 2,
     "start_episode": 1
   }
 }
