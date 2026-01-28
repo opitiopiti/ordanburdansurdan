@@ -454,5 +454,29 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi/blind-sherlock": {
+    "group": "Blind Sherlock",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/marvel-television-s-wonder-man": {
+    "group": "Marvel Television’s Wonder Man",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/piglets": {
+    "group": "Piglets",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/shrinking": {
+    "group": "Shrinking",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
