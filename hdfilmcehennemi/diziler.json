@@ -290,13 +290,13 @@
   "/dizi/wonder-man/": {
     "group": "WONDER MAN",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/shrinking-5/": {
     "group": "SHRINKING",
-    "last_season": 1,
-    "last_episode": 1,
+    "last_season": 3,
+    "last_episode": 11,
     "start_episode": 1
   }
 }
