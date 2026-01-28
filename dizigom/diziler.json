@@ -1240,5 +1240,11 @@
     "last_season": 1,
     "last_episode": 8,
     "start_episode": 1
+  },
+  "/dizi-izle/shrinking": {
+    "group": "SHRINKING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

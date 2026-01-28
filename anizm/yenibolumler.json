@@ -1,4 +1,22 @@
 {
+  "/atarashii-joushi-wa-do-tennen": {
+    "group": "ATARASHII JOUSHI WA DO TENNEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/oshi-no-ko-3rd-season": {
+    "group": "[OSHI NO KO] 3RD SEASON",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/tamon-kun-ima-docchi": {
+    "group": "TAMON-KUN IMA DOCCHI!?",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/odayaka-kizoku-no-kyuuka-no-susume": {
     "group": "ODAYAKA KIZOKU NO KYUUKA NO SUSUME.",
     "last_season": 1,
@@ -87,24 +105,6 @@
     "group": "GOLDEN KAMUY: SAISHUUSHOU",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/goumon-baito-kun-no-nichijou": {
-    "group": "GOUMON BAITO-KUN NO NICHIJOU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/osananajimi-to-wa-love-comedy-ni-naranai": {
-    "group": "OSANANAJIMI TO WA LOVE COMEDY NI NARANAI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/uruwashi-no-yoi-no-tsuki": {
-    "group": "URUWASHI NO YOI NO TSUKI",
-    "last_season": 1,
-    "last_episode": 2.0,
     "start_episode": 1
   }
 }
