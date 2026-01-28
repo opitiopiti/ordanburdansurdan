@@ -2000,7 +2000,8 @@
     {"name": "MS MARVEL", "year": "2022"},
     {"name": "KISS SIXTH SENSE", "year": "2022"},
     {"name": "SHAKE IT UP", "year": "2010"},
-    {"name": "WHAT IF WHAT IF", "year": "2021"}
+    {"name": "WHAT IF WHAT IF", "year": "2021"},
+    {"name": "WONDER MAN", "year": "2026"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "HARLAN COBEN'S LAZARUS", "year": "2025"},
@@ -3016,7 +3017,8 @@
     {"name": "BLOOD AND TREASURE", "year": "2019"},
     {"name": "STAR TREK PICARD", "year": "2020"},
     {"name": "STAR TREK DISCOVERY", "year": "2017"},
-    {"name": "CRUSH", "year": "2023"}
+    {"name": "CRUSH", "year": "2023"},
+    {"name": "SCHOOL SPIRITS", "year": "2023"}
   ],
   "FUJI TV DİZİLERİ": [
     {"name": "LEARNING TO LOVE", "year": "2025"},
