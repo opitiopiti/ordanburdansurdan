@@ -1,4 +1,28 @@
 {
+  "/dizi/the-rookie/": {
+    "group": "THE ROOKIE",
+    "last_season": 8,
+    "last_episode": 22,
+    "start_episode": 1
+  },
+  "/dizi/spartacus-house-of-ashur/": {
+    "group": "SPARTACUS: HOUSE OF ASHUR",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/the-night-manager/": {
+    "group": "THE NIGHT MANAGER",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi/spring-fever/": {
+    "group": "SPRING FEVER",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/dizi/tell-me-lies/": {
     "group": "TELL ME LIES",
     "last_season": 3,
@@ -51,30 +75,6 @@
     "group": "THE BEAUTY",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi/percy-jackson-and-the-olympians/": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/will-trent/": {
-    "group": "WILL TRENT",
-    "last_season": 4,
-    "last_episode": 16,
-    "start_episode": 1
-  },
-  "/dizi/tracker/": {
-    "group": "TRACKER",
-    "last_season": 3,
-    "last_episode": 20,
-    "start_episode": 1
-  },
-  "/dizi/steal/": {
-    "group": "STEAL",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }

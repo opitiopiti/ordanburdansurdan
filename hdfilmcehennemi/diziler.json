@@ -280,5 +280,11 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi/brilliant-minds/": {
+    "group": "BRILLIANT MINDS",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }

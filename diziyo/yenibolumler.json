@@ -1,4 +1,28 @@
 {
+  "/dizi/industry": {
+    "group": "INDUSTRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/tell-me-lies": {
+    "group": "TELL ME LIES",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi/the-pitt": {
+    "group": "THE PITT",
+    "last_season": 2,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/the-night-manager": {
+    "group": "THE NIGHT MANAGER",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi/niebo": {
     "group": "HEAVEN",
     "last_season": 1,
@@ -45,12 +69,6 @@
     "group": "FREE BERT",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/dizi/tell-me-lies": {
-    "group": "TELL ME LIES",
-    "last_season": 3,
-    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/the-beauty": {
@@ -101,12 +119,6 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/the-night-manager": {
-    "group": "THE NIGHT MANAGER",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
   "/dizi/this-way-up": {
     "group": "THIS WAY UP",
     "last_season": 2,
@@ -128,18 +140,6 @@
   "/dizi/the-rookie": {
     "group": "THE ROOKIE",
     "last_season": 8,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi/the-rain-in-espana": {
-    "group": "THE RAIN IN ESPAÑA",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/the-hunting-party": {
-    "group": "THE HUNTING PARTY",
-    "last_season": 2,
     "last_episode": 2,
     "start_episode": 1
   }
