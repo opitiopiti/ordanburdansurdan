@@ -1592,7 +1592,8 @@
     {"name": "SENSE8", "year": "2015"},
     {"name": "KOBRA KAI", "year": "2018"},
     {"name": "AŞK 101", "year": "2020"},
-    {"name": "TAKE THAT", "year": "2026"}
+    {"name": "TAKE THAT", "year": "2026"},
+    {"name": "BLIND SHERLOCK", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE CHAIR COMPANY", "year": "2025"},
@@ -4059,7 +4060,8 @@
     {"name": "HOLDING", "year": "2022"},
     {"name": "MARCELLA", "year": "2016"},
     {"name": "UNFORGOTTEN", "year": "2015"},
-    {"name": "AFTER THE FLOOD", "year": "2024"}
+    {"name": "AFTER THE FLOOD", "year": "2024"},
+    {"name": "PIGLETS", "year": "2024"}
   ],
   "MIX BEL ARABY DİZİLERİ": [
     {"name": "EN GÜÇLÜ: ASYA", "year": "2022"}
