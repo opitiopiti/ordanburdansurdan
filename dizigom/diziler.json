@@ -1112,7 +1112,7 @@
   "/dizi-izle/silent-truth": {
     "group": "再会～SILENT TRUTH～",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi-izle/tell-me-lies": {
@@ -1232,7 +1232,7 @@
   "/dizi-izle/take-that": {
     "group": "TAKE THAT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   }
 }
