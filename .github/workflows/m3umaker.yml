@@ -502,7 +502,7 @@ jobs:
           cd privatate_m3u8file
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add setfilmizlefilmler.m3u dizigomfilmler.m3u hdfilmsite.m3u
+          git add setfilmizlefilmler.m3u dizigomfilmler.m3u hdfilmsite.m3u hdfilmcehennemifilm.m3u
           git commit -m "Filmlerin çıktısı güncellendi [auto]" || echo "No changes"
           git push origin main
 
