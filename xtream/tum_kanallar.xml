@@ -2163,6 +2163,42 @@
   <programme start="20260130184500 +0000" stop="20260130210000 +0000" channel="4K TR: S NEMA YERL 2 HD">
     <title>HAZINE</title>
   </programme>
+  <programme start="20260129221500 +0000" stop="20260130001500 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>VENOM: ZEHIRLI ÖFKE 2</title>
+  </programme>
+  <programme start="20260130001500 +0000" stop="20260130020000 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>TAROT</title>
+  </programme>
+  <programme start="20260130020000 +0000" stop="20260130040000 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>HAKKINDA HERŞEYI BILIYORSUNUZ</title>
+  </programme>
+  <programme start="20260130040000 +0000" stop="20260130060000 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>THE FACTORY</title>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130074500 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>BIG SKY RIVER</title>
+  </programme>
+  <programme start="20260130074500 +0000" stop="20260130094500 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>DAY OF THE FIGHT</title>
+  </programme>
+  <programme start="20260130094500 +0000" stop="20260130114500 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>ŞANSSIZ BIR AŞK ŞARKISI</title>
+  </programme>
+  <programme start="20260130114500 +0000" stop="20260130140000 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>CEHENNEM</title>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130154500 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>JULIETA</title>
+  </programme>
+  <programme start="20260130154500 +0000" stop="20260130173000 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>THE LAST SHOWGIRL</title>
+  </programme>
+  <programme start="20260130173000 +0000" stop="20260130201500 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>KARDAKI PALMIYELER</title>
+  </programme>
+  <programme start="20260130201500 +0000" stop="20260130223000 +0000" channel="4K TR: S NEMA TV 2 HD">
+    <title>MUCIZE</title>
+  </programme>
   <programme start="20260129224500 +0000" stop="20260130004500 +0000" channel="4K TR: S NEMA AKS YON 2 HD">
     <title>CANAVAR AVCISI</title>
   </programme>
@@ -2246,42 +2282,6 @@
   </programme>
   <programme start="20260130203000 +0000" stop="20260130221500 +0000" channel="4K TR: S NEMA A LE 2 HD">
     <title>YUMURTALAR FIRARDA: AFRIKA MACERASI</title>
-  </programme>
-  <programme start="20260129224500 +0000" stop="20260130003000 +0000" channel="SİNEMA 1002">
-    <title>KATILLER</title>
-  </programme>
-  <programme start="20260130003000 +0000" stop="20260130023000 +0000" channel="SİNEMA 1002">
-    <title>KAMCHATKA</title>
-  </programme>
-  <programme start="20260130023000 +0000" stop="20260130043000 +0000" channel="SİNEMA 1002">
-    <title>ATEŞLE OYNAYANLAR</title>
-  </programme>
-  <programme start="20260130043000 +0000" stop="20260130070000 +0000" channel="SİNEMA 1002">
-    <title>AKIL OYUNLARI</title>
-  </programme>
-  <programme start="20260130070000 +0000" stop="20260130090000 +0000" channel="SİNEMA 1002">
-    <title>PARA TRENI</title>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130110000 +0000" channel="SİNEMA 1002">
-    <title>SOSYAL AĞ</title>
-  </programme>
-  <programme start="20260130110000 +0000" stop="20260130131500 +0000" channel="SİNEMA 1002">
-    <title>AŞK VE MERHAMET</title>
-  </programme>
-  <programme start="20260130131500 +0000" stop="20260130150000 +0000" channel="SİNEMA 1002">
-    <title>SAMSARA</title>
-  </programme>
-  <programme start="20260130150000 +0000" stop="20260130164500 +0000" channel="SİNEMA 1002">
-    <title>THE DUKE</title>
-  </programme>
-  <programme start="20260130164500 +0000" stop="20260130183000 +0000" channel="SİNEMA 1002">
-    <title>JFK SUIKASTI</title>
-  </programme>
-  <programme start="20260130183000 +0000" stop="20260130204500 +0000" channel="SİNEMA 1002">
-    <title>JUDY</title>
-  </programme>
-  <programme start="20260130204500 +0000" stop="20260130223000 +0000" channel="SİNEMA 1002">
-    <title>DAĞILAN EVIN ÇOCUKLARI</title>
   </programme>
   <programme start="20260129220000 +0000" stop="20260129230000 +0000" channel="TRT 1">
     <title>MAÇ SONU</title>
@@ -19074,6 +19074,768 @@
   <programme start="20260130205000 +0000" stop="20260130214500 +0000" channel="LOVE NATURE HD+">
     <title>DAN O'NEILL ILE KAR LEOPARLARI</title>
   </programme>
+  <programme start="20260129210000 +0000" stop="20260129211000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>THIS DAY IN HISTORY</title>
+  </programme>
+  <programme start="20260129210000 +0000" stop="20260129211000 +0000" channel="ENGLISH CLUB">
+    <title>THIS DAY IN HISTORY</title>
+  </programme>
+  <programme start="20260129211000 +0000" stop="20260129212500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>GADGET-X: VLOGGER TOOLS</title>
+  </programme>
+  <programme start="20260129211000 +0000" stop="20260129212500 +0000" channel="ENGLISH CLUB">
+    <title>GADGET-X: VLOGGER TOOLS</title>
+  </programme>
+  <programme start="20260129212500 +0000" stop="20260129213000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260129212500 +0000" stop="20260129213000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260129213000 +0000" stop="20260129213500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260129213000 +0000" stop="20260129213500 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260129213500 +0000" stop="20260129214000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260129213500 +0000" stop="20260129214000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260129214000 +0000" stop="20260129220000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>EVOLUTION</title>
+  </programme>
+  <programme start="20260129214000 +0000" stop="20260129220000 +0000" channel="ENGLISH CLUB">
+    <title>EVOLUTION</title>
+  </programme>
+  <programme start="20260129220000 +0000" stop="20260129234000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ABOUT A BOY</title>
+  </programme>
+  <programme start="20260129220000 +0000" stop="20260129234000 +0000" channel="ENGLISH CLUB">
+    <title>ABOUT A BOY</title>
+  </programme>
+  <programme start="20260129234000 +0000" stop="20260129235000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260129234000 +0000" stop="20260129235000 +0000" channel="ENGLISH CLUB">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260129235000 +0000" stop="20260130000000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260129235000 +0000" stop="20260130000000 +0000" channel="ENGLISH CLUB">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130000000 +0000" stop="20260130001500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH UNITED</title>
+  </programme>
+  <programme start="20260130000000 +0000" stop="20260130001500 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH UNITED</title>
+  </programme>
+  <programme start="20260130001500 +0000" stop="20260130002500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH UNITED</title>
+  </programme>
+  <programme start="20260130001500 +0000" stop="20260130002500 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH UNITED</title>
+  </programme>
+  <programme start="20260130002500 +0000" stop="20260130003500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>3WAYS2: ACCEPT INVITATIONS</title>
+  </programme>
+  <programme start="20260130002500 +0000" stop="20260130003500 +0000" channel="ENGLISH CLUB">
+    <title>3WAYS2: ACCEPT INVITATIONS</title>
+  </programme>
+  <programme start="20260130003500 +0000" stop="20260130010000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>FIGURES OF SPEECH: POMPIDOU CENTRE IN PARIS / IDIOMS WITH THE WORDS STONE, GLASS, STEEL AND PIPE</title>
+  </programme>
+  <programme start="20260130003500 +0000" stop="20260130010000 +0000" channel="ENGLISH CLUB">
+    <title>FIGURES OF SPEECH: POMPIDOU CENTRE IN PARIS / IDIOMS WITH THE WORDS STONE, GLASS, STEEL AND PIPE</title>
+  </programme>
+  <programme start="20260130010000 +0000" stop="20260130024000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>KILLERS</title>
+  </programme>
+  <programme start="20260130010000 +0000" stop="20260130024000 +0000" channel="ENGLISH CLUB">
+    <title>KILLERS</title>
+  </programme>
+  <programme start="20260130024000 +0000" stop="20260130025000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>CITY GRAMMAR: BAKER STREET</title>
+  </programme>
+  <programme start="20260130024000 +0000" stop="20260130025000 +0000" channel="ENGLISH CLUB">
+    <title>CITY GRAMMAR: BAKER STREET</title>
+  </programme>
+  <programme start="20260130025000 +0000" stop="20260130030000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>CITY GRAMMAR: BEATLES STORE</title>
+  </programme>
+  <programme start="20260130025000 +0000" stop="20260130030000 +0000" channel="ENGLISH CLUB">
+    <title>CITY GRAMMAR: BEATLES STORE</title>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130044000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ABOUT A BOY</title>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130044000 +0000" channel="ENGLISH CLUB">
+    <title>ABOUT A BOY</title>
+  </programme>
+  <programme start="20260130044000 +0000" stop="20260130045000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260130044000 +0000" stop="20260130045000 +0000" channel="ENGLISH CLUB">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260130045000 +0000" stop="20260130050000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130045000 +0000" stop="20260130050000 +0000" channel="ENGLISH CLUB">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130050500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ART LAND: PARROT</title>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130050500 +0000" channel="ENGLISH CLUB">
+    <title>ART LAND: PARROT</title>
+  </programme>
+  <programme start="20260130050500 +0000" stop="20260130051000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ART LAND: HUMMINGBIRD</title>
+  </programme>
+  <programme start="20260130050500 +0000" stop="20260130051000 +0000" channel="ENGLISH CLUB">
+    <title>ART LAND: HUMMINGBIRD</title>
+  </programme>
+  <programme start="20260130051000 +0000" stop="20260130051500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>SUNNY SONGS</title>
+  </programme>
+  <programme start="20260130051000 +0000" stop="20260130051500 +0000" channel="ENGLISH CLUB">
+    <title>SUNNY SONGS</title>
+  </programme>
+  <programme start="20260130051500 +0000" stop="20260130052500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>CRAFTY HANDS: JEWELRY BOX</title>
+  </programme>
+  <programme start="20260130051500 +0000" stop="20260130052500 +0000" channel="ENGLISH CLUB">
+    <title>CRAFTY HANDS: JEWELRY BOX</title>
+  </programme>
+  <programme start="20260130052500 +0000" stop="20260130053500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>OKEY-DOKEY: ON THE FARM</title>
+  </programme>
+  <programme start="20260130052500 +0000" stop="20260130053500 +0000" channel="ENGLISH CLUB">
+    <title>OKEY-DOKEY: ON THE FARM</title>
+  </programme>
+  <programme start="20260130053500 +0000" stop="20260130054000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ONCE UPON A TIME: WITTY SNAIL</title>
+  </programme>
+  <programme start="20260130053500 +0000" stop="20260130054000 +0000" channel="ENGLISH CLUB">
+    <title>ONCE UPON A TIME: WITTY SNAIL</title>
+  </programme>
+  <programme start="20260130054000 +0000" stop="20260130054500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>WORDS TO GROW</title>
+  </programme>
+  <programme start="20260130054000 +0000" stop="20260130054500 +0000" channel="ENGLISH CLUB">
+    <title>WORDS TO GROW</title>
+  </programme>
+  <programme start="20260130054500 +0000" stop="20260130055000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>WORDS TO GROW</title>
+  </programme>
+  <programme start="20260130054500 +0000" stop="20260130055000 +0000" channel="ENGLISH CLUB">
+    <title>WORDS TO GROW</title>
+  </programme>
+  <programme start="20260130055000 +0000" stop="20260130060000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH PLAYTIME</title>
+  </programme>
+  <programme start="20260130055000 +0000" stop="20260130060000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH PLAYTIME</title>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130060500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130060500 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130060500 +0000" stop="20260130062000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>MAGIC SCIENCE: HYDROGEN PEROXIDE</title>
+  </programme>
+  <programme start="20260130060500 +0000" stop="20260130062000 +0000" channel="ENGLISH CLUB">
+    <title>MAGIC SCIENCE: HYDROGEN PEROXIDE</title>
+  </programme>
+  <programme start="20260130062000 +0000" stop="20260130063000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>YUMMY FOR MUMMY: GREEK SALAD</title>
+  </programme>
+  <programme start="20260130062000 +0000" stop="20260130063000 +0000" channel="ENGLISH CLUB">
+    <title>YUMMY FOR MUMMY: GREEK SALAD</title>
+  </programme>
+  <programme start="20260130063000 +0000" stop="20260130064000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>PHRASE PUZZLE</title>
+  </programme>
+  <programme start="20260130063000 +0000" stop="20260130064000 +0000" channel="ENGLISH CLUB">
+    <title>PHRASE PUZZLE</title>
+  </programme>
+  <programme start="20260130064000 +0000" stop="20260130064500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ALFRED & WILFRED: SPICY SPIES</title>
+  </programme>
+  <programme start="20260130064000 +0000" stop="20260130064500 +0000" channel="ENGLISH CLUB">
+    <title>ALFRED & WILFRED: SPICY SPIES</title>
+  </programme>
+  <programme start="20260130064500 +0000" stop="20260130065000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130064500 +0000" stop="20260130065000 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130065000 +0000" stop="20260130070000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130065000 +0000" stop="20260130070000 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130071000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>SIMPLE PHRASES</title>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130071000 +0000" channel="ENGLISH CLUB">
+    <title>SIMPLE PHRASES</title>
+  </programme>
+  <programme start="20260130071000 +0000" stop="20260130072000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130071000 +0000" stop="20260130072000 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130072000 +0000" stop="20260130073000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130072000 +0000" stop="20260130073000 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130073000 +0000" stop="20260130073500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130073000 +0000" stop="20260130073500 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130073500 +0000" stop="20260130074500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>JACK OF ALL TRADES: HAIRDRESSERS</title>
+  </programme>
+  <programme start="20260130073500 +0000" stop="20260130074500 +0000" channel="ENGLISH CLUB">
+    <title>JACK OF ALL TRADES: HAIRDRESSERS</title>
+  </programme>
+  <programme start="20260130074500 +0000" stop="20260130075000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>BASIC LEXIS: DRAWING A PICTURE WITH PENCILS</title>
+  </programme>
+  <programme start="20260130074500 +0000" stop="20260130075000 +0000" channel="ENGLISH CLUB">
+    <title>BASIC LEXIS: DRAWING A PICTURE WITH PENCILS</title>
+  </programme>
+  <programme start="20260130075000 +0000" stop="20260130075500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>BASIC LEXIS: PLAYING THE GUITAR</title>
+  </programme>
+  <programme start="20260130075000 +0000" stop="20260130075500 +0000" channel="ENGLISH CLUB">
+    <title>BASIC LEXIS: PLAYING THE GUITAR</title>
+  </programme>
+  <programme start="20260130075500 +0000" stop="20260130080000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>GET A CALL</title>
+  </programme>
+  <programme start="20260130075500 +0000" stop="20260130080000 +0000" channel="ENGLISH CLUB">
+    <title>GET A CALL</title>
+  </programme>
+  <programme start="20260130080000 +0000" stop="20260130081000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>DIGITAL WORLD</title>
+  </programme>
+  <programme start="20260130080000 +0000" stop="20260130081000 +0000" channel="ENGLISH CLUB">
+    <title>DIGITAL WORLD</title>
+  </programme>
+  <programme start="20260130081000 +0000" stop="20260130081500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130081000 +0000" stop="20260130081500 +0000" channel="ENGLISH CLUB">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130081500 +0000" stop="20260130082000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130081500 +0000" stop="20260130082000 +0000" channel="ENGLISH CLUB">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130082000 +0000" stop="20260130082500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ALL ABOUT: INTERESTING FACTS ABOUT WEIRD GEOGRAPHICAL NAMES</title>
+  </programme>
+  <programme start="20260130082000 +0000" stop="20260130082500 +0000" channel="ENGLISH CLUB">
+    <title>ALL ABOUT: INTERESTING FACTS ABOUT WEIRD GEOGRAPHICAL NAMES</title>
+  </programme>
+  <programme start="20260130082500 +0000" stop="20260130083000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ALL ABOUT: INTERESTING FACTS ABOUT FAMOUS PEOPLE WHO HIDE THEIR IDENTITY</title>
+  </programme>
+  <programme start="20260130082500 +0000" stop="20260130083000 +0000" channel="ENGLISH CLUB">
+    <title>ALL ABOUT: INTERESTING FACTS ABOUT FAMOUS PEOPLE WHO HIDE THEIR IDENTITY</title>
+  </programme>
+  <programme start="20260130083000 +0000" stop="20260130083500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ALL ABOUT: INTERESTING FACTS ABOUT WEIRD HOTELS</title>
+  </programme>
+  <programme start="20260130083000 +0000" stop="20260130083500 +0000" channel="ENGLISH CLUB">
+    <title>ALL ABOUT: INTERESTING FACTS ABOUT WEIRD HOTELS</title>
+  </programme>
+  <programme start="20260130083500 +0000" stop="20260130084500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260130083500 +0000" stop="20260130084500 +0000" channel="ENGLISH CLUB">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260130084500 +0000" stop="20260130090000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260130084500 +0000" stop="20260130090000 +0000" channel="ENGLISH CLUB">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130090500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130090500 +0000" channel="ENGLISH CLUB">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130090500 +0000" stop="20260130091000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130090500 +0000" stop="20260130091000 +0000" channel="ENGLISH CLUB">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130091000 +0000" stop="20260130091500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130091000 +0000" stop="20260130091500 +0000" channel="ENGLISH CLUB">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130091500 +0000" stop="20260130092000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130091500 +0000" stop="20260130092000 +0000" channel="ENGLISH CLUB">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130092000 +0000" stop="20260130093500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LET'S TALK: CHILDHOOD MEMORIES</title>
+  </programme>
+  <programme start="20260130092000 +0000" stop="20260130093500 +0000" channel="ENGLISH CLUB">
+    <title>LET'S TALK: CHILDHOOD MEMORIES</title>
+  </programme>
+  <programme start="20260130093500 +0000" stop="20260130094500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH IN FOCUS: COLLOCATIONS WITH THE VERB "TO TAKE"</title>
+  </programme>
+  <programme start="20260130093500 +0000" stop="20260130094500 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH IN FOCUS: COLLOCATIONS WITH THE VERB "TO TAKE"</title>
+  </programme>
+  <programme start="20260130094500 +0000" stop="20260130095000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260130094500 +0000" stop="20260130095000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260130095000 +0000" stop="20260130095500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260130095000 +0000" stop="20260130095500 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260130095500 +0000" stop="20260130100000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>WHAT DID THEY SAY: ELON MUSK</title>
+  </programme>
+  <programme start="20260130095500 +0000" stop="20260130100000 +0000" channel="ENGLISH CLUB">
+    <title>WHAT DID THEY SAY: ELON MUSK</title>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130101500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>THE LANGUAGE OF BUSINESS</title>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130101500 +0000" channel="ENGLISH CLUB">
+    <title>THE LANGUAGE OF BUSINESS</title>
+  </programme>
+  <programme start="20260130101500 +0000" stop="20260130103000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>THE LANGUAGE OF BUSINESS</title>
+  </programme>
+  <programme start="20260130101500 +0000" stop="20260130103000 +0000" channel="ENGLISH CLUB">
+    <title>THE LANGUAGE OF BUSINESS</title>
+  </programme>
+  <programme start="20260130103000 +0000" stop="20260130103500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>BUSINESS WORDS</title>
+  </programme>
+  <programme start="20260130103000 +0000" stop="20260130103500 +0000" channel="ENGLISH CLUB">
+    <title>BUSINESS WORDS</title>
+  </programme>
+  <programme start="20260130103500 +0000" stop="20260130104000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>BUSINESS WORDS: METAPHORS IN BUSINESS</title>
+  </programme>
+  <programme start="20260130103500 +0000" stop="20260130104000 +0000" channel="ENGLISH CLUB">
+    <title>BUSINESS WORDS: METAPHORS IN BUSINESS</title>
+  </programme>
+  <programme start="20260130104000 +0000" stop="20260130104500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>3WAYS2: NO</title>
+  </programme>
+  <programme start="20260130104000 +0000" stop="20260130104500 +0000" channel="ENGLISH CLUB">
+    <title>3WAYS2: NO</title>
+  </programme>
+  <programme start="20260130104500 +0000" stop="20260130105000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>3WAYS2: BYE</title>
+  </programme>
+  <programme start="20260130104500 +0000" stop="20260130105000 +0000" channel="ENGLISH CLUB">
+    <title>3WAYS2: BYE</title>
+  </programme>
+  <programme start="20260130105000 +0000" stop="20260130105500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>BEST OF THE BEST</title>
+  </programme>
+  <programme start="20260130105000 +0000" stop="20260130105500 +0000" channel="ENGLISH CLUB">
+    <title>BEST OF THE BEST</title>
+  </programme>
+  <programme start="20260130105500 +0000" stop="20260130110000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>BEST OF THE BEST</title>
+  </programme>
+  <programme start="20260130105500 +0000" stop="20260130110000 +0000" channel="ENGLISH CLUB">
+    <title>BEST OF THE BEST</title>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130110500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ART LAND: PARROT</title>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130110500 +0000" channel="ENGLISH CLUB">
+    <title>ART LAND: PARROT</title>
+  </programme>
+  <programme start="20260130110500 +0000" stop="20260130111000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ART LAND: HUMMINGBIRD</title>
+  </programme>
+  <programme start="20260130110500 +0000" stop="20260130111000 +0000" channel="ENGLISH CLUB">
+    <title>ART LAND: HUMMINGBIRD</title>
+  </programme>
+  <programme start="20260130111000 +0000" stop="20260130111500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>SUNNY SONGS</title>
+  </programme>
+  <programme start="20260130111000 +0000" stop="20260130111500 +0000" channel="ENGLISH CLUB">
+    <title>SUNNY SONGS</title>
+  </programme>
+  <programme start="20260130111500 +0000" stop="20260130112500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>CRAFTY HANDS: JEWELRY BOX</title>
+  </programme>
+  <programme start="20260130111500 +0000" stop="20260130112500 +0000" channel="ENGLISH CLUB">
+    <title>CRAFTY HANDS: JEWELRY BOX</title>
+  </programme>
+  <programme start="20260130112500 +0000" stop="20260130113500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>OKEY-DOKEY: ON THE FARM</title>
+  </programme>
+  <programme start="20260130112500 +0000" stop="20260130113500 +0000" channel="ENGLISH CLUB">
+    <title>OKEY-DOKEY: ON THE FARM</title>
+  </programme>
+  <programme start="20260130113500 +0000" stop="20260130114000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ONCE UPON A TIME: WITTY SNAIL</title>
+  </programme>
+  <programme start="20260130113500 +0000" stop="20260130114000 +0000" channel="ENGLISH CLUB">
+    <title>ONCE UPON A TIME: WITTY SNAIL</title>
+  </programme>
+  <programme start="20260130114000 +0000" stop="20260130114500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>WORDS TO GROW</title>
+  </programme>
+  <programme start="20260130114000 +0000" stop="20260130114500 +0000" channel="ENGLISH CLUB">
+    <title>WORDS TO GROW</title>
+  </programme>
+  <programme start="20260130114500 +0000" stop="20260130115000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>WORDS TO GROW</title>
+  </programme>
+  <programme start="20260130114500 +0000" stop="20260130115000 +0000" channel="ENGLISH CLUB">
+    <title>WORDS TO GROW</title>
+  </programme>
+  <programme start="20260130115000 +0000" stop="20260130120000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH PLAYTIME</title>
+  </programme>
+  <programme start="20260130115000 +0000" stop="20260130120000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH PLAYTIME</title>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130120500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130120500 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130120500 +0000" stop="20260130122000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>MAGIC SCIENCE: HYDROGEN PEROXIDE</title>
+  </programme>
+  <programme start="20260130120500 +0000" stop="20260130122000 +0000" channel="ENGLISH CLUB">
+    <title>MAGIC SCIENCE: HYDROGEN PEROXIDE</title>
+  </programme>
+  <programme start="20260130122000 +0000" stop="20260130123000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>YUMMY FOR MUMMY: GREEK SALAD</title>
+  </programme>
+  <programme start="20260130122000 +0000" stop="20260130123000 +0000" channel="ENGLISH CLUB">
+    <title>YUMMY FOR MUMMY: GREEK SALAD</title>
+  </programme>
+  <programme start="20260130123000 +0000" stop="20260130124000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>PHRASE PUZZLE</title>
+  </programme>
+  <programme start="20260130123000 +0000" stop="20260130124000 +0000" channel="ENGLISH CLUB">
+    <title>PHRASE PUZZLE</title>
+  </programme>
+  <programme start="20260130124000 +0000" stop="20260130124500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ALFRED & WILFRED: SPICY SPIES</title>
+  </programme>
+  <programme start="20260130124000 +0000" stop="20260130124500 +0000" channel="ENGLISH CLUB">
+    <title>ALFRED & WILFRED: SPICY SPIES</title>
+  </programme>
+  <programme start="20260130124500 +0000" stop="20260130125000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130124500 +0000" stop="20260130125000 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130125000 +0000" stop="20260130130000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130125000 +0000" stop="20260130130000 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND KIDS</title>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130131000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130131000 +0000" channel="ENGLISH CLUB">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130131000 +0000" stop="20260130132000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>DIGITAL WORLD</title>
+  </programme>
+  <programme start="20260130131000 +0000" stop="20260130132000 +0000" channel="ENGLISH CLUB">
+    <title>DIGITAL WORLD</title>
+  </programme>
+  <programme start="20260130132000 +0000" stop="20260130132500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ALL ABOUT: INTERESTING FACTS ABOUT ACTORS' FIRST JOBS</title>
+  </programme>
+  <programme start="20260130132000 +0000" stop="20260130132500 +0000" channel="ENGLISH CLUB">
+    <title>ALL ABOUT: INTERESTING FACTS ABOUT ACTORS' FIRST JOBS</title>
+  </programme>
+  <programme start="20260130132500 +0000" stop="20260130133000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ALL ABOUT</title>
+  </programme>
+  <programme start="20260130132500 +0000" stop="20260130133000 +0000" channel="ENGLISH CLUB">
+    <title>ALL ABOUT</title>
+  </programme>
+  <programme start="20260130133000 +0000" stop="20260130133500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ALL ABOUT</title>
+  </programme>
+  <programme start="20260130133000 +0000" stop="20260130133500 +0000" channel="ENGLISH CLUB">
+    <title>ALL ABOUT</title>
+  </programme>
+  <programme start="20260130133500 +0000" stop="20260130134500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260130133500 +0000" stop="20260130134500 +0000" channel="ENGLISH CLUB">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260130134500 +0000" stop="20260130140000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260130134500 +0000" stop="20260130140000 +0000" channel="ENGLISH CLUB">
+    <title>HERE AND THERE</title>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130141000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH UNITED</title>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130141000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH UNITED</title>
+  </programme>
+  <programme start="20260130141000 +0000" stop="20260130142000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH UNITED</title>
+  </programme>
+  <programme start="20260130141000 +0000" stop="20260130142000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH UNITED</title>
+  </programme>
+  <programme start="20260130142000 +0000" stop="20260130143000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>3WAYS2: OFFER A GIFT</title>
+  </programme>
+  <programme start="20260130142000 +0000" stop="20260130143000 +0000" channel="ENGLISH CLUB">
+    <title>3WAYS2: OFFER A GIFT</title>
+  </programme>
+  <programme start="20260130143000 +0000" stop="20260130150000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>FIGURES OF SPEECH: ELIZABETH TOWER / IDIOMS WITH THE WORDS FACE, ARROW, CLOCK, BELL, SQUARE AND ROUND</title>
+  </programme>
+  <programme start="20260130143000 +0000" stop="20260130150000 +0000" channel="ENGLISH CLUB">
+    <title>FIGURES OF SPEECH: ELIZABETH TOWER / IDIOMS WITH THE WORDS FACE, ARROW, CLOCK, BELL, SQUARE AND ROUND</title>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130151000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>THIS DAY IN HISTORY</title>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130151000 +0000" channel="ENGLISH CLUB">
+    <title>THIS DAY IN HISTORY</title>
+  </programme>
+  <programme start="20260130151000 +0000" stop="20260130152500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LABOUR OF LOVE</title>
+  </programme>
+  <programme start="20260130151000 +0000" stop="20260130152500 +0000" channel="ENGLISH CLUB">
+    <title>LABOUR OF LOVE</title>
+  </programme>
+  <programme start="20260130152500 +0000" stop="20260130153000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>WHAT DID THEY SAY: NEB</title>
+  </programme>
+  <programme start="20260130152500 +0000" stop="20260130153000 +0000" channel="ENGLISH CLUB">
+    <title>WHAT DID THEY SAY: NEB</title>
+  </programme>
+  <programme start="20260130153000 +0000" stop="20260130153500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>WHAT DID THEY SAY: MATT GEDGE</title>
+  </programme>
+  <programme start="20260130153000 +0000" stop="20260130153500 +0000" channel="ENGLISH CLUB">
+    <title>WHAT DID THEY SAY: MATT GEDGE</title>
+  </programme>
+  <programme start="20260130153500 +0000" stop="20260130154000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260130153500 +0000" stop="20260130154000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260130154000 +0000" stop="20260130160000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>KEEP FIT: ABDOMINAL WORKOUT</title>
+  </programme>
+  <programme start="20260130154000 +0000" stop="20260130160000 +0000" channel="ENGLISH CLUB">
+    <title>KEEP FIT: ABDOMINAL WORKOUT</title>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130160500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>WRONG&RIGHT</title>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130160500 +0000" channel="ENGLISH CLUB">
+    <title>WRONG&RIGHT</title>
+  </programme>
+  <programme start="20260130160500 +0000" stop="20260130161000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>WRONG&RIGHT</title>
+  </programme>
+  <programme start="20260130160500 +0000" stop="20260130161000 +0000" channel="ENGLISH CLUB">
+    <title>WRONG&RIGHT</title>
+  </programme>
+  <programme start="20260130161000 +0000" stop="20260130163000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>GRAMMAR WISE: PAST CONTINUOUS TENSE</title>
+  </programme>
+  <programme start="20260130161000 +0000" stop="20260130163000 +0000" channel="ENGLISH CLUB">
+    <title>GRAMMAR WISE: PAST CONTINUOUS TENSE</title>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130164000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH IS THE KEY: TAKING A BUS</title>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130164000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH IS THE KEY: TAKING A BUS</title>
+  </programme>
+  <programme start="20260130164000 +0000" stop="20260130165000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH IS THE KEY: GETTING A TAXI</title>
+  </programme>
+  <programme start="20260130164000 +0000" stop="20260130165000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH IS THE KEY: GETTING A TAXI</title>
+  </programme>
+  <programme start="20260130165000 +0000" stop="20260130170000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH IS THE KEY: ORDERING TEA</title>
+  </programme>
+  <programme start="20260130165000 +0000" stop="20260130170000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH IS THE KEY: ORDERING TEA</title>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130171000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>SIMPLE PHRASES</title>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130171000 +0000" channel="ENGLISH CLUB">
+    <title>SIMPLE PHRASES</title>
+  </programme>
+  <programme start="20260130171000 +0000" stop="20260130172000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130171000 +0000" stop="20260130172000 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130172000 +0000" stop="20260130173000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130172000 +0000" stop="20260130173000 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130173000 +0000" stop="20260130173500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130173000 +0000" stop="20260130173500 +0000" channel="ENGLISH CLUB">
+    <title>LIFE AROUND</title>
+  </programme>
+  <programme start="20260130173500 +0000" stop="20260130174500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>JACK OF ALL TRADES: HAIRDRESSERS</title>
+  </programme>
+  <programme start="20260130173500 +0000" stop="20260130174500 +0000" channel="ENGLISH CLUB">
+    <title>JACK OF ALL TRADES: HAIRDRESSERS</title>
+  </programme>
+  <programme start="20260130174500 +0000" stop="20260130175000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>BASIC LEXIS: DRAWING A PICTURE WITH PENCILS</title>
+  </programme>
+  <programme start="20260130174500 +0000" stop="20260130175000 +0000" channel="ENGLISH CLUB">
+    <title>BASIC LEXIS: DRAWING A PICTURE WITH PENCILS</title>
+  </programme>
+  <programme start="20260130175000 +0000" stop="20260130175500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>BASIC LEXIS: PLAYING THE GUITAR</title>
+  </programme>
+  <programme start="20260130175000 +0000" stop="20260130175500 +0000" channel="ENGLISH CLUB">
+    <title>BASIC LEXIS: PLAYING THE GUITAR</title>
+  </programme>
+  <programme start="20260130175500 +0000" stop="20260130180000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>GET A CALL</title>
+  </programme>
+  <programme start="20260130175500 +0000" stop="20260130180000 +0000" channel="ENGLISH CLUB">
+    <title>GET A CALL</title>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130180500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130180500 +0000" channel="ENGLISH CLUB">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130180500 +0000" stop="20260130181000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130180500 +0000" stop="20260130181000 +0000" channel="ENGLISH CLUB">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130181000 +0000" stop="20260130181500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130181000 +0000" stop="20260130181500 +0000" channel="ENGLISH CLUB">
+    <title>COFFEE CHAT</title>
+  </programme>
+  <programme start="20260130181500 +0000" stop="20260130182000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130181500 +0000" stop="20260130182000 +0000" channel="ENGLISH CLUB">
+    <title>EASY TALK</title>
+  </programme>
+  <programme start="20260130182000 +0000" stop="20260130183500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>LET'S TALK: CHILDHOOD MEMORIES</title>
+  </programme>
+  <programme start="20260130182000 +0000" stop="20260130183500 +0000" channel="ENGLISH CLUB">
+    <title>LET'S TALK: CHILDHOOD MEMORIES</title>
+  </programme>
+  <programme start="20260130183500 +0000" stop="20260130184500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH IN FOCUS: COLLOCATIONS WITH THE VERB "TO TAKE"</title>
+  </programme>
+  <programme start="20260130183500 +0000" stop="20260130184500 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH IN FOCUS: COLLOCATIONS WITH THE VERB "TO TAKE"</title>
+  </programme>
+  <programme start="20260130184500 +0000" stop="20260130185000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260130184500 +0000" stop="20260130185000 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260130185000 +0000" stop="20260130185500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260130185000 +0000" stop="20260130185500 +0000" channel="ENGLISH CLUB">
+    <title>ENGLISH 911</title>
+  </programme>
+  <programme start="20260130185500 +0000" stop="20260130190000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>WHAT DID THEY SAY: ELON MUSK</title>
+  </programme>
+  <programme start="20260130185500 +0000" stop="20260130190000 +0000" channel="ENGLISH CLUB">
+    <title>WHAT DID THEY SAY: ELON MUSK</title>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130203000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>NORM OF THE NORTH: FAMILY VACATION</title>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130203000 +0000" channel="ENGLISH CLUB">
+    <title>NORM OF THE NORTH: FAMILY VACATION</title>
+  </programme>
+  <programme start="20260130203000 +0000" stop="20260130204500 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>THE LANGUAGE OF BUSINESS</title>
+  </programme>
+  <programme start="20260130203000 +0000" stop="20260130204500 +0000" channel="ENGLISH CLUB">
+    <title>THE LANGUAGE OF BUSINESS</title>
+  </programme>
+  <programme start="20260130204500 +0000" stop="20260130210000 +0000" channel="4K TR: ENGLISH CLUB TV">
+    <title>THE LANGUAGE OF BUSINESS</title>
+  </programme>
+  <programme start="20260130204500 +0000" stop="20260130210000 +0000" channel="ENGLISH CLUB">
+    <title>THE LANGUAGE OF BUSINESS</title>
+  </programme>
   <programme start="20260129210000 +0000" stop="20260129213000 +0000" channel="4K TR: BABYTV">
     <title>TATLI RÜYALAR</title>
   </programme>
@@ -34044,6 +34806,198 @@
   <programme start="20260130200000 +0000" stop="20260130210000 +0000" channel="AL JAZEERA INTERNATIONAL">
     <title>NEWS BULLETIN</title>
   </programme>
+  <programme start="20260129210000 +0000" stop="20260129210200 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260129210200 +0000" stop="20260129211500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>TRANSFORMING BUSINESS: THE CONTROVERSIAL INGREDIENT THE WORLD CAN'T QUIT</title>
+  </programme>
+  <programme start="20260129211500 +0000" stop="20260129220000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>LOVE, LIKE, LOST - INSIDE THE CYBER MAFIA</title>
+  </programme>
+  <programme start="20260129220000 +0000" stop="20260129220200 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260129220200 +0000" stop="20260129223000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>THE DAY</title>
+  </programme>
+  <programme start="20260129223000 +0000" stop="20260129230000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>TO THE POINT</title>
+  </programme>
+  <programme start="20260129230000 +0000" stop="20260129231500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260129231500 +0000" stop="20260129233000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>TRANSFORMING BUSINESS: THE CONTROVERSIAL INGREDIENT THE WORLD CAN'T QUIT</title>
+  </programme>
+  <programme start="20260129233000 +0000" stop="20260130000000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>BEST OF DW VODCASTS</title>
+  </programme>
+  <programme start="20260130000000 +0000" stop="20260130000200 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130000200 +0000" stop="20260130003000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>THE DAY</title>
+  </programme>
+  <programme start="20260130003000 +0000" stop="20260130010000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>TO THE POINT</title>
+  </programme>
+  <programme start="20260130010000 +0000" stop="20260130011500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130011500 +0000" stop="20260130020000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>MY BODY: MY MUSCLES - MORE THAN POWER AND PUMPING IRON</title>
+  </programme>
+  <programme start="20260130020000 +0000" stop="20260130020200 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130020200 +0000" stop="20260130023000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>THE DAY</title>
+  </programme>
+  <programme start="20260130023000 +0000" stop="20260130030000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>FOCUS ON EUROPE</title>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130031500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130031500 +0000" stop="20260130033000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>TRANSFORMING BUSINESS: THE CONTROVERSIAL INGREDIENT THE WORLD CAN'T QUIT</title>
+  </programme>
+  <programme start="20260130033000 +0000" stop="20260130040000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>MADE IN GERMANY: THE BUSINESS MAGAZINE</title>
+  </programme>
+  <programme start="20260130040000 +0000" stop="20260130041500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130041500 +0000" stop="20260130050000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>MY BODY: MY MUSCLES - MORE THAN POWER AND PUMPING IRON</title>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130050200 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130050200 +0000" stop="20260130053000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>THE DAY</title>
+  </programme>
+  <programme start="20260130053000 +0000" stop="20260130060000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130061500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130061500 +0000" stop="20260130063000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>TRANSFORMING BUSINESS: THE CONTROVERSIAL INGREDIENT THE WORLD CAN'T QUIT</title>
+  </programme>
+  <programme start="20260130063000 +0000" stop="20260130070000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>BEST OF DW VODCASTS</title>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130071500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130071500 +0000" stop="20260130080000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>LOVE, LIKE, LOST - INSIDE THE CYBER MAFIA</title>
+  </programme>
+  <programme start="20260130080000 +0000" stop="20260130081500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130081500 +0000" stop="20260130083000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>CHOICES</title>
+  </programme>
+  <programme start="20260130083000 +0000" stop="20260130090000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130091500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130091500 +0000" stop="20260130100000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DICTATORS, DRUGS, DISCORD - LATIN AMERICA AND THE USA: CHAOS</title>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130101500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130101500 +0000" stop="20260130103000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>HER - WOMEN IN ASIA</title>
+  </programme>
+  <programme start="20260130103000 +0000" stop="20260130110000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>BEST OF DW VODCASTS</title>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130111500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130111500 +0000" stop="20260130113000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>ASIA 2050</title>
+  </programme>
+  <programme start="20260130113000 +0000" stop="20260130120000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>TO THE POINT</title>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130121500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130121500 +0000" stop="20260130130000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>LOVE, LIKE, LOST - INSIDE THE CYBER MAFIA</title>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130131500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130131500 +0000" stop="20260130133000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>ONE HEALTH: PANDEMIC PREVENTION RESEARCH IN AFRICA</title>
+  </programme>
+  <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>IN GOOD SHAPE</title>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130141500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130141500 +0000" stop="20260130143000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>HER - WOMEN IN ASIA</title>
+  </programme>
+  <programme start="20260130143000 +0000" stop="20260130150000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>ECO INDIA</title>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130151500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130151500 +0000" stop="20260130153000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>ONE HEALTH: PANDEMIC PREVENTION RESEARCH IN AFRICA</title>
+  </programme>
+  <programme start="20260130153000 +0000" stop="20260130160000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>TO THE POINT</title>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130161500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130161500 +0000" stop="20260130170000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DICTATORS, DRUGS, DISCORD - LATIN AMERICA AND THE USA: CHAOS</title>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130171500 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130171500 +0000" stop="20260130173000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>ONE HEALTH: PANDEMIC PREVENTION RESEARCH IN AFRICA</title>
+  </programme>
+  <programme start="20260130173000 +0000" stop="20260130180000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>AFRIMAXX</title>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130183000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130183000 +0000" stop="20260130190000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>BEST OF DW VODCASTS</title>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130190200 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130190200 +0000" stop="20260130193000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>FOCUS ON EUROPE</title>
+  </programme>
+  <programme start="20260130193000 +0000" stop="20260130200000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>ECO AFRICA</title>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130203000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>DW NEWS</title>
+  </programme>
+  <programme start="20260130203000 +0000" stop="20260130210000 +0000" channel="DEUTSCHE WELLE ENGLISH">
+    <title>THE DAY</title>
+  </programme>
   <programme start="20260129210000 +0000" stop="20260129211500 +0000" channel="FRANCE 24 ENGLISH">
     <title>NEWS</title>
   </programme>
@@ -35481,11 +36435,8 @@
   <programme start="20260130040000 +0000" stop="20260130070000 +0000" channel="4K TR: POWER TV HD">
     <title>POWER MORNING</title>
   </programme>
-  <programme start="20260130070000 +0000" stop="20260130120000 +0000" channel="4K TR: POWER TV HD">
+  <programme start="20260130070000 +0000" stop="20260130130000 +0000" channel="4K TR: POWER TV HD">
     <title>POWER HITS</title>
-  </programme>
-  <programme start="20260130120000 +0000" stop="20260130130000 +0000" channel="4K TR: POWER TV HD">
-    <title>POP UP</title>
   </programme>
   <programme start="20260130130000 +0000" stop="20260130170000 +0000" channel="4K TR: POWER TV HD">
     <title>POWER HITS</title>
@@ -36254,6 +37205,39 @@
   </programme>
   <programme start="20260130200000 +0000" stop="20260131040000 +0000" channel="NR1 RAP">
     <title>DAMAR KUTUSU</title>
+  </programme>
+  <programme start="20260130015000 +0000" stop="20260130032000 +0000" channel="TMB">
+    <title>BELGESEL</title>
+  </programme>
+  <programme start="20260130032000 +0000" stop="20260130070000 +0000" channel="TMB">
+    <title>KLIP</title>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130090500 +0000" channel="TMB">
+    <title>MEVZU NE</title>
+  </programme>
+  <programme start="20260130090500 +0000" stop="20260130122500 +0000" channel="TMB">
+    <title>KLIP</title>
+  </programme>
+  <programme start="20260130122500 +0000" stop="20260130131000 +0000" channel="TMB">
+    <title>BELGESEL</title>
+  </programme>
+  <programme start="20260130131000 +0000" stop="20260130151500 +0000" channel="TMB">
+    <title>KLIP</title>
+  </programme>
+  <programme start="20260130151500 +0000" stop="20260130160000 +0000" channel="TMB">
+    <title>BELGESEL</title>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="TMB">
+    <title>ANA HABER</title>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130201000 +0000" channel="TMB">
+    <title>BELGESEL</title>
+  </programme>
+  <programme start="20260130201000 +0000" stop="20260130205700 +0000" channel="TMB">
+    <title>TMB KLIP</title>
+  </programme>
+  <programme start="20260130205700 +0000" stop="20260131015000 +0000" channel="TMB">
+    <title>KLIP</title>
   </programme>
   <programme start="20260129210000 +0000" stop="20260129222000 +0000" channel="TİVİ6">
     <title>WESTERN KUŞAĞI</title>
@@ -39275,18 +40259,6 @@
   </programme>
   <programme start="20260130200000 +0000" stop="20260131040000 +0000" channel="GENC TV">
     <title>GECE BÜLTENI</title>
-  </programme>
-  <programme start="20260129210000 +0000" stop="20260130030000 +0000" channel="KIBRIS TV">
-    <title>KIBRIS TV</title>
-  </programme>
-  <programme start="20260130030000 +0000" stop="20260130090000 +0000" channel="KIBRIS TV">
-    <title>KIBRIS TV</title>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130150000 +0000" channel="KIBRIS TV">
-    <title>KIBRIS TV</title>
-  </programme>
-  <programme start="20260130150000 +0000" stop="20260130210000 +0000" channel="KIBRIS TV">
-    <title>KIBRIS TV</title>
   </programme>
   <programme start="20260129210000 +0000" stop="20260130030000 +0000" channel="KANAL T">
     <title>KANAL T</title>
