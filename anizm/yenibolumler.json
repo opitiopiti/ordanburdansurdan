@@ -1,4 +1,16 @@
 {
+  "/sousou-no-frieren-2nd-season": {
+    "group": "SOUSOU NO FRIEREN 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/ao-no-orchestra-season-2": {
+    "group": "AO NO ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 14.0,
+    "start_episode": 1
+  },
   "/catseye": {
     "group": "CAT'S♥EYE",
     "last_season": 1,
@@ -69,18 +81,6 @@
     "group": "[OSHI NO KO] 3RD SEASON",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/tamon-kun-ima-docchi": {
-    "group": "TAMON-KUN IMA DOCCHI!?",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/odayaka-kizoku-no-kyuuka-no-susume": {
-    "group": "ODAYAKA KIZOKU NO KYUUKA NO SUSUME.",
-    "last_season": 1,
-    "last_episode": 2.0,
     "start_episode": 1
   }
 }
