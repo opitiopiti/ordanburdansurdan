@@ -2283,6 +2283,42 @@
   <programme start="20260130203000 +0000" stop="20260130221500 +0000" channel="4K TR: S NEMA A LE 2 HD">
     <title>YUMURTALAR FIRARDA: AFRIKA MACERASI</title>
   </programme>
+  <programme start="20260129224500 +0000" stop="20260130003000 +0000" channel="SİNEMA 1002">
+    <title>KATILLER</title>
+  </programme>
+  <programme start="20260130003000 +0000" stop="20260130023000 +0000" channel="SİNEMA 1002">
+    <title>KAMCHATKA</title>
+  </programme>
+  <programme start="20260130023000 +0000" stop="20260130043000 +0000" channel="SİNEMA 1002">
+    <title>ATEŞLE OYNAYANLAR</title>
+  </programme>
+  <programme start="20260130043000 +0000" stop="20260130070000 +0000" channel="SİNEMA 1002">
+    <title>AKIL OYUNLARI</title>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130090000 +0000" channel="SİNEMA 1002">
+    <title>PARA TRENI</title>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130110000 +0000" channel="SİNEMA 1002">
+    <title>SOSYAL AĞ</title>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130131500 +0000" channel="SİNEMA 1002">
+    <title>AŞK VE MERHAMET</title>
+  </programme>
+  <programme start="20260130131500 +0000" stop="20260130150000 +0000" channel="SİNEMA 1002">
+    <title>SAMSARA</title>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130164500 +0000" channel="SİNEMA 1002">
+    <title>THE DUKE</title>
+  </programme>
+  <programme start="20260130164500 +0000" stop="20260130183000 +0000" channel="SİNEMA 1002">
+    <title>JFK SUIKASTI</title>
+  </programme>
+  <programme start="20260130183000 +0000" stop="20260130204500 +0000" channel="SİNEMA 1002">
+    <title>JUDY</title>
+  </programme>
+  <programme start="20260130204500 +0000" stop="20260130223000 +0000" channel="SİNEMA 1002">
+    <title>DAĞILAN EVIN ÇOCUKLARI</title>
+  </programme>
   <programme start="20260129220000 +0000" stop="20260129230000 +0000" channel="TRT 1">
     <title>MAÇ SONU</title>
   </programme>
@@ -33516,57 +33552,6 @@
   <programme start="20260130203000 +0000" stop="20260130210000 +0000" channel="BBC News">
     <title>THE CONTEXT USA</title>
   </programme>
-  <programme start="20260129220000 +0000" stop="20260129230000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG: BALANCE OF POWER</title>
-  </programme>
-  <programme start="20260129230000 +0000" stop="20260130010000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG THE ASIA TRADE</title>
-  </programme>
-  <programme start="20260130010000 +0000" stop="20260130030000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG: THE CHINA SHOW</title>
-  </programme>
-  <programme start="20260130030000 +0000" stop="20260130050000 +0000" channel="Bloomberg">
-    <title>INSIGHT WITH HASLINDA AMIN</title>
-  </programme>
-  <programme start="20260130050000 +0000" stop="20260130060000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG HORIZONS MIDDLE EAST - AFRICA</title>
-  </programme>
-  <programme start="20260130060000 +0000" stop="20260130070000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG DAYBREAK: EUROPE</title>
-  </programme>
-  <programme start="20260130070000 +0000" stop="20260130090000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG: THE OPENING TRADE</title>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130100000 +0000" channel="Bloomberg">
-    <title>THE PULSE WITH FRANCINE LACQUA</title>
-  </programme>
-  <programme start="20260130100000 +0000" stop="20260130110000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG BRIEF</title>
-  </programme>
-  <programme start="20260130110000 +0000" stop="20260130140000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG SURVEILLANCE</title>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130160000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG OPEN INTEREST</title>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG TECH</title>
-  </programme>
-  <programme start="20260130170000 +0000" stop="20260130173000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG REAL YIELD</title>
-  </programme>
-  <programme start="20260130173000 +0000" stop="20260130180000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG MARKETS</title>
-  </programme>
-  <programme start="20260130180000 +0000" stop="20260130190000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG: BALANCE OF POWER</title>
-  </programme>
-  <programme start="20260130190000 +0000" stop="20260130200000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG BUSINESSWEEK DAILY</title>
-  </programme>
-  <programme start="20260130200000 +0000" stop="20260130220000 +0000" channel="Bloomberg">
-    <title>BLOOMBERG THE CLOSE</title>
-  </programme>
   <programme start="20260129210000 +0000" stop="20260129220000 +0000" channel="A NEWS">
     <title>TÜRKIYE'S DIPLOMACY</title>
   </programme>
@@ -37590,8 +37575,11 @@
   <programme start="20260130093000 +0000" stop="20260130103000 +0000" channel="4K TR: TRT 3">
     <title>GÜN ORTASI</title>
   </programme>
-  <programme start="20260130103000 +0000" stop="20260130105000 +0000" channel="4K TR: TRT 3">
+  <programme start="20260130103000 +0000" stop="20260130104000 +0000" channel="4K TR: TRT 3">
     <title>FCSB - FENERBAHÇE</title>
+  </programme>
+  <programme start="20260130104000 +0000" stop="20260130105000 +0000" channel="4K TR: TRT 3">
+    <title>MANCHESTER CITY - GALATASARAY</title>
   </programme>
   <programme start="20260130105000 +0000" stop="20260130123000 +0000" channel="4K TR: TRT 3">
     <title>SPOR STÜDYOSU</title>
@@ -37615,7 +37603,7 @@
     <title>STADYUM</title>
   </programme>
   <programme start="20260130203000 +0000" stop="20260130220000 +0000" channel="4K TR: TRT 3">
-    <title>İLERI ÜÇLÜ</title>
+    <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
   <programme start="20260129214500 +0000" stop="20260129221000 +0000" channel="4K TR: TRT T RK">
     <title>TÜRKIYE'YE YATIRIM YOLCULUĞU</title>
@@ -40259,6 +40247,18 @@
   </programme>
   <programme start="20260130200000 +0000" stop="20260131040000 +0000" channel="GENC TV">
     <title>GECE BÜLTENI</title>
+  </programme>
+  <programme start="20260129210000 +0000" stop="20260130030000 +0000" channel="KIBRIS TV">
+    <title>KIBRIS TV</title>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130090000 +0000" channel="KIBRIS TV">
+    <title>KIBRIS TV</title>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130150000 +0000" channel="KIBRIS TV">
+    <title>KIBRIS TV</title>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130210000 +0000" channel="KIBRIS TV">
+    <title>KIBRIS TV</title>
   </programme>
   <programme start="20260129210000 +0000" stop="20260130030000 +0000" channel="KANAL T">
     <title>KANAL T</title>
