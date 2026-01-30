@@ -1,4 +1,4 @@
-{
+ { 
   "/diziler/his-hers.html": {
     "group": "HIS & HERS",
     "last_season": 1,
@@ -7,8 +7,8 @@
   },
   "/diziler/alf.html": {
     "group": "ALF",
-    "last_season": 4,
-    "last_episode": 24,
+    "last_season": 3,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/run-away.html": {
@@ -386,7 +386,7 @@
   "/diziler/cats-eye.html": {
     "group": "CAT'S EYE",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/diziler/house-of-guinness.html": {
@@ -1009,32 +1009,32 @@
   },
   "/diziler/and-just-like-that.html": {
     "group": "AND JUST LIKE THAT…",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/resident-playbook.html": {
     "group": "RESIDENT PLAYBOOK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/ransom-canyon.html": {
     "group": "RANSOM CANYON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-glass-dome.html": {
     "group": "THE GLASS DOME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-stolen-girl.html": {
     "group": "THE STOLEN GIRL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/high-potential.html": {
@@ -1045,404 +1045,404 @@
   },
   "/diziler/frasier-2023.html": {
     "group": "FRASIER 2023",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/rita.html": {
     "group": "RITA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/wizards-beyond-waverly-place.html": {
     "group": "WIZARDS BEYOND WAVERLY PLACE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-gardener.html": {
     "group": "THE GARDENER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/your-friends-neighbors.html": {
     "group": "YOUR FRIENDS & NEIGHBORS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/to-be-hero-x.html": {
     "group": "TO BE HERO X",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/lazarus.html": {
     "group": "LAZARUS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/my-hero-academia-vigilantes.html": {
     "group": "MY HERO ACADEMIA: VIGILANTES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/north-of-north.html": {
     "group": "NORTH OF NORTH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/moonrise.html": {
     "group": "MOONRISE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/mobile-suit-gundam-gquuuuuux.html": {
     "group": "MOBILE SUIT GUNDAM: GQUUUUUUX",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-agency.html": {
     "group": "THE AGENCY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/a-gentleman-in-moscow.html": {
     "group": "A GENTLEMAN IN MOSCOW",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/dying-for-sex.html": {
     "group": "DYING FOR SEX",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/karma.html": {
     "group": "KARMA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-bondsman.html": {
     "group": "THE BONDSMAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/pulse.html": {
     "group": "PULSE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/devil-may-cry.html": {
     "group": "DEVIL MAY CRY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-studio.html": {
     "group": "THE STUDIO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/mobland.html": {
     "group": "MOBLAND",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-divorce-insurance.html": {
     "group": "THE DIVORCE INSURANCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/good-american-family.html": {
     "group": "GOOD AMERICAN FAMILY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/caught.html": {
     "group": "CAUGHT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/patience.html": {
     "group": "PATIENCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/hyper-knife.html": {
     "group": "HYPER KNIFE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-residence.html": {
     "group": "THE RESIDENCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/wolf-king.html": {
     "group": "WOLF KING",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/sas-rogue-heroes.html": {
     "group": "SAS ROGUE HEROES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/woman-of-the-dead.html": {
     "group": "WOMAN OF THE DEAD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/long-bright-river.html": {
     "group": "LONG BRIGHT RIVER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/dope-thief.html": {
     "group": "DOPE THIEF",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/adolescence.html": {
     "group": "ADOLESCENCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/when-life-gives-you-tangerines.html": {
     "group": "WHEN LIFE GIVES YOU TANGERINES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/the-leopard.html": {
     "group": "THE LEOPARD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/just-one-look.html": {
     "group": "JUST ONE LOOK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/daredevil-born-again.html": {
     "group": "DAREDEVIL: BORN AGAIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/the-potato-lab.html": {
     "group": "THE POTATO LAB",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/joan.html": {
     "group": "JOAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/toxic-town.html": {
     "group": "TOXIC TOWN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/running-point.html": {
     "group": "RUNNING POINT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-americas.html": {
     "group": "THE AMERICAS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/zero-day.html": {
     "group": "ZERO DAY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/melo-movie.html": {
     "group": "MELO MOVIE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/common-side-effects.html": {
     "group": "COMMON SIDE EFFECTS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/whiskey-on-the-rocks.html": {
     "group": "WHISKEY ON THE ROCKS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/valeria.html": {
     "group": "VALERIA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/elena-of-avalor.html": {
     "group": "ELENA OF AVALOR",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 31,
     "start_episode": 1
   },
   "/diziler/newtopia.html": {
     "group": "NEWTOPIA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/apple-cider-vinegar.html": {
     "group": "APPLE CIDER VINEGAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/cassandra.html": {
     "group": "CASSANDRA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-re-murders.html": {
     "group": "THE ARE MURDERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/initial-d.html": {
     "group": "INITIAL D",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-count-of-monte-cristo.html": {
     "group": "THE COUNT OF MONTE CRISTO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/your-friendly-neighborhood-spider-man.html": {
     "group": "YOUR FRIENDLY NEIGHBORHOOD SPIDER-MAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/paradise.html": {
     "group": "PARADISE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-hunting-party.html": {
     "group": "THE HUNTING PARTY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-trauma-code-heroes-on-call.html": {
     "group": "THE TRAUMA CODE: HEROES ON CALL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/shared-custody.html": {
     "group": "SHARED CUSTODY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/prime-target.html": {
     "group": "PRIME TARGET",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/creature-commandos.html": {
     "group": "CREATURE COMMANDOS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/sakamoto-days.html": {
     "group": "SAKAMOTO DAYS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/on-call.html": {
     "group": "ON CALL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/american-primeval.html": {
     "group": "AMERICAN PRIMEVAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/robin-hood.html": {
     "group": "ROBIN HOOD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/my-happy-marriage.html": {
     "group": "MY HAPPY MARRIAGE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/dream-productions.html": {
     "group": "DREAM PRODUCTIONS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/when-the-stars-gossip.html": {
     "group": "WHEN THE STARS GOSSIP",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/fate-strange-fake.html": {
@@ -1454,295 +1454,295 @@
   "/diziler/missing-you.html": {
     "group": "MISSING YOU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/marry-my-husband.html": {
     "group": "MARRY MY HUSBAND",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/dynasties-ii.html": {
     "group": "DYNASTIES II",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/kill-it.html": {
     "group": "KILL IT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/doctor-odyssey.html": {
     "group": "DOCTOR ODYSSEY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/the-day-of-the-jackal.html": {
     "group": "THE DAY OF THE JACKAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/1992.html": {
     "group": "1992",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/dexter-original-sin.html": {
     "group": "DEXTER: ORIGINAL SIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/no-good-deed.html": {
     "group": "NO GOOD DEED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/one-hundred-years-of-solitude.html": {
     "group": "ONE HUNDRED YEARS OF SOLITUDE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/secret-level.html": {
     "group": "SECRET LEVEL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 15,
     "start_episode": 1
   },
   "/diziler/deaths-game.html": {
     "group": "DEATH'S GAME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/grotesquerie.html": {
     "group": "GROTESQUERIE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/sweetpea.html": {
     "group": "SWEETPEA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-sticky.html": {
     "group": "THE STICKY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/jentry-chau-vs-the-underworld.html": {
     "group": "JENTRY CHAU VS THE UNDERWORLD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/black-doves.html": {
     "group": "BLACK DOVES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/hysteria.html": {
     "group": "HYSTERIA!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/churchill-at-war.html": {
     "group": "CHURCHILL AT WAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/star-wars-skeleton-crew.html": {
     "group": "STAR WARS: SKELETON CREW",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/recess.html": {
     "group": "RECESS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 39,
     "start_episode": 1
   },
   "/diziler/the-trunk.html": {
     "group": "THE TRUNK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/senna.html": {
     "group": "SENNA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-madness.html": {
     "group": "THE MADNESS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/when-the-phone-rings.html": {
     "group": "WHEN THE PHONE RINGS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-helicopter-heist.html": {
     "group": "THE HELICOPTER HEIST",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/cruel-intentions.html": {
     "group": "CRUEL INTENTIONS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/tokyo-override.html": {
     "group": "TOKYO OVERRIDE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/a-man-on-the-inside.html": {
     "group": "A MAN ON THE INSIDE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/our-oceans.html": {
     "group": "OUR OCEANS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/adoration.html": {
     "group": "ADORATION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/interior-chinatown.html": {
     "group": "INTERIOR CHINATOWN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/twisted-metal.html": {
     "group": "TWISTED METAL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/american-sports-story.html": {
     "group": "AMERICAN SPORTS STORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/say-nothing.html": {
     "group": "SAY NOTHING",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/cross.html": {
     "group": "CROSS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/beyond-goodbye.html": {
     "group": "BEYOND GOODBYE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/ataturk-1881-1919.html": {
     "group": "ATATÜRK 1881-1919 1919",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/mr-plankton.html": {
     "group": "MR. PLANKTON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/bank-under-siege.html": {
     "group": "BANK UNDER SIEGE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/gangnam-b-side.html": {
     "group": "GANGNAM B-SIDE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-a-team.html": {
     "group": "THE A-TEAM",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/the-secret-of-the-river.html": {
     "group": "THE SECRET OF THE RIVER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/murder-mindfully.html": {
     "group": "MURDER MINDFULLY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/la-maquina.html": {
     "group": "LA MÁQUINA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-last-night-at-tremore-beach.html": {
     "group": "THE LAST NIGHT AT TREMORE BEACH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/before.html": {
     "group": "BEFORE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/like-a-dragon-yakuza.html": {
     "group": "LIKE A DRAGON: YAKUZA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/territory.html": {
     "group": "TERRITORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/my-dearest.html": {
@@ -1754,343 +1754,343 @@
   "/diziler/rivals.html": {
     "group": "RIVALS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-office-au-2024.html": {
     "group": "THE OFFICE AU 2024",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/gundam-requiem-for-vengeance.html": {
     "group": "GUNDAM: REQUIEM FOR VENGEANCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/citadel-diana.html": {
     "group": "CITADEL: DIANA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/macgyver.html": {
     "group": "MACGYVER",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 7,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/doubt.html": {
     "group": "DOUBT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/disclaimer.html": {
     "group": "DISCLAIMER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/tomb-raider-the-legend-of-lara-croft.html": {
     "group": "TOMB RAIDER: THE LEGEND OF LARA CROFT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/starting-5.html": {
     "group": "STARTING 5",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/daddy-issues.html": {
     "group": "DADDY ISSUES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/dandadan.html": {
     "group": "DANDADAN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/blue-box.html": {
     "group": "BLUE BOX",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/diziler/sajangnimeui-sikdanpyo.html": {
     "group": "SPICE UP OUR LOVE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/last-days-of-the-space-age.html": {
     "group": "LAST DAYS OF THE SPACE AGE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/serial-experiments-lain.html": {
     "group": "SERIAL EXPERIMENTS LAIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/ayla-and-the-mirrors.html": {
     "group": "AYLA AND THE MIRRORS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 30,
     "start_episode": 1
   },
   "/diziler/how-to-die-alone.html": {
     "group": "HOW TO DIE ALONE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/nobody-wants-this.html": {
     "group": "NOBODY WANTS THIS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/monsters-the-lyle-and-erik-menendez-story.html": {
     "group": "MONSTERS: THE LYLE AND ERIK MENENDEZ STORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/agatha-all-along.html": {
     "group": "AGATHA ALL ALONG",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/twilight-of-the-gods.html": {
     "group": "TWILIGHT OF THE GODS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/angel-di-maria-breaking-down-the-wall.html": {
     "group": "ANGEL DI MARIA: BREAKING DOWN THE WALL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/connection.html": {
     "group": "CONNECTION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/the-tick.html": {
     "group": "THE TICK",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/kaos.html": {
     "group": "KAOS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-perfect-couple.html": {
     "group": "THE PERFECT COUPLE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/redakai.html": {
     "group": "REDAKAI",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/terminator-zero.html": {
     "group": "TERMINATOR ZERO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/no-gain-no-love.html": {
     "group": "NO GAIN NO LOVE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-frog.html": {
     "group": "THE FROG",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-accident.html": {
     "group": "THE ACCIDENT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/wyatt-earp-and-the-cowboy-war.html": {
     "group": "WYATT EARP AND THE COWBOY WAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/manhunt-2019.html": {
     "group": "MANHUNT 2019",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/power-book-iii-raising-kanan.html": {
     "group": "POWER BOOK III: RAISING KANAN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/love-next-door.html": {
     "group": "LOVE NEXT DOOR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/almost-paradise.html": {
     "group": "ALMOST PARADISE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/rick-and-morty-the-anime.html": {
     "group": "RICK AND MORTY: THE ANIME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/crossing-lines.html": {
     "group": "CROSSING LINES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/power-book-ii-ghost.html": {
     "group": "POWER BOOK II: GHOST",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/bad-monkey.html": {
     "group": "BAD MONKEY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-outpost.html": {
     "group": "THE OUTPOST",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/romance-in-the-house.html": {
     "group": "ROMANCE IN THE HOUSE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-librarians.html": {
     "group": "THE LIBRARIANS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/secret-world-of-sound.html": {
     "group": "SECRET WORLD OF SOUND WITH DAVID ATTENBOROUGH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/oban-star-racers.html": {
     "group": "OBAN STAR-RACERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/batman-caped-crusader.html": {
     "group": "BATMAN: CAPED CRUSADER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/a-good-girls-guide-to-murder.html": {
     "group": "A GOOD GIRL'S GUIDE TO MURDER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/tokyo-swindlers.html": {
     "group": "TOKYO SWINDLERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/the-decameron.html": {
     "group": "THE DECAMERON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/land-of-women.html": {
     "group": "LAND OF WOMEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/time-bandits.html": {
     "group": "TIME BANDITS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/lady-in-the-lake.html": {
     "group": "LADY IN THE LAKE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/red-swan.html": {
     "group": "RED SWAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/sausage-party-foodtopia.html": {
     "group": "SAUSAGE PARTY: FOODTOPIA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/me.html": {
     "group": "ME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/sunny.html": {
     "group": "SUNNY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/three-pines.html": {
     "group": "THREE PINES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/tracker.html": {
@@ -2101,518 +2101,518 @@
   },
   "/diziler/icarly.html": {
     "group": "ICARLY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/without-sin.html": {
     "group": "WITHOUT SIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-seven-deadly-sins-four-knights-of-the-apocalypse.html": {
     "group": "THE SEVEN DEADLY SINS: FOUR KNIGHTS OF THE APOCALYPSE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/la-pasi-n-turca.html": {
     "group": "LA PASION TURCA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-whirlwind.html": {
     "group": "THE WHIRLWIND",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/wondla.html": {
     "group": "WONDLA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/supacell.html": {
     "group": "SUPACELL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/suicide-squad-isekai.html": {
     "group": "SUICIDE SQUAD ISEKAI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/my-lady-jane.html": {
     "group": "MY LADY JANE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/rising-impact.html": {
     "group": "RISING IMPACT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/on-becoming-a-god-in-central-florida.html": {
     "group": "ON BECOMING A GOD IN CENTRAL FLORIDA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/gangs-of-galicia.html": {
     "group": "GANGS OF GALICIA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/alert-missing-persons-unit.html": {
     "group": "ALERT: MISSING PERSONS UNIT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/snatch.html": {
     "group": "SNATCH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/accused.html": {
     "group": "ACCUSED",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/camp-snoopy.html": {
     "group": "CAMP SNOOPY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/under-the-bridge.html": {
     "group": "UNDER THE BRIDGE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/miss-night-and-day.html": {
     "group": "MISS NIGHT AND DAY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/delicious-in-dungeon.html": {
     "group": "DELICIOUS IN DUNGEON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/marriage.html": {
     "group": "MARRIAGE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/presumed-innocent.html": {
     "group": "PRESUMED INNOCENT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/heels.html": {
     "group": "HEELS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/queenie.html": {
     "group": "QUEENIE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/a-spy-among-friends.html": {
     "group": "A SPY AMONG FRIENDS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/becoming-karl-lagerfeld.html": {
     "group": "BECOMING KARL LAGERFELD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/we-were-the-lucky-ones.html": {
     "group": "WE WERE THE LUCKY ONES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/hitlers-circle-of-evil.html": {
     "group": "HITLER'S CIRCLE OF EVIL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/hierarchy.html": {
     "group": "HIERARCHY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/perry-mason.html": {
     "group": "PERRY MASON",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/hitler-and-the-nazis-evil-on-trial.html": {
     "group": "HITLER AND THE NAZIS: EVIL ON TRIAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-acolyte.html": {
     "group": "THE ACOLYTE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/clipped.html": {
     "group": "CLIPPED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/hung.html": {
     "group": "HUNG",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/raising-voices.html": {
     "group": "RAISING VOICES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/geek-girl.html": {
     "group": "GEEK GIRL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/eric.html": {
     "group": "ERIC",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/tunnel.html": {
     "group": "TUNNEL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/the-penguins-of-madagascar.html": {
     "group": "THE PENGUINS OF MADAGASCAR",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 15,
     "start_episode": 1
   },
   "/diziler/baskets.html": {
     "group": "BASKETS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/millennium-1996.html": {
     "group": "MILLENNIUM 1996",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/jurassic-world-chaos-theory.html": {
     "group": "JURASSIC WORLD: CHAOS THEORY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/garouden-the-way-of-the-lone-wolf.html": {
     "group": "GAROUDEN: THE WAY OF THE LONE WOLF",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/tires.html": {
     "group": "TIRES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-amazing-world-of-gumball-the-gumball-chronicles.html": {
     "group": "THE GUMBALL CHRONICLES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-8-show.html": {
     "group": "THE 8 SHOW",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-big-cigar.html": {
     "group": "THE BIG CIGAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/darwins-yearbook.html": {
     "group": "DARWIN'S YEARBOOK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/uncle-samsik.html": {
     "group": "UNCLE SAMSIK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/two-weeks.html": {
     "group": "TWO WEEKS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/ed-edd-n-eddy.html": {
     "group": "ED, EDD N EDDY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/past-lies.html": {
     "group": "PAST LIES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/doctor-who-2023.html": {
     "group": "DOCTOR WHO 2023",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/maxton-hall-the-world-between-us.html": {
     "group": "MAXTON HALL: THE WORLD BETWEEN US",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/bodkin.html": {
     "group": "BODKIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/the-atypical-family.html": {
     "group": "THE ATYPICAL FAMILY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/dark-matter.html": {
     "group": "DARK MATTER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/star-wars-tales-of-the-empire.html": {
     "group": "STAR WARS: TALES OF THE EMPIRE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-veil.html": {
     "group": "THE VEIL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/t-p-bon.html": {
     "group": "T. P. BON",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/a-man-in-full.html": {
     "group": "A MAN IN FULL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/shardlake.html": {
     "group": "SHARDLAKE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-asunta-case.html": {
     "group": "THE ASUNTA CASE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/together-treble-winners.html": {
     "group": "TOGETHER: TREBLE WINNERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/goodbye-earth.html": {
     "group": "GOODBYE EARTH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/dead-boy-detectives.html": {
     "group": "DEAD BOY DETECTIVES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-marvelous-misadventures-of-flapjack.html": {
     "group": "THE MARVELOUS MISADVENTURES OF FLAPJACK",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/our-living-world.html": {
     "group": "OUR LIVING WORLD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-grimm-variations.html": {
     "group": "THE GRIMM VARIATIONS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/reborn-rich.html": {
     "group": "REBORN RICH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/baby-reindeer.html": {
     "group": "BABY REINDEER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/dan-browns-the-lost-symbol.html": {
     "group": "THE LOST SYMBOL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/franklin.html": {
     "group": "FRANKLIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-fable.html": {
     "group": "THE FABLE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/diziler/courage-the-cowardly-dog.html": {
     "group": "COURAGE THE COWARDLY DOG",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
     "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/sugar.html": {
     "group": "SUGAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/parasyte-the-grey.html": {
     "group": "PARASYTE: THE GREY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/ripley.html": {
     "group": "RIPLEY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/ninjago-dragons-rising.html": {
     "group": "NINJAGO: DRAGONS RISING",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/ninjago-masters-of-spinjitzu.html": {
     "group": "NINJAGO: MASTERS OF SPINJITZU",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 10,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-completely-made-up-adventures-of-dick-turpin.html": {
     "group": "THE COMPLETELY MADE-UP ADVENTURES OF DICK TURPIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/renegade-nell.html": {
     "group": "RENEGADE NELL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-bletchley-circle.html": {
     "group": "THE BLETCHLEY CIRCLE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/how-to-make-it-in-america.html": {
     "group": "HOW TO MAKE IT IN AMERICA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/3-body-problem.html": {
     "group": "3 BODY PROBLEM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/peep-show.html": {
     "group": "PEEP SHOW",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 9,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/palm-royale.html": {
@@ -2624,49 +2624,49 @@
   "/diziler/x-men-97.html": {
     "group": "X-MEN '97",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/iron-reign.html": {
     "group": "IRON REIGN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/shogun-1980.html": {
     "group": "SHOGUN 1980",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/the-swarm.html": {
     "group": "THE SWARM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/manhunt.html": {
     "group": "MANHUNT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/queen-of-tears.html": {
     "group": "QUEEN OF TEARS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/bandidos.html": {
     "group": "BANDIDOS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/the-goldbergs.html": {
     "group": "THE GOLDBERGS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/pokemon-horizons.html": {
@@ -2677,296 +2677,104 @@
   },
   "/diziler/roswell.html": {
     "group": "ROSWELL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/the-signal.html": {
     "group": "DAS SIGNAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-gentlemen.html": {
     "group": "THE GENTLEMEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/doctor-cha.html": {
     "group": "DOCTOR CHA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/like-flowers-in-sand.html": {
     "group": "LIKE FLOWERS IN SAND",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-impossible-heir.html": {
     "group": "THE IMPOSSIBLE HEIR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-second-best-hospital-in-the-galaxy.html": {
     "group": "THE SECOND BEST HOSPITAL IN THE GALAXY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/shogun.html": {
     "group": "SHOGUN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/avatar-the-last-airbender-2024.html": {
     "group": "AVATAR: THE LAST AIRBENDER 2024",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/constellation.html": {
     "group": "CONSTELLATION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-new-look.html": {
     "group": "THE NEW LOOK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-vince-staples-show.html": {
     "group": "THE VINCE STAPLES SHOW",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/house-of-ninjas.html": {
     "group": "HOUSE OF NINJAS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/one-day.html": {
     "group": "ONE DAY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/victorious.html": {
     "group": "VICTORIOUS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/a-killer-paradox.html": {
     "group": "A KILLER PARADOX",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/frieren-beyond-journeys-end.html": {
     "group": "FRIEREN: BEYOND JOURNEY'S END",
     "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/diziler/the-apothecary-diaries.html": {
-    "group": "THE APOTHECARY DIARIES",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/black-cake.html": {
-    "group": "BLACK CAKE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/mr-and-mrs-smith.html": {
-    "group": "MR. & MRS. SMITH",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/doctor-slump.html": {
-    "group": "DOCTOR SLUMP",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/expats.html": {
-    "group": "EXPATS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/masters-of-the-air.html": {
-    "group": "MASTERS OF THE AIR",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/masters-of-the-universe-revolution.html": {
-    "group": "MASTERS OF THE UNIVERSE: REVOLUTION",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/griselda.html": {
-    "group": "GRISELDA",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/codename-kids-next-door.html": {
-    "group": "CODENAME: KIDS NEXT DOOR",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/planet-earth-iii.html": {
-    "group": "PLANET EARTH III",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/the-bequeathed.html": {
-    "group": "THE BEQUEATHED",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/hazbin-hotel.html": {
-    "group": "HAZBIN HOTEL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/american-dragon-jake-long.html": {
-    "group": "AMERICAN DRAGON: JAKE LONG",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/death-and-other-details.html": {
-    "group": "DEATH AND OTHER DETAILS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/a-shop-for-killers.html": {
-    "group": "A SHOP FOR KILLERS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/boy-swallows-universe.html": {
-    "group": "BOY SWALLOWS UNIVERSE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/criminal-record.html": {
-    "group": "CRIMINAL RECORD",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/clannad-after-story.html": {
-    "group": "CLANNAD: AFTER STORY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/clannad.html": {
-    "group": "CLANNAD",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/the-brothers-sun.html": {
-    "group": "THE BROTHERS SUN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/echo.html": {
-    "group": "ECHO",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/solo-leveling.html": {
-    "group": "SOLO LEVELING",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/the-artful-dodger.html": {
-    "group": "THE ARTFUL DODGER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/fool-me-once.html": {
-    "group": "FOOL ME ONCE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/captains-of-the-world.html": {
-    "group": "CAPTAINS OF THE WORLD",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/cars-toon-maters-tall-tales.html": {
-    "group": "CARS TOON: MATER'S TALL TALES",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/berlin.html": {
-    "group": "BERLIN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/life-in-pieces.html": {
-    "group": "LIFE IN PIECES",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/star-trek-prodigy.html": {
-    "group": "STAR TREK: PRODIGY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/kick-buttowski-suburban-daredevil.html": {
-    "group": "KICK BUTTOWSKI: SUBURBAN DAREDEVIL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/gyeongseong-creature.html": {
-    "group": "GYEONGSEONG CREATURE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/lost-girl.html": {
-    "group": "LOST GIRL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/percy-jackson-and-the-olympians.html": {
@@ -2975,352 +2783,556 @@
     "last_episode": 8,
     "start_episode": 1
   },
+  "/diziler/the-apothecary-diaries.html": {
+    "group": "THE APOTHECARY DIARIES",
+    "last_season": 2,
+    "last_episode": 24,
+    "start_episode": 1
+  },
+  "/diziler/black-cake.html": {
+    "group": "BLACK CAKE",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/mr-and-mrs-smith.html": {
+    "group": "MR. & MRS. SMITH",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/doctor-slump.html": {
+    "group": "DOCTOR SLUMP",
+    "last_season": 1,
+    "last_episode": 16,
+    "start_episode": 1
+  },
+  "/diziler/expats.html": {
+    "group": "EXPATS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/masters-of-the-air.html": {
+    "group": "MASTERS OF THE AIR",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/diziler/masters-of-the-universe-revolution.html": {
+    "group": "MASTERS OF THE UNIVERSE: REVOLUTION",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/diziler/griselda.html": {
+    "group": "GRISELDA",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/codename-kids-next-door.html": {
+    "group": "CODENAME: KIDS NEXT DOOR",
+    "last_season": 4,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/diziler/planet-earth-iii.html": {
+    "group": "PLANET EARTH III",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/the-bequeathed.html": {
+    "group": "THE BEQUEATHED",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/hazbin-hotel.html": {
+    "group": "HAZBIN HOTEL",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/american-dragon-jake-long.html": {
+    "group": "AMERICAN DRAGON: JAKE LONG",
+    "last_season": 2,
+    "last_episode": 31,
+    "start_episode": 1
+  },
+  "/diziler/death-and-other-details.html": {
+    "group": "DEATH AND OTHER DETAILS",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/a-shop-for-killers.html": {
+    "group": "A SHOP FOR KILLERS",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/boy-swallows-universe.html": {
+    "group": "BOY SWALLOWS UNIVERSE",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/criminal-record.html": {
+    "group": "CRIMINAL RECORD",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/clannad-after-story.html": {
+    "group": "CLANNAD: AFTER STORY",
+    "last_season": 1,
+    "last_episode": 25,
+    "start_episode": 1
+  },
+  "/diziler/clannad.html": {
+    "group": "CLANNAD",
+    "last_season": 1,
+    "last_episode": 24,
+    "start_episode": 1
+  },
+  "/diziler/the-brothers-sun.html": {
+    "group": "THE BROTHERS SUN",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/echo.html": {
+    "group": "ECHO",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/diziler/solo-leveling.html": {
+    "group": "SOLO LEVELING",
+    "last_season": 2,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/diziler/the-artful-dodger.html": {
+    "group": "THE ARTFUL DODGER",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/fool-me-once.html": {
+    "group": "FOOL ME ONCE",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/captains-of-the-world.html": {
+    "group": "CAPTAINS OF THE WORLD",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/cars-toon-maters-tall-tales.html": {
+    "group": "CARS TOON: MATER'S TALL TALES",
+    "last_season": 3,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/diziler/berlin.html": {
+    "group": "BERLIN",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/life-in-pieces.html": {
+    "group": "LIFE IN PIECES",
+    "last_season": 4,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/diziler/star-trek-prodigy.html": {
+    "group": "STAR TREK: PRODIGY",
+    "last_season": 2,
+    "last_episode": 20,
+    "start_episode": 1
+  },
+  "/diziler/kick-buttowski-suburban-daredevil.html": {
+    "group": "KICK BUTTOWSKI: SUBURBAN DAREDEVIL",
+    "last_season": 2,
+    "last_episode": 32,
+    "start_episode": 1
+  },
+  "/diziler/gyeongseong-creature.html": {
+    "group": "GYEONGSEONG CREATURE",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/diziler/lost-girl.html": {
+    "group": "LOST GIRL",
+    "last_season": 5,
+    "last_episode": 16,
+    "start_episode": 1
+  },
   "/diziler/carol-and-the-end-of-the-world.html": {
     "group": "CAROL & THE END OF THE WORLD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/yu-yu-hakusho.html": {
     "group": "YU YU HAKUSHO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/future-boy-conan.html": {
     "group": "FUTURE BOY CONAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/the-future-diary.html": {
     "group": "THE FUTURE DIARY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/vigilante.html": {
     "group": "VIGILANTE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/iron-man-armored-adventures.html": {
     "group": "IRON MAN: ARMORED ADVENTURES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/soundtrack-2.html": {
     "group": "SOUNDTRACK #2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/my-life-with-the-walter-boys.html": {
     "group": "MY LIFE WITH THE WALTER BOYS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/scavengers-reign.html": {
     "group": "SCAVENGERS REIGN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/destined-with-you.html": {
     "group": "DESTINED WITH YOU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/welcome-to-samdal-ri.html": {
     "group": "WELCOME TO SAMDAL-RI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/obliterated.html": {
     "group": "OBLITERATED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/culprits.html": {
     "group": "CULPRITS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/faraway-downs.html": {
     "group": "FARAWAY DOWNS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/my-demon.html": {
     "group": "MY DEMON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/a-nearly-normal-family.html": {
     "group": "A NEARLY NORMAL FAMILY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/my-daemon.html": {
     "group": "MY DAEMON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/single-parents.html": {
     "group": "SINGLE PARENTS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/camp-lazlo.html": {
     "group": "CAMP LAZLO",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/squid-game-the-challenge.html": {
     "group": "SQUID GAME: THE CHALLENGE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/scott-pilgrim-takes-off.html": {
     "group": "SCOTT PILGRIM TAKES OFF",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/monarch-legacy-of-monsters.html": {
     "group": "MONARCH: LEGACY OF MONSTERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/brawn-the-impossible-formula-1-story.html": {
     "group": "BRAWN: THE IMPOSSIBLE FORMULA 1 STORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/a-murder-at-the-end-of-the-world.html": {
     "group": "A MURDER AT THE END OF THE WORLD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/teenage-mutant-ninja-turtles-2003.html": {
     "group": "TEENAGE MUTANT NINJA TURTLES 2003",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/daily-dose-of-sunshine.html": {
     "group": "DAILY DOSE OF SUNSHINE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/blue-eye-samurai.html": {
     "group": "BLUE EYE SAMURAI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/onimusha.html": {
     "group": "ONIMUSHA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/all-the-light-we-cannot-see.html": {
     "group": "ALL THE LIGHT WE CANNOT SEE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/berserk.html": {
     "group": "BERSERK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/diziler/pluto.html": {
     "group": "PLUTO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/life-on-our-planet.html": {
     "group": "LIFE ON OUR PLANET",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/moonlighting.html": {
     "group": "MOONLIGHTING",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/captain-laserhawk-a-blood-dragon-remix.html": {
     "group": "CAPTAIN LASERHAWK: A BLOOD DRAGON REMIX",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/creature.html": {
     "group": "YARATILAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/doona.html": {
     "group": "DOONA!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/bodies.html": {
     "group": "BODIES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/goosebumps.html": {
     "group": "GOOSEBUMPS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/lookism.html": {
     "group": "LOOKISM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/bakugan-battle-brawlers.html": {
     "group": "BAKUGAN BATTLE BRAWLERS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 46,
     "start_episode": 1
   },
   "/diziler/the-changeling.html": {
     "group": "THE CHANGELING",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/lessons-in-chemistry.html": {
     "group": "LESSONS IN CHEMISTRY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-casagrandes.html": {
     "group": "THE CASAGRANDES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/good-night-world.html": {
     "group": "GOOD NIGHT WORLD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-fall-of-the-house-of-usher.html": {
     "group": "THE FALL OF THE HOUSE OF USHER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/strong-girl-nam-soon.html": {
     "group": "STRONG GIRL NAM-SOON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/harrow.html": {
     "group": "HARROW",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/beckham.html": {
     "group": "BECKHAM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/dont-trust-the-bitch-in-apartment-23.html": {
     "group": "DON'T TRUST THE BITCH IN APARTMENT 23",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 19,
     "start_episode": 1
   },
   "/diziler/animals-up-close-with-bertie-gregory.html": {
     "group": "ANIMALS UP CLOSE WITH BERTIE GREGORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-powerpuff-girls.html": {
     "group": "THE POWERPUFF GIRLS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/castlevania-nocturne.html": {
     "group": "CASTLEVANIA: NOCTURNE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-worst-of-evil.html": {
     "group": "THE WORST OF EVIL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/beyblade.html": {
     "group": "BEYBLADE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 52,
     "start_episode": 1
   },
   "/diziler/yu-gi-oh-capsule-monsters.html": {
     "group": "YU-GI-OH! CAPSULE MONSTERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/my-lovely-liar.html": {
     "group": "MY LOVELY LIAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 15,
     "start_episode": 1
   },
   "/diziler/the-continental-from-the-world-of-john-wick.html": {
     "group": "THE CONTINENTAL: FROM THE WORLD OF JOHN WICK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/song-of-the-bandits.html": {
     "group": "SONG OF THE BANDITS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/diziler/will-trent.html": {
+    "group": "WILL TRENT",
+    "last_season": 4,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/diziler/hijack.html": {
+    "group": "HIJACK",
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/ally-mcbeal.html": {
@@ -3332,391 +3344,379 @@
   "/diziler/wilderness.html": {
     "group": "WILDERNESS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/a-time-called-you.html": {
     "group": "A TIME CALLED YOU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/burning-body.html": {
     "group": "BURNING BODY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/dear-child.html": {
     "group": "DEAR CHILD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/last-resort.html": {
     "group": "LAST RESORT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/the-first.html": {
     "group": "THE FIRST",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-trial-of-christine-keeler.html": {
     "group": "THE TRIAL OF CHRISTINE KEELER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-investigation.html": {
     "group": "THE INVESTIGATION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/liar.html": {
     "group": "LIAR",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/innocent.html": {
     "group": "INNOCENT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/hard-sun.html": {
     "group": "HARD SUN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/adventure-time-fionna-and-cake.html": {
     "group": "ADVENTURE TIME: FIONNA & CAKE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/one-piece-2023.html": {
     "group": "ONE PIECE 2023",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-twilight-zone-1985.html": {
     "group": "THE TWILIGHT ZONE 1985",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 30,
     "start_episode": 1
   },
   "/diziler/gaslit.html": {
     "group": "GASLIT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/mary-kills-people.html": {
     "group": "MARY KILLS PEOPLE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/who-is-erin-carter.html": {
     "group": "WHO IS ERIN CARTER?",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/harlan-cobens-shelter.html": {
     "group": "HARLAN COBEN'S SHELTER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/a-perfect-story.html": {
     "group": "A PERFECT STORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/moving.html": {
     "group": "MOVING",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/joe-pickett.html": {
     "group": "JOE PICKETT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/painkiller.html": {
     "group": "PAINKILLER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/nip-tuck.html": {
     "group": "NIP/TUCK",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 19,
     "start_episode": 1
   },
   "/diziler/the-lost-flowers-of-alice-hart.html": {
     "group": "THE LOST FLOWERS OF ALICE HART",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/baki-hanma.html": {
     "group": "BAKI HANMA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 27,
     "start_episode": 1
   },
   "/diziler/deutschland-89.html": {
     "group": "DEUTSCHLAND 89",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/deutschland-86.html": {
     "group": "DEUTSCHLAND 86",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/deutschland-83.html": {
     "group": "DEUTSCHLAND 83",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/survival-of-the-thickest.html": {
     "group": "SURVIVAL OF THE THICKEST",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/ncis-new-orleans.html": {
     "group": "NCIS: NEW ORLEANS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 7,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/ncis-hawaii.html": {
     "group": "NCIS: HAWAI'I",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/agatha-christies-hjerson.html": {
     "group": "AGATHA CHRISTIES HJERSON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-persuaders.html": {
     "group": "THE PERSUADERS!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/napoleon.html": {
     "group": "NAPOLEON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/justified-city-primeval.html": {
     "group": "JUSTIFIED: CITY PRIMEVAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/d-gray-man.html": {
     "group": "D.GRAY-MAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 103,
     "start_episode": 1
   },
   "/diziler/sisters.html": {
     "group": "SISTERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-sylvester-and-tweety-mysteries.html": {
     "group": "THE SYLVESTER & TWEETY MYSTERIES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/johnny-test.html": {
     "group": "JOHNNY TEST",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/dorohedoro.html": {
     "group": "DOROHEDORO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/the-adventures-of-jimmy-neutron-boy-genius.html": {
     "group": "THE ADVENTURES OF JIMMY NEUTRON: BOY GENIUS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 19,
     "start_episode": 1
   },
   "/diziler/blade-the-series.html": {
     "group": "BLADE: THE SERIES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/lycoris-recoil.html": {
     "group": "LYCORIS RECOIL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/the-horror-of-dolores-roach.html": {
     "group": "THE HORROR OF DOLORES ROACH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/my-adventures-with-superman.html": {
     "group": "MY ADVENTURES WITH SUPERMAN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/duck-dodgers.html": {
     "group": "DUCK DODGERS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/celebrity.html": {
     "group": "CELEBRITY",
     "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/hijack.html": {
-    "group": "HIJACK",
-    "last_season": 2,
-    "last_episode": 3,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/krypto-the-superdog.html": {
     "group": "KRYPTO THE SUPERDOG",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/dreamland.html": {
     "group": "DREAMLAND",
     "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/will-trent.html": {
-    "group": "WILL TRENT",
-    "last_season": 4,
-    "last_episode": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/based-on-a-true-story.html": {
     "group": "BASED ON A TRUE STORY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/law-and-order-organized-crime.html": {
     "group": "LAW & ORDER: ORGANIZED CRIME",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/vortex.html": {
     "group": "VORTEX",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/class-of-09.html": {
     "group": "CLASS OF '09",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/im-a-virgo.html": {
     "group": "I'M A VIRGO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/csi-vegas.html": {
     "group": "CSI: VEGAS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/so-help-me-todd.html": {
     "group": "SO HELP ME TODD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/skull-island.html": {
     "group": "SKULL ISLAND",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-equalizer.html": {
     "group": "THE EQUALIZER",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/secret-invasion.html": {
     "group": "SECRET INVASION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/see-you-in-my-19th-life.html": {
     "group": "SEE YOU IN MY 19TH LIFE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/king-the-land.html": {
     "group": "KING THE LAND",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/in-plain-sight.html": {
     "group": "IN PLAIN SIGHT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/weak-hero-class.html": {
     "group": "WEAK HERO CLASS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/fire-country.html": {
@@ -3728,493 +3728,493 @@
   "/diziler/no-escape.html": {
     "group": "NO ESCAPE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/quantum-leap-2022.html": {
     "group": "QUANTUM LEAP 2022",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/fatal-attraction.html": {
     "group": "FATAL ATTRACTION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-full-monty.html": {
     "group": "THE FULL MONTY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/stargate-universe.html": {
     "group": "STARGATE UNIVERSE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/stargate-atlantis.html": {
-    "group": "STARGATE ATLANTIS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/stargate-sg-1.html": {
-    "group": "STARGATE SG-1",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/the-crowded-room.html": {
-    "group": "THE CROWDED ROOM",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/bloodhounds.html": {
-    "group": "BLOODHOUNDS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/arnold.html": {
-    "group": "ARNOLD",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/spider-man-and-his-amazing-friends.html": {
-    "group": "SPIDER-MAN AND HIS AMAZING FRIENDS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/trailer-park-boys.html": {
-    "group": "TRAILER PARK BOYS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/barracuda-queens.html": {
-    "group": "BARRACUDA QUEENS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/single-drunk-female.html": {
-    "group": "SINGLE DRUNK FEMALE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/black-clover.html": {
-    "group": "BLACK CLOVER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/deadloch.html": {
-    "group": "DEADLOCH",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/great-expectations.html": {
-    "group": "GREAT EXPECTATIONS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/the-days.html": {
-    "group": "THE DAYS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/fake-profile.html": {
-    "group": "FAKE PROFILE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/spider-man-1981.html": {
-    "group": "SPIDER-MAN 1981",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/not-dead-yet.html": {
-    "group": "NOT DEAD YET",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/turn-of-the-tide.html": {
-    "group": "TURN OF THE TIDE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/crazy-love.html": {
-    "group": "CRAZY LOVE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/der-greif-the-gryphon.html": {
-    "group": "THE GRYPHON",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/fubar.html": {
-    "group": "FUBAR",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/american-born-chinese.html": {
-    "group": "AMERICAN BORN CHINESE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/married-with-children.html": {
-    "group": "MARRIED WITH CHILDREN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/platonic.html": {
-    "group": "PLATONIC",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/snowfall.html": {
-    "group": "SNOWFALL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/the-muppet-show.html": {
-    "group": "THE MUPPET SHOW",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/muted.html": {
-    "group": "MUTED",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/yakitori-soldiers-of-misfortune.html": {
-    "group": "YAKITORI: SOLDIERS OF MISFORTUNE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/xo-kitty.html": {
-    "group": "XO, KITTY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/randy-cunningham-9th-grade-ninja.html": {
-    "group": "RANDY CUNNINGHAM: 9TH GRADE NINJA",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/high-desert.html": {
-    "group": "HIGH DESERT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/darkness-those-who-kill.html": {
-    "group": "DARKNESS: THOSE WHO KILL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/a-small-light.html": {
-    "group": "A SMALL LIGHT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/saint-x.html": {
-    "group": "SAINT X",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/the-super-hero-squad-show.html": {
-    "group": "THE SUPER HERO SQUAD SHOW",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/city-on-fire.html": {
-    "group": "CITY ON FIRE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/black-knight.html": {
-    "group": "BLACK KNIGHT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/lucky-hank.html": {
-    "group": "LUCKY HANK",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/lizzie-mcguire.html": {
-    "group": "LIZZIE MCGUIRE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/shining-vale.html": {
-    "group": "SHINING VALE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/siren.html": {
-    "group": "SIREN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/kanojo-ga-koushaku-tei-ni-itta-riyuu.html": {
-    "group": "WHY RAELIANA ENDED UP AT THE DUKE'S MANSION",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/diziler/rosewood.html": {
-    "group": "ROSEWOOD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/drops-of-god.html": {
     "group": "DROPS OF GOD",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/diziler/stargate-atlantis.html": {
+    "group": "STARGATE ATLANTIS",
+    "last_season": 5,
+    "last_episode": 20,
+    "start_episode": 1
+  },
+  "/diziler/stargate-sg-1.html": {
+    "group": "STARGATE SG-1",
+    "last_season": 10,
+    "last_episode": 20,
+    "start_episode": 1
+  },
+  "/diziler/the-crowded-room.html": {
+    "group": "THE CROWDED ROOM",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/bloodhounds.html": {
+    "group": "BLOODHOUNDS",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/arnold.html": {
+    "group": "ARNOLD",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/diziler/spider-man-and-his-amazing-friends.html": {
+    "group": "SPIDER-MAN AND HIS AMAZING FRIENDS",
+    "last_season": 3,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/trailer-park-boys.html": {
+    "group": "TRAILER PARK BOYS",
+    "last_season": 12,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/barracuda-queens.html": {
+    "group": "BARRACUDA QUEENS",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/single-drunk-female.html": {
+    "group": "SINGLE DRUNK FEMALE",
+    "last_season": 2,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/black-clover.html": {
+    "group": "BLACK CLOVER",
+    "last_season": 1,
+    "last_episode": 170,
+    "start_episode": 1
+  },
+  "/diziler/deadloch.html": {
+    "group": "DEADLOCH",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/great-expectations.html": {
+    "group": "GREAT EXPECTATIONS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/the-days.html": {
+    "group": "THE DAYS",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/fake-profile.html": {
+    "group": "FAKE PROFILE",
+    "last_season": 2,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/spider-man-1981.html": {
+    "group": "SPIDER-MAN 1981",
+    "last_season": 1,
+    "last_episode": 26,
+    "start_episode": 1
+  },
+  "/diziler/not-dead-yet.html": {
+    "group": "NOT DEAD YET",
+    "last_season": 2,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/turn-of-the-tide.html": {
+    "group": "TURN OF THE TIDE",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/crazy-love.html": {
+    "group": "CRAZY LOVE",
+    "last_season": 1,
+    "last_episode": 16,
+    "start_episode": 1
+  },
+  "/diziler/der-greif-the-gryphon.html": {
+    "group": "THE GRYPHON",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/fubar.html": {
+    "group": "FUBAR",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/american-born-chinese.html": {
+    "group": "AMERICAN BORN CHINESE",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/married-with-children.html": {
+    "group": "MARRIED WITH CHILDREN",
+    "last_season": 11,
+    "last_episode": 24,
+    "start_episode": 1
+  },
+  "/diziler/platonic.html": {
+    "group": "PLATONIC",
+    "last_season": 2,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/snowfall.html": {
+    "group": "SNOWFALL",
+    "last_season": 6,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/the-muppet-show.html": {
+    "group": "THE MUPPET SHOW",
+    "last_season": 3,
+    "last_episode": 20,
+    "start_episode": 1
+  },
+  "/diziler/muted.html": {
+    "group": "MUTED",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/yakitori-soldiers-of-misfortune.html": {
+    "group": "YAKITORI: SOLDIERS OF MISFORTUNE",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/xo-kitty.html": {
+    "group": "XO, KITTY",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/randy-cunningham-9th-grade-ninja.html": {
+    "group": "RANDY CUNNINGHAM: 9TH GRADE NINJA",
+    "last_season": 2,
+    "last_episode": 24,
+    "start_episode": 1
+  },
+  "/diziler/high-desert.html": {
+    "group": "HIGH DESERT",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/darkness-those-who-kill.html": {
+    "group": "DARKNESS: THOSE WHO KILL",
+    "last_season": 4,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/a-small-light.html": {
+    "group": "A SMALL LIGHT",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/saint-x.html": {
+    "group": "SAINT X",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/the-super-hero-squad-show.html": {
+    "group": "THE SUPER HERO SQUAD SHOW",
+    "last_season": 2,
+    "last_episode": 26,
+    "start_episode": 1
+  },
+  "/diziler/city-on-fire.html": {
+    "group": "CITY ON FIRE",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/black-knight.html": {
+    "group": "BLACK KNIGHT",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/diziler/lucky-hank.html": {
+    "group": "LUCKY HANK",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/lizzie-mcguire.html": {
+    "group": "LIZZIE MCGUIRE",
+    "last_season": 2,
+    "last_episode": 34,
+    "start_episode": 1
+  },
+  "/diziler/shining-vale.html": {
+    "group": "SHINING VALE",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/diziler/siren.html": {
+    "group": "SIREN",
+    "last_season": 3,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/diziler/kanojo-ga-koushaku-tei-ni-itta-riyuu.html": {
+    "group": "WHY RAELIANA ENDED UP AT THE DUKE'S MANSION",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/diziler/rosewood.html": {
+    "group": "ROSEWOOD",
+    "last_season": 2,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/diziler/silo.html": {
     "group": "SILO",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/queen-charlotte-a-bridgerton-story.html": {
     "group": "QUEEN CHARLOTTE: A BRIDGERTON STORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/beyond.html": {
     "group": "BEYOND",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/terzi.html": {
     "group": "TERZI",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/bardot.html": {
     "group": "BARDOT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-good-bad-mother.html": {
     "group": "THE GOOD BAD MOTHER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/the-nurse.html": {
     "group": "THE NURSE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/oshi-no-ko.html": {
     "group": "OSHI NO KO",
     "last_season": 3,
-    "last_episode": 3,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/war-sailor.html": {
     "group": "WAR SAILOR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/wild-isles.html": {
     "group": "WILD ISLES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/dead-ringers.html": {
     "group": "DEAD RINGERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-diplomat.html": {
     "group": "THE DIPLOMAT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/black-mafia-family.html": {
     "group": "BLACK MAFIA FAMILY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/chimp-empire.html": {
     "group": "CHIMP EMPIRE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/dawsons-creek.html": {
     "group": "DAWSON'S CREEK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/diziler/call-of-the-night.html": {
     "group": "CALL OF THE NIGHT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-watchful-eye.html": {
     "group": "THE WATCHFUL EYE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/last-light.html": {
     "group": "LAST LIGHT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/queenmaker.html": {
     "group": "QUEENMAKER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/diziler/the-last-thing-he-told-me.html": {
     "group": "THE LAST THING HE TOLD ME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/obsession.html": {
     "group": "OBSESSION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/baccano.html": {
     "group": "BACCANO!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/florida-man.html": {
     "group": "FLORIDA MAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/welcome-to-the-nhk.html": {
     "group": "WELCOME TO THE N.H.K.",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/ralph-and-katie.html": {
     "group": "RALPH & KATIE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/planetes.html": {
     "group": "PLANETES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/bewitched.html": {
     "group": "BEWITCHED",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 15,
     "start_episode": 1
   },
   "/diziler/tiny-beautiful-things.html": {
     "group": "TINY BEAUTIFUL THINGS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/transatlantic.html": {
     "group": "TRANSATLANTIC",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/the-good-mothers.html": {
     "group": "THE GOOD MOTHERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/beef.html": {
     "group": "BEEF",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/chip-n-dale-rescue-rangers.html": {
     "group": "CHIP'N DALE: RESCUE RANGERS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/the-lion-guard.html": {
     "group": "THE LION GUARD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/tengoku-daimakyo.html": {
     "group": "HEAVENLY DELUSION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/hells-paradise.html": {
@@ -4225,464 +4225,464 @@
   },
   "/diziler/welcome-to-flatch.html": {
     "group": "WELCOME TO FLATCH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/moonhaven.html": {
     "group": "MOONHAVEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-power.html": {
     "group": "THE POWER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/friday-night-lights.html": {
     "group": "FRIDAY NIGHT LIGHTS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/unstable.html": {
     "group": "UNSTABLE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/rabbit-hole.html": {
     "group": "RABBIT HOLE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-big-door-prize.html": {
     "group": "THE BIG DOOR PRIZE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/true-lies.html": {
     "group": "TRUE LIES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/i-remember-you.html": {
     "group": "I REMEMBER YOU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/angel-beats.html": {
     "group": "ANGEL BEATS!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/crash-course-in-romance.html": {
     "group": "CRASH COURSE IN ROMANCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/interview-with-the-vampire.html": {
     "group": "INTERVIEW WITH THE VAMPIRE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/alaska-daily.html": {
     "group": "ALASKA DAILY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/diziler/son-of-a-critch.html": {
     "group": "SON OF A CRITCH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/redemption.html": {
     "group": "REDEMPTION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-avengers-united-they-stand.html": {
     "group": "THE AVENGERS: UNITED THEY STAND",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/walker-independence.html": {
     "group": "WALKER: INDEPENDENCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/up-here.html": {
     "group": "UP HERE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/biz-kimden-kaciyorduk-anne.html": {
     "group": "BIZ KIMDEN KAÇIYORDUK ANNE?",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/the-night-agent.html": {
     "group": "THE NIGHT AGENT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/stuck-in-the-middle.html": {
     "group": "STUCK IN THE MIDDLE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 21,
     "start_episode": 1
   },
   "/diziler/no-traces-sin-huellas.html": {
     "group": "NO TRACES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/remember.html": {
     "group": "REMEMBER: WAR OF THE SON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/the-cry-of-the-butterflies.html": {
     "group": "THE CRY OF THE BUTTERFLIES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/criminal-minds-beyond-borders.html": {
     "group": "CRIMINAL MINDS: BEYOND BORDERS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/kabaneri-of-the-iron-fortress.html": {
     "group": "KABANERI OF THE IRON FORTRESS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/sky-high-the-series.html": {
     "group": "SKY HIGH: THE SERIES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/agent-elvis.html": {
     "group": "AGENT ELVIS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/extrapolations.html": {
     "group": "EXTRAPOLATIONS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/swarm.html": {
     "group": "SWARM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/class-of-07.html": {
     "group": "CLASS OF '07",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/gotham-knights.html": {
     "group": "GOTHAM KNIGHTS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/samurai-7.html": {
     "group": "SAMURAI 7",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/grand-blue.html": {
     "group": "GRAND BLUE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/devilman-crybaby.html": {
     "group": "DEVILMAN: CRYBABY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/ajin-demi-human.html": {
     "group": "AJIN: DEMI-HUMAN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/sirius-the-jaeger.html": {
     "group": "SIRIUS THE JAEGER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/girl-meets-world.html": {
     "group": "GIRL MEETS WORLD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 17,
     "start_episode": 1
   },
   "/diziler/key-and-peele.html": {
     "group": "KEY AND PEELE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/diziler/unprisoned.html": {
     "group": "UNPRISONED",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/real-madrid-until-the-end.html": {
     "group": "REAL MADRID: UNTIL THE END",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/milo-murphys-law.html": {
     "group": "MILO MURPHY'S LAW",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/george-and-tammy.html": {
     "group": "GEORGE & TAMMY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/history-of-the-world-part-ii.html": {
     "group": "HISTORY OF THE WORLD, PART II",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/mh370-the-plane-that-disappeared.html": {
     "group": "MH370: THE PLANE THAT DISAPPEARED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/boy-meets-world.html": {
     "group": "BOY MEETS WORLD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 7,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/spaced.html": {
     "group": "SPACED",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/fleishman-is-in-trouble.html": {
     "group": "FLEISHMAN IS IN TROUBLE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/fresh-off-the-boat.html": {
     "group": "FRESH OFF THE BOAT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 15,
     "start_episode": 1
   },
   "/diziler/daisy-jones-and-the-six.html": {
     "group": "DAISY JONES & THE SIX",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/kindred.html": {
     "group": "KINDRED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/raising-hope.html": {
     "group": "RAISING HOPE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/burn-notice.html": {
     "group": "BURN NOTICE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 7,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/liaison.html": {
     "group": "LIAISON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/call-it-love.html": {
     "group": "CALL IT LOVE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/devious-maids.html": {
     "group": "DEVIOUS MAIDS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/sorry-for-your-loss.html": {
     "group": "SORRY FOR YOUR LOSS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/hajime-no-ippo-rising.html": {
     "group": "HAJIME NO IPPO: RISING",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/diziler/hajime-no-ippo-new-challenger.html": {
     "group": "HAJIME NO IPPO: NEW CHALLENGER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/hajime-no-ippo-the-fighting.html": {
     "group": "HAJIME NO IPPO: THE FIGHTING!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 76,
     "start_episode": 1
   },
   "/diziler/big-city-greens.html": {
     "group": "BIG CITY GREENS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 30,
     "start_episode": 1
   },
   "/diziler/love-all-play.html": {
     "group": "LOVE ALL PLAY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/the-head-of-joaquin-murrieta.html": {
     "group": "THE HEAD OF JOAQUIN MURRIETA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/white-collar.html": {
     "group": "WHITE COLLAR",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/hello-tomorrow.html": {
     "group": "HELLO TOMORROW!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-law-according-to-lidia-poet.html": {
     "group": "THE LAW ACCORDING TO LIDIA POET",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/red-rose.html": {
     "group": "RED ROSE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/ouran-high-school-host-club.html": {
     "group": "OURAN HIGH SCHOOL HOST CLUB",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/fate-stay-night-unlimited-blade-works.html": {
     "group": "FATE/STAY NIGHT: UNLIMITED BLADE WORKS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/fate-stay-night.html": {
     "group": "FATE/STAY NIGHT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/fate-zero.html": {
     "group": "FATE/ZERO",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/kimi-ni-todoke-from-me-to-you.html": {
     "group": "FROM ME TO YOU: KIMI NI TODOKE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/nana.html": {
     "group": "NANA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 41,
     "start_episode": 1
   },
   "/diziler/love-to-hate-you.html": {
     "group": "LOVE TO HATE YOU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/monster.html": {
     "group": "MONSTER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 73,
     "start_episode": 1
   },
   "/diziler/extinct-or-alive.html": {
     "group": "EXTINCT OR ALIVE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/star-wars-resistance.html": {
     "group": "STAR WARS: RESISTANCE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 19,
     "start_episode": 1
   },
   "/diziler/betrayed.html": {
@@ -4699,122 +4699,122 @@
   },
   "/diziler/the-owl-house.html": {
     "group": "THE OWL HOUSE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/a-crime-to-remember.html": {
     "group": "A CRIME TO REMEMBER",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/dear-edward.html": {
     "group": "DEAR EDWARD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-perfect-murder.html": {
     "group": "THE PERFECT MURDER",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/dino-hunters.html": {
     "group": "DINO HUNTERS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/secrets-of-the-underground.html": {
     "group": "SECRETS OF THE UNDERGROUND",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/invisible-killers.html": {
     "group": "INVISIBLE KILLERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/diabolical.html": {
     "group": "DIABOLICAL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/fated-to-love-you.html": {
     "group": "YOU ARE MY DESTINY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/when-the-weather-is-fine.html": {
     "group": "WHEN THE WEATHER IS FINE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/doctors.html": {
     "group": "DOCTORS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/cunk-on-earth.html": {
     "group": "CUNK ON EARTH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/tempted-the-great-seducer.html": {
     "group": "TEMPTED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/world-s-toughest-race-eco-challenge-fiji.html": {
     "group": "WORLD’S TOUGHEST RACE: ECO-CHALLENGE FIJI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/mr-inbetween.html": {
     "group": "MR INBETWEEN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/the-little-mermaid.html": {
     "group": "THE LITTLE MERMAID",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/medici.html": {
     "group": "MEDICI",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-snow-girl.html": {
     "group": "THE SNOW GIRL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/one-dollar-lawyer.html": {
     "group": "ONE DOLLAR LAWYER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/extraordinary.html": {
     "group": "EXTRAORDINARY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/shrinking.html": {
@@ -4826,817 +4826,817 @@
   "/diziler/lockwood-and-co.html": {
     "group": "LOCKWOOD & CO.",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/bring-it-on-ghost.html": {
     "group": "BRING IT ON, GHOST",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/wolf-pack.html": {
     "group": "WOLF PACK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/bluelock.html": {
     "group": "BLUE LOCK",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/brothers-and-sisters.html": {
     "group": "BROTHERS AND SISTERS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/abyss.html": {
     "group": "ABYSS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/just-between-lovers-rain-or-shine.html": {
     "group": "RAIN OR SHINE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/love-in-the-moonlight.html": {
     "group": "LOVE IN THE MOONLIGHT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/my-shy-boss-introverted.html": {
     "group": "MY SHY BOSS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/scandal.html": {
     "group": "SCANDAL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/a-friend-of-the-family.html": {
     "group": "A FRIEND OF THE FAMILY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/that-90s-show.html": {
     "group": "THAT '90S SHOW",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/junji-ito-maniac-japanese-tales-of-the-macabre.html": {
     "group": "JUNJI ITO MANIAC: JAPANESE TALES OF THE MACABRE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/school-2017.html": {
     "group": "SCHOOL 2017 2017",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/who-are-you-school-2015.html": {
     "group": "WHO ARE YOU: SCHOOL 2015 2015",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/school-2013.html": {
     "group": "SCHOOL 2013 2013",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/koala-man.html": {
     "group": "KOALA MAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/come-and-hug-me.html": {
     "group": "COME AND HUG ME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/golden-kamuy.html": {
     "group": "GOLDEN KAMUY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/black-rock-shooter-dawn-fall.html": {
     "group": "BLACK ROCK SHOOTER: DAWN FALL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/summer-time-rendering.html": {
     "group": "SUMMER TIME RENDERING",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/diziler/island.html": {
     "group": "ISLAND",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/hyde-jekyll-me.html": {
     "group": "HYDE, JEKYLL, ME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/gargoyles.html": {
     "group": "GARGOYLES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/let-the-right-one-in.html": {
     "group": "LET THE RIGHT ONE IN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/bungo-stray-dogs.html": {
     "group": "BUNGOU STRAY DOGS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/diziler/station-19.html": {
     "group": "STATION 19",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 7,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/he-is-psychometric.html": {
     "group": "HE IS PSYCHOMETRIC",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/welcome-to-chippendales.html": {
     "group": "WELCOME TO CHIPPENDALES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-rig.html": {
     "group": "THE RIG",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/sweet-home.html": {
     "group": "SWEET HOME",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/copenhagen-cowboy.html": {
     "group": "COPENHAGEN COWBOY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/shooting-stars.html": {
     "group": "SHOOTING STARS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/according-to-jim.html": {
     "group": "ACCORDING TO JIM",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/king-of-the-hill.html": {
     "group": "KING OF THE HILL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 14,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/kaleidoscope.html": {
     "group": "KALEIDOSCOPE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/cold-case.html": {
     "group": "COLD CASE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/vampire-academy.html": {
     "group": "VAMPIRE ACADEMY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/la-brea.html": {
     "group": "LA BREA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-kingdom.html": {
     "group": "THE KINGDOM",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/star-wars-ewoks.html": {
     "group": "STAR WARS: EWOKS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/star-wars-droids.html": {
     "group": "STAR WARS: DROIDS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/the-glory.html": {
     "group": "THE GLORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/last-man-standing.html": {
     "group": "LAST MAN STANDING",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 9,
+    "last_episode": 21,
     "start_episode": 1
   },
   "/diziler/welcome-to-wrexham.html": {
     "group": "WELCOME TO WREXHAM",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/treason.html": {
     "group": "TREASON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/the-witcher-blood-origin.html": {
     "group": "THE WITCHER: BLOOD ORIGIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-fabulous.html": {
     "group": "THE FABULOUS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-resident.html": {
     "group": "THE RESIDENT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-bad-guy.html": {
     "group": "THE BAD GUY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/ugly-betty.html": {
     "group": "UGLY BETTY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/revenge-of-others.html": {
     "group": "REVENGE OF OTHERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/little-women.html": {
     "group": "LITTLE WOMEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/reasonable-doubt.html": {
     "group": "REASONABLE DOUBT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/black-ish.html": {
     "group": "BLACK-ISH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/the-recruit.html": {
     "group": "THE RECRUIT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/sonic-prime.html": {
     "group": "SONIC PRIME",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/maggie.html": {
     "group": "MAGGIE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/national-treasure-edge-of-history.html": {
     "group": "NATIONAL TREASURE: EDGE OF HISTORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/willow.html": {
     "group": "WILLOW",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-midwich-cuckoos.html": {
     "group": "THE MIDWICH CUCKOOS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/chicago-fire.html": {
     "group": "CHICAGO FIRE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 10,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/altair-a-record-of-battles.html": {
     "group": "ALTAIR: A RECORD OF BATTLES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/dragon-age-absolution.html": {
     "group": "DRAGON AGE: ABSOLUTION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/mixed-ish.html": {
     "group": "MIXED-ISH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/zootopia.html": {
     "group": "ZOOTOPIA+",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/legacy-the-true-story-of-the-la-lakers.html": {
     "group": "LEGACY: THE TRUE STORY OF THE LA LAKERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-outsider.html": {
     "group": "THE OUTSIDER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-patient.html": {
     "group": "THE PATIENT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/hawaii-five-0.html": {
     "group": "HAWAII FIVE-0",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/diziler/limitless-with-chris-hemsworth.html": {
     "group": "LIMITLESS WITH CHRIS HEMSWORTH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/sicak-kafa-izle.html": {
     "group": "SICAK KAFA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/rapunzels-tangled-adventure.html": {
     "group": "RAPUNZEL'S TANGLED ADVENTURE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 21,
     "start_episode": 1
   },
   "/diziler/grown-ish.html": {
     "group": "GROWN-ISH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/little-demon.html": {
     "group": "LITTLE DEMON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-gloaming.html": {
     "group": "THE GLOAMING",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/wednesday.html": {
     "group": "WEDNESDAY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/echo-3.html": {
     "group": "ECHO 3",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/somebody.html": {
     "group": "SOMEBODY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/1899.html": {
     "group": "1899",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/overlord.html": {
     "group": "OVERLORD",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/love-life.html": {
     "group": "LOVE LIFE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/greys-anatomy.html": {
     "group": "GREY'S ANATOMY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 20,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/reservation-dogs.html": {
     "group": "RESERVATION DOGS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-bastard-son-and-the-devil-himself.html": {
     "group": "THE BASTARD SON & THE DEVIL HIMSELF",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/big-shot.html": {
     "group": "BIG SHOT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/deep-state.html": {
     "group": "DEEP STATE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/reboot.html": {
     "group": "REBOOT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/pistol.html": {
     "group": "PISTOL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/blockbuster.html": {
     "group": "BLOCKBUSTER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/inside-man.html": {
     "group": "INSIDE MAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/deadwind.html": {
     "group": "DEADWIND",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/evil.html": {
     "group": "EVIL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/daniel-spellbound.html": {
     "group": "DANIEL SPELLBOUND",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-devils-hour.html": {
     "group": "THE DEVIL'S HOUR",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/romantic-killer.html": {
     "group": "ROMANTIC KILLER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/from-scratch.html": {
     "group": "FROM SCRATCH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/oni-thunder-gods-tale.html": {
     "group": "ONI: THUNDER GOD'S TALE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/star-wars-tales-of-the-jedi.html": {
     "group": "STAR WARS: TALES OF THE JEDI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/blood-and-treasure.html": {
     "group": "BLOOD & TREASURE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/guillermo-del-toros-cabinet-of-curiosities.html": {
     "group": "GUILLERMO DEL TORO'S CABINET OF CURIOSITIES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/epic-adventures-with-bertie-gregory.html": {
     "group": "EPIC ADVENTURES WITH BERTIE GREGORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/heartbreak-high.html": {
     "group": "HEARTBREAK HIGH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/unsolved.html": {
     "group": "UNSOLVED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/dream-high.html": {
     "group": "DREAM HIGH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/les-papillons-noirs.html": {
     "group": "LES PAPILLONS NOIRS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/mozart-in-the-jungle.html": {
     "group": "MOZART IN THE JUNGLE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/shantaram.html": {
     "group": "SHANTARAM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/stumptown.html": {
     "group": "STUMPTOWN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/exception.html": {
     "group": "EXCEPTION",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-watcher.html": {
     "group": "THE WATCHER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/the-wonderful-world-of-mickey-mouse.html": {
     "group": "THE WONDERFUL WORLD OF MICKEY MOUSE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/chainsaw-man.html": {
     "group": "CHAINSAW MAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/generation-kill.html": {
     "group": "GENERATION KILL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/fosse-verdon.html": {
     "group": "FOSSE/VERDON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/bleach-thousand-year-blood-war.html": {
     "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/my-secret-romance.html": {
     "group": "MY SECRET ROMANCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/the-bride-of-habaek.html": {
     "group": "THE BRIDE OF HABAEK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/romance-is-a-bonus-book.html": {
     "group": "ROMANCE IS A BONUS BOOK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/the-midnight-club.html": {
     "group": "THE MIDNIGHT CLUB",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/andropoz.html": {
     "group": "ANDROPOZ",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/through-the-darkness.html": {
     "group": "THROUGH THE DARKNESS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-empress.html": {
     "group": "THE EMPRESS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/lore.html": {
     "group": "LORE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/love-in-contract.html": {
     "group": "LOVE IN CONTRACT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/sherwood-2022.html": {
     "group": "SHERWOOD 2022",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/frozen-planet-ii.html": {
     "group": "FROZEN PLANET II",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/american-gigolo.html": {
     "group": "AMERICAN GIGOLO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/alchemy-of-souls.html": {
     "group": "ALCHEMY OF SOULS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-hardy-boys.html": {
     "group": "THE HARDY BOYS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/banana-fish.html": {
     "group": "BANANA FISH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/link-eat-love-kill.html": {
     "group": "LINK: EAT, LOVE, KILL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/welcome-to-earth.html": {
     "group": "WELCOME TO EARTH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/super-natural.html": {
     "group": "SUPER/NATURAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/cougar-town.html": {
     "group": "COUGAR TOWN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/dahmer-monster-the-jeffrey-dahmer-story.html": {
     "group": "DAHMER - MONSTER: THE JEFFREY DAHMER STORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-royals.html": {
@@ -5648,79 +5648,79 @@
   "/diziler/the-beatles-get-back.html": {
     "group": "THE BEATLES: GET BACK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/a-private-affair.html": {
     "group": "A PRIVATE AFFAIR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/brickleberry.html": {
     "group": "BRICKLEBERRY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/the-resort.html": {
     "group": "THE RESORT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-king-of-pigs.html": {
     "group": "THE KING OF PIGS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-cleveland-show.html": {
     "group": "THE CLEVELAND SHOW",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 23,
     "start_episode": 1
   },
   "/diziler/tales-of-the-walking-dead.html": {
     "group": "TALES OF THE WALKING DEAD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/a-teacher.html": {
     "group": "A TEACHER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/trust.html": {
     "group": "TRUST",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/terim-izle.html": {
     "group": "TERIM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/cyberpunk-edgerunners.html": {
     "group": "CYBERPUNK: EDGERUNNERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/narco-saints.html": {
     "group": "NARCO-SAINTS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/wedding-season.html": {
     "group": "WEDDING SEASON",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/tell-me-lies.html": {
@@ -5732,673 +5732,673 @@
   "/diziler/cars-on-the-road.html": {
     "group": "CARS ON THE ROAD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/yumis-cells.html": {
     "group": "YUMI'S CELLS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/the-rehearsal.html": {
     "group": "THE REHEARSAL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/big-mouth-kore.html": {
     "group": "BIG MOUTH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/devil-in-ohio.html": {
     "group": "DEVIL IN OHIO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/military-prosecutor-doberman.html": {
     "group": "MILITARY PROSECUTOR DOBERMAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/desperate-housewives.html": {
     "group": "DESPERATE HOUSEWIVES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 23,
     "start_episode": 1
   },
   "/diziler/if-you-wish-upon-me.html": {
     "group": "IF YOU WISH UPON ME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/spider-woman.html": {
     "group": "SPIDER-WOMAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/iron-man-1994.html": {
     "group": "IRON MAN 1994",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/mike-izle.html": {
     "group": "MIKE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/star-vs-the-forces-of-evil.html": {
     "group": "STAR VS. THE FORCES OF EVIL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 21,
     "start_episode": 1
   },
   "/diziler/frontier.html": {
     "group": "FRONTIER",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/partner-track.html": {
     "group": "PARTNER TRACK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/arthdal-chronicles.html": {
     "group": "ARTHDAL CHRONICLES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/lost-ollie.html": {
     "group": "LOST OLLIE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-fear-index.html": {
     "group": "THE FEAR INDEX",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/dug-days.html": {
     "group": "DUG DAYS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/bad-sisters.html": {
     "group": "BAD SISTERS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/kleo.html": {
     "group": "KLEO",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-girl-in-the-mirror.html": {
     "group": "THE GIRL IN THE MIRROR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/echoes.html": {
     "group": "ECHOES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/why-didnt-they-ask-evans.html": {
     "group": "WHY DIDN'T THEY ASK EVANS?",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/wu-tang-an-american-saga.html": {
     "group": "WU-TANG: AN AMERICAN SAGA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/tekken-bloodline.html": {
     "group": "TEKKEN: BLOODLINE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/she-hulk-attorney-at-law-izle.html": {
     "group": "SHE-HULK: ATTORNEY AT LAW",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/extraordinary-attorney-woo.html": {
     "group": "EXTRAORDINARY ATTORNEY WOO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/becoming-elizabeth.html": {
     "group": "BECOMING ELIZABETH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/this-fool.html": {
     "group": "THIS FOOL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-big-leap.html": {
     "group": "THE BIG LEAP",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/diziler/the-first-lady.html": {
     "group": "THE FIRST LADY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-girl-from-plainville.html": {
     "group": "THE GIRL FROM PLAINVILLE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/loot.html": {
     "group": "LOOT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/monsters-at-work.html": {
     "group": "MONSTERS AT WORK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-lazarus-project.html": {
     "group": "THE LAZARUS PROJECT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/turner-and-hooch.html": {
     "group": "TURNER & HOOCH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/a-model-family.html": {
     "group": "A MODEL FAMILY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/five-days-at-memorial.html": {
     "group": "FIVE DAYS AT MEMORIAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-man-who-fell-to-earth.html": {
     "group": "THE MAN WHO FELL TO EARTH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/rescue-me.html": {
     "group": "RESCUE ME",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 7,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/i-am-groot.html": {
     "group": "I AM GROOT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/zerozerozero.html": {
     "group": "ZEROZEROZERO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/terriers.html": {
     "group": "TERRIERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/super-giant-robot-brothers.html": {
     "group": "SUPER GIANT ROBOT BROTHERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/greenleaf.html": {
     "group": "GREENLEAF",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-sandman.html": {
     "group": "THE SANDMAN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/kakegurui-twin.html": {
     "group": "KAKEGURUI TWIN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/timeless.html": {
     "group": "TIMELESS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-war.html": {
     "group": "THE WAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/santa-evita.html": {
     "group": "SANTA EVITA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/spy-city.html": {
     "group": "SPY CITY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/paper-girls.html": {
     "group": "PAPER GIRLS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/surface.html": {
     "group": "SURFACE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/candy.html": {
     "group": "CANDY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/angry-mom.html": {
     "group": "ANGRY MOM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/keep-breathing.html": {
     "group": "KEEP BREATHING",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/police-university.html": {
     "group": "POLICE UNIVERSITY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/backstreet-rookie.html": {
     "group": "BACKSTREET ROOKIE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/our-blues.html": {
     "group": "OUR BLUES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/dali-and-the-cocky-prince.html": {
     "group": "DALI AND THE COCKY PRINCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/dark-winds.html": {
     "group": "DARK WINDS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/high-school-musical-the-musical-the-series.html": {
     "group": "HIGH SCHOOL MUSICAL: THE MUSICAL - THE SERIES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/dirty-money.html": {
     "group": "DIRTY MONEY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/black-dog.html": {
     "group": "BLACK DOG",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/salvation.html": {
     "group": "SALVATION",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/sell-your-haunted-house.html": {
     "group": "SELL YOUR HAUNTED HOUSE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/bitten.html": {
     "group": "BITTEN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/she-would-never-know.html": {
     "group": "SHE WOULD NEVER KNOW",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/knightfall.html": {
     "group": "KNIGHTFALL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/under-the-banner-of-heaven.html": {
     "group": "UNDER THE BANNER OF HEAVEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/alba.html": {
     "group": "ALBA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/remarriage-and-desires.html": {
     "group": "REMARRIAGE & DESIRES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/farzar.html": {
     "group": "FARZAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/kung-fu-panda-the-dragon-knight.html": {
     "group": "KUNG FU PANDA: THE DRAGON KNIGHT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 19,
     "start_episode": 1
   },
   "/diziler/resident-evil-biohazard.html": {
     "group": "RESIDENT EVIL: BIOHAZARD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-offer.html": {
     "group": "THE OFFER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/d-b-cooper-where-are-you.html": {
     "group": "D.B. COOPER: WHERE ARE YOU?!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/king-of-stonks.html": {
     "group": "KING OF STONKS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/classroom-of-the-elite.html": {
     "group": "CLASSROOM OF THE ELITE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/made-in-abyss.html": {
     "group": "MADE IN ABYSS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-longest-night.html": {
     "group": "THE LONGEST NIGHT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/boo-bitch.html": {
     "group": "BOO, BITCH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/black-bird.html": {
     "group": "BLACK BIRD",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/lilo-and-stitch-the-series.html": {
     "group": "LILO & STITCH: THE SERIES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/kim-possible.html": {
     "group": "KIM POSSIBLE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/kokoro-connect.html": {
     "group": "KOKORO CONNECT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 17,
     "start_episode": 1
   },
   "/diziler/big-hero-6-the-series.html": {
     "group": "BIG HERO 6: THE SERIES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/chloe.html": {
     "group": "CHLOE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/bastard-heavy-metal-dark-fantasy-.html": {
     "group": "BASTARD!! -HEAVY METAL, DARK FANTASY-",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 15,
     "start_episode": 1
   },
   "/diziler/baymax.html": {
     "group": "BAYMAX!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/hit-monkey.html": {
     "group": "HIT-MONKEY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/dirty-sexy-money.html": {
     "group": "DIRTY SEXY MONEY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/the-penthouse.html": {
     "group": "THE PENTHOUSE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/the-great-north.html": {
     "group": "THE GREAT NORTH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/man-vs-bee.html": {
     "group": "MAN VS. BEE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/pokemon-black-and-white.html": {
     "group": "POKEMON: BLACK AND WHITE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 45,
     "start_episode": 1
   },
   "/diziler/pokemon-diamond-and-pearl.html": {
     "group": "POKEMON: DIAMOND AND PEARL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 34,
     "start_episode": 1
   },
   "/diziler/pokemon-advanced-generation.html": {
     "group": "POKEMON: ADVANCED GENERATION",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 47,
     "start_episode": 1
   },
   "/diziler/it-was-always-me.html": {
     "group": "IT WAS ALWAYS ME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/you-dont-know-me.html": {
     "group": "YOU DON'T KNOW ME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-summer-i-turned-pretty-izle.html": {
     "group": "THE SUMMER I TURNED PRETTY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/mezarlik.html": {
     "group": "MEZARLIK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/spriggan.html": {
     "group": "SPRIGGAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/american-dad.html": {
     "group": "AMERICAN DAD!",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 21,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/seal-team.html": {
     "group": "SEAL TEAM",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/first-kill.html": {
     "group": "FIRST KILL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/avengers-assemble.html": {
     "group": "AVENGERS ASSEMBLE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 23,
     "start_episode": 1
   },
   "/diziler/billy-the-kid.html": {
     "group": "BILLY THE KID",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/our-flag-means-death.html": {
     "group": "OUR FLAG MEANS DEATH",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-tenant-of-wildfell-hall.html": {
     "group": "THE TENANT OF WILDFELL HALL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/my-liberation-notes.html": {
     "group": "MY LIBERATION DIARY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/why-her.html": {
     "group": "WHY HER?",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/eve.html": {
@@ -6409,260 +6409,260 @@
   },
   "/diziler/the-wilds.html": {
     "group": "THE WILDS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/phineas-and-ferb.html": {
     "group": "PHINEAS AND FERB",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/guardians-of-the-galaxy.html": {
     "group": "GUARDIANS OF THE GALAXY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 26,
     "start_episode": 1
   },
   "/diziler/ms-marvel.html": {
     "group": "MS. MARVEL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/chicago-pd.html": {
     "group": "CHICAGO P.D.",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 10,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/seraph-of-the-end.html": {
     "group": "SERAPH OF THE END",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/ashes-to-ashes.html": {
     "group": "ASHES TO ASHES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/welcome-to-waikiki.html": {
     "group": "WELCOME TO WAIKIKI",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/prehistoric-planet.html": {
     "group": "PREHISTORIC PLANET",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/bleach.html": {
     "group": "BLEACH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 366,
     "start_episode": 1
   },
   "/diziler/slam-dunk.html": {
     "group": "SLAM DUNK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 101,
     "start_episode": 1
   },
   "/diziler/night-sky.html": {
     "group": "NIGHT SKY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/life-after-life.html": {
     "group": "LIFE AFTER LIFE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/servant-of-the-people.html": {
     "group": "SERVANT OF THE PEOPLE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/the-village.html": {
     "group": "THE VILLAGE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/uncontrollably-fond.html": {
     "group": "UNCONTROLLABLY FOND",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/great-teacher-onizuka.html": {
     "group": "GREAT TEACHER ONIZUKA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 43,
     "start_episode": 1
   },
   "/diziler/soupcons-the-staircase.html": {
     "group": "THE STAIRCASE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/welcome-to-eden.html": {
     "group": "WELCOME TO EDEN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/heartstrings-you-ve-fallen-for-me.html": {
     "group": "YOU'VE FALLEN FOR ME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 15,
     "start_episode": 1
   },
   "/diziler/workin-moms.html": {
     "group": "WORKIN' MOMS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 7,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/star-trek-strange-new-worlds.html": {
     "group": "STAR TREK: STRANGE NEW WORLDS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/forecasting-love-and-weather.html": {
     "group": "FORECASTING LOVE AND WEATHER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/the-mating-game.html": {
     "group": "THE MATING GAME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/the-green-planet.html": {
     "group": "THE GREEN PLANET",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/exile.html": {
     "group": "EXILE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/eden-untamed-planet.html": {
     "group": "EDEN: UNTAMED PLANET",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/thirty-nine.html": {
     "group": "THIRTY-NINE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/empress-ki.html": {
     "group": "EMPRESS KI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 51,
     "start_episode": 1
   },
   "/diziler/bosch-legacy.html": {
     "group": "BOSCH: LEGACY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/age-of-youth-hello-my-twenties.html": {
     "group": "HELLO MY TWENTIES!",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/diziler/meltdown-three-mile-island.html": {
     "group": "MELTDOWN: THREE MILE ISLAND",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-staircase.html": {
     "group": "THE STAIRCASE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-essex-serpent.html": {
     "group": "THE ESSEX SERPENT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/vampire-in-the-garden.html": {
     "group": "VAMPIRE IN THE GARDEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/the-lincoln-lawyer.html": {
     "group": "THE LINCOLN LAWYER",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-sound-of-magic.html": {
     "group": "THE SOUND OF MAGIC",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/clark.html": {
     "group": "CLARK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-pentaverate.html": {
     "group": "THE PENTAVERATE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/ersan-kuneri-.html": {
     "group": "ERŞAN KUNERI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/la-casa-de-papel-kore.html": {
     "group": "LA CASA DE PAPEL: KORE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/the-hour.html": {
     "group": "THE HOUR",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-crimson-petal-and-the-white.html": {
     "group": "THE CRIMSON PETAL AND THE WHITE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/ghosts.html": {
@@ -6674,631 +6674,631 @@
   "/diziler/100-days-my-prince.html": {
     "group": "100 DAYS MY PRINCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/shining-girls.html": {
     "group": "SHINING GIRLS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/landscapers.html": {
     "group": "LANDSCAPERS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/station-eleven.html": {
     "group": "STATION ELEVEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/samurai-rabbit-the-usagi-chronicles.html": {
     "group": "SAMURAI RABBIT: THE USAGI CHRONICLES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/barry.html": {
     "group": "BARRY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/palpito.html": {
     "group": "PALPITO",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/life-on-mars-kore.html": {
     "group": "LIFE ON MARS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/tomorrow.html": {
     "group": "TOMORROW",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/ice-age-scrat-tales.html": {
     "group": "ICE AGE: SCRAT TALES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/again-my-life.html": {
     "group": "AGAIN MY LIFE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/abbott-elementary.html": {
     "group": "ABBOTT ELEMENTARY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 22,
     "start_episode": 1
   },
   "/diziler/hold-tight.html": {
     "group": "HOLD TIGHT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/private-practice.html": {
     "group": "PRIVATE PRACTICE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/big.html": {
     "group": "BIG",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/kaguya-sama-love-is-war.html": {
     "group": "KAGUYA-SAMA: LOVE IS WAR",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/deadwater-fell.html": {
     "group": "DEADWATER FELL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/yakamoz-s-245.html": {
     "group": "YAKAMOZ S-245",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/fear-the-walking-dead-dead-in-the-water.html": {
     "group": "FEAR THE WALKING DEAD: DEAD IN THE WATER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/diziler/scream-queens.html": {
     "group": "SCREAM QUEENS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/dirt.html": {
     "group": "DIRT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/blue-exorcist.html": {
     "group": "BLUE EXORCIST",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/parallels.html": {
     "group": "PARALLELS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/lifes-too-short.html": {
     "group": "LIFE'S TOO SHORT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/roar.html": {
     "group": "ROAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/outer-range.html": {
     "group": "OUTER RANGE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/partners-in-crime.html": {
     "group": "PARTNERS IN CRIME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/anatomy-of-a-scandal.html": {
     "group": "ANATOMY OF A SCANDAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/playful-kiss.html": {
     "group": "PLAYFUL KISS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/tokyo-vice.html": {
     "group": "TOKYO VICE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/central-park.html": {
     "group": "CENTRAL PARK",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/the-ignorant-angels.html": {
     "group": "THE IGNORANT ANGELS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/our-great-national-parks.html": {
     "group": "OUR GREAT NATIONAL PARKS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/clarksons-farm.html": {
     "group": "CLARKSON'S FARM",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/hard-cell.html": {
     "group": "HARD CELL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/kalifat.html": {
     "group": "KALIFAT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/money-flower.html": {
     "group": "MONEY FLOWER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/l-a-s-finest.html": {
     "group": "L.A.'S FINEST",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/one-ordinary-day.html": {
     "group": "ONE ORDINARY DAY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/car-masters-rust-to-riches.html": {
     "group": "CAR MASTERS: RUST TO RICHES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/49-days.html": {
     "group": "49 DAYS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/spy-x-family.html": {
     "group": "SPY X FAMILY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/sym-bionic-titan.html": {
     "group": "SYM-BIONIC TITAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/faith-the-great-doctor.html": {
     "group": "FAITH: THE GREAT DOCTOR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/wolf-like-me.html": {
     "group": "WOLF LIKE ME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/hi-score-girl.html": {
     "group": "HI SCORE GIRL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/diziler/the-triangle.html": {
     "group": "THE TRIANGLE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/greatest-events-of-world-war-ii-in-colour.html": {
     "group": "GREATEST EVENTS OF WWII IN COLOUR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/defendant.html": {
     "group": "DEFENDANT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 18,
     "start_episode": 1
   },
   "/diziler/city-hunter.html": {
     "group": "CITY HUNTER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 20,
     "start_episode": 1
   },
   "/diziler/hellsing.html": {
     "group": "HELLSING",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/city-of-angels-city-of-death.html": {
     "group": "CITY OF ANGELS, CITY OF DEATH",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/the-last-bus.html": {
     "group": "THE LAST BUS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/slow-horses.html": {
     "group": "SLOW HORSES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/little-witch-academia.html": {
     "group": "LITTLE WITCH ACADEMIA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/diziler/hellsing-ultimate.html": {
     "group": "HELLSING ULTIMATE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/universe.html": {
     "group": "UNIVERSE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/black-lagoon-robertas-blood-trail.html": {
     "group": "BLACK LAGOON: ROBERTA'S BLOOD TRAIL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/black-lagoon.html": {
     "group": "BLACK LAGOON",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/uysallar.html": {
     "group": "UYSALLAR",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/gu-family-book.html": {
     "group": "GU FAMILY BOOK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/thermae-romae-novae.html": {
     "group": "THERMAE ROMAE NOVAE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/diziler/tiger-and-bunny.html": {
     "group": "TIGER & BUNNY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 25,
     "start_episode": 1
   },
   "/diziler/bulgasal-immortal-souls.html": {
     "group": "BULGASAL: IMMORTAL SOULS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/mob-psycho-100.html": {
     "group": "MOB PSYCHO 100",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/night-stalker-the-hunt-for-a-serial-killer.html": {
     "group": "NIGHT STALKER: THE HUNT FOR A SERIAL KILLER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/rookie-cops.html": {
     "group": "ROOKIE COPS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1
   },
   "/diziler/the-cursed.html": {
     "group": "THE CURSED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/grid.html": {
     "group": "GRID",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/soundtrack-1.html": {
     "group": "SOUNDTRACK #1",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/pachinko.html": {
     "group": "PACHINKO",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/ranking-of-kings.html": {
     "group": "RANKING OF KINGS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 23,
     "start_episode": 1
   },
   "/diziler/my-father-is-strange.html": {
     "group": "MY FATHER IS STRANGE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 52,
     "start_episode": 1
   },
   "/diziler/the-dropout.html": {
     "group": "THE DROPOUT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/wecrashed.html": {
     "group": "WECRASHED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/human-resources.html": {
     "group": "HUMAN RESOURCES",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/zetsuen-no-tempest.html": {
     "group": "BLAST OF TEMPEST",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/dmz.html": {
     "group": "DMZ",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/bad-vegan-fame-fraud-fugitives.html": {
     "group": "BAD VEGAN: FAME. FRAUD. FUGITIVES.",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/diziler/the-great-robbery-of-brazils-central-bank.html": {
     "group": "THE GREAT ROBBERY OF BRAZIL'S CENTRAL BANK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/ragdoll.html": {
     "group": "RAGDOLL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/obi-wan-kenobi.html": {
     "group": "OBI-WAN KENOBI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/atlanta.html": {
     "group": "ATLANTA",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/dollface.html": {
     "group": "DOLLFACE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/that-dirty-black-bag.html": {
     "group": "THAT DIRTY BLACK BAG",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-endgame.html": {
     "group": "THE ENDGAME",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/the-last-days-of-ptolemy-grey.html": {
     "group": "THE LAST DAYS OF PTOLEMY GREY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/kotaro-lives-alone.html": {
     "group": "KOTARO LIVES ALONE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/departure.html": {
     "group": "DEPARTURE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/business-proposal.html": {
     "group": "BUSINESS PROPOSAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/shining-inheritance.html": {
     "group": "SHINING INHERITANCE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 28,
     "start_episode": 1
   },
   "/diziler/wwii-in-color-road-to-victory.html": {
     "group": "WWII IN COLOR: ROAD TO VICTORY",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/worst-roommate-ever.html": {
     "group": "WORST ROOMMATE EVER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/diziler/pieces-of-her.html": {
     "group": "PIECES OF HER",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-guardians-of-justice.html": {
     "group": "THE GUARDIANS OF JUSTICE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/the-boys-presents-diabolical.html": {
     "group": "THE BOYS PRESENTS: DIABOLICAL",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-tourist.html": {
     "group": "THE TOURIST",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/great-migrations.html": {
     "group": "GREAT MIGRATIONS",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/sanditon.html": {
     "group": "SANDITON",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/back-to-15.html": {
     "group": "BACK TO 15",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/juvenile-justice.html": {
     "group": "JUVENILE JUSTICE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/diziler/megas-xlr.html": {
     "group": "MEGAS XLR",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/diziler/race-bubba-wallace.html": {
     "group": "RACE: BUBBA WALLACE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/diziler/one-of-us-is-lying.html": {
     "group": "ONE OF US IS LYING",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/smiling-friends.html": {
     "group": "SMILING FRIENDS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/diziler/the-amazing-world-of-gumball.html": {
