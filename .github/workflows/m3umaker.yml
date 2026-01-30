@@ -232,7 +232,7 @@ jobs:
           ( python private_py/series/dizipall/yenibolumler.py || true ) &
           ( python private_py/series/sezonlukdizi/yenibolumler.py || true ) &
           ( python private_py/series/yabancidiziler/yenibolumler.py || true ) &
-          ( python private_py/series/dizipal/yenibolumler.py || true ) &
+          # ( python private_py/series/dizipal/yenibolumler.py || true ) &
           wait
       
           echo "🔄 Batch 3 başlıyor (SezonlukDizi & AnimeHeaven & DiziLife & Tlc & Dmax)"
