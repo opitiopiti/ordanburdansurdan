@@ -1,4 +1,22 @@
 {
+  "/trigun-stargaze": {
+    "group": "TRIGUN STARGAZE",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/android-wa-keiken-ninzuu-ni-hairimasu-ka": {
+    "group": "ANDROID WA KEIKEN NINZUU NI HAIRIMASU KA??",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/ganglion": {
+    "group": "GANGLION",
+    "last_season": 1,
+    "last_episode": 14.0,
+    "start_episode": 1
+  },
   "/high-school-kimengumi-2026": {
     "group": "HIGH SCHOOL! KIMENGUMI (2026)",
     "last_season": 1,

@@ -1,4 +1,28 @@
 {
+  "/dizi/the-pitt": {
+    "group": "THE PITT",
+    "last_season": 2,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/ilk-ve-son-yerli": {
+    "group": "İLK VE SON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/niebo": {
+    "group": "HEAVEN",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1
+  },
+  "/dizi/the-beauty": {
+    "group": "THE BEAUTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/the-capture": {
     "group": "THE CAPTURE",
     "last_season": 1,
@@ -35,22 +59,10 @@
     "last_episode": 3,
     "start_episode": 1
   },
-  "/dizi/the-pitt": {
-    "group": "THE PITT",
-    "last_season": 2,
-    "last_episode": 1,
-    "start_episode": 1
-  },
   "/dizi/the-night-manager": {
     "group": "THE NIGHT MANAGER",
     "last_season": 2,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/niebo": {
-    "group": "HEAVEN",
-    "last_season": 1,
-    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/ghosts-2021": {
@@ -95,12 +107,6 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/the-beauty": {
-    "group": "THE BEAUTY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
   "/dizi/fight-night-the-million-dollar-heist": {
     "group": "FIGHT NIGHT: THE MILLION DOLLAR HEIST",
     "last_season": 1,
@@ -140,6 +146,12 @@
   "/dizi/when-calls-the-heart": {
     "group": "KALP ÇAĞRISI",
     "last_season": 13,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/dizi/the-rookie": {
+    "group": "THE ROOKIE",
+    "last_season": 8,
     "last_episode": 2,
     "start_episode": 1
   }
